@@ -1,0 +1,910 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<General key="att_ger_gothic_general" max="CAVALRY" script="general_unit_"></General>
+		<Knights key="fote_gothic_cavalry_melee_royal" max="CAVALRY" script="general_knights_unit_"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_nom_steppe_levy" max="LEVY" script="levy_spearmen_unit_"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen_east" max="LEVY" script="levy_infantry_unit_"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_brigands" max="LEVY" script="levy_ranged_unit_"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_east_swordsmen_retainers_got" max="INFANTRY" script="light_footmen_unit_"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_gothic_palatina_defectors" max="INFANTRY" script="armored_footmen_unit_"></MenAtArm>
+		<MenAtArm type="Pikemen" key="fote_german_romano_german_spearmen" max="INFANTRY" script="pikemen_unit_"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_gothic_archers" max="RANGED" script="bowmen_unit_"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="att_rom_elite_ballistarii" max="RANGED" script="crossbowmen_unit_"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="fote_gothic_cavalry_melee_retainers" max="CAVALRY" script="light_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_gothic_cavalry_melee_comitatus" max="CAVALRY" script="armored_horsemen_unit_"></MenAtArm>
+		
+		<MenAtArm type="Abudrar" key="att_des_desert_palatina_defectors" max="INFANTRY" script="abudrar_unit_"></MenAtArm>
+        <MenAtArm type="African Horse Archers" key="att_des_es_sanai" max="CAVALRY" script="african_horse_archers_unit_"></MenAtArm>
+		<MenAtArm type="African Pikemen" key="att_des_es_sons_of_the_invincible_mahrem" max="INFANTRY" script="african_pikemen_unit_"></MenAtArm>
+		<MenAtArm type="Bondí" key="att_nor_nordic_spearmen" max="INFANTRY" script="bondi_unit_"></MenAtArm>
+		<MenAtArm type="Bush Hunters" key="att_des_es_adana_marksmen" max="RANGED" script="bush_hunter_unit_"></MenAtArm>
+		<MenAtArm type="Camel Horse Archers" key="att_des_noble_arab_camelry" max="CAVALRY" script="camel_horse_archers_unit_"></MenAtArm>
+	    <MenAtArm type="Camel Riders" key="att_des_tuareg_camel_spearmen" max="CAVALRY" script="camel_rider_unit_"></MenAtArm>
+	    <MenAtArm type="Cataphracts" key="att_est_pushtighban_cataphracts" max="CAVALRY" script="cataphract_unit_"></MenAtArm>
+	    <MenAtArm type="Chakar" key="fote_cel_axemen_nobles_early" max="INFANTRY" script="chakar_unit_"></MenAtArm>
+	    <MenAtArm type="Churls" key="fote_nor_geoguth_spearmen" max="INFANTRY" script="churls_unit_"></MenAtArm>
+	    <MenAtArm type="Clibanarii" key="att_rom_equites_sagittarii" max="CAVALRY" script="clibanarii_unit_"></MenAtArm>
+	    <MenAtArm type="Comitatenses" key="att_rom_palatina" max="INFANTRY" script="comitatenses_unit_"></MenAtArm>
+	    <MenAtArm type="Cymbrogi" key="att_cel_cateran_brigade" max="INFANTRY" script="cymbrogi_unit_"></MenAtArm>
+	   	<MenAtArm type="Daylami" key="fote_est_dailamite_spears" max="INFANTRY" script="daylami_unit_"></MenAtArm>
+        <MenAtArm type="Guinean Uplanders" key="fote_axum_javelinmen_t2_abyssinian" max="RANGED" script="guinea_warrior_unit_"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="att_ger_sarmatian_cataphract_archers" max="CAVALRY" script="horse_archers_unit_"></MenAtArm>
+        <MenAtArm type="Horn Warriors" key="att_des_kushite_shotelai" max="RANGED" script="horn_warrior_unit_"></MenAtArm>
+		<MenAtArm type="Huscarls" key="att_nor_elite_nordic_warriors" max="INFANTRY" script="huscarl_unit_"></MenAtArm>
+		<MenAtArm type="Illyrian Pirates" key="att_ger_sarmatian_warband" max="INFANTRY" script="illyrian_pirates_"></MenAtArm>
+	    <MenAtArm type="Kamandaran" key="att_est_kurdish_archers" max="RANGED" script="kamandaran_unit_"></MenAtArm>	
+        <MenAtArm type="Khandayat" key="ave_hepht_sogd_warriors_chosen" max="INFANTRY" script="khandayat_unit_"></MenAtArm>
+	    <MenAtArm type="Konni" key="att_nom_nokkors" max="CAVALRY" script="desert_hussar_unit_"></MenAtArm>
+        <MenAtArm type="Legionaries" key="att_rom_numeroi" max="INFANTRY" script="legionaries_unit_"></MenAtArm>     
+		<MenAtArm type="Lenkas" key="ave_hepht_sogd_warriors_chosen" max="INFANTRY" script="garudas_unit_"></MenAtArm>
+        <MenAtArm type="Longbowmen" key="fote_nor_longbowmen" max="RANGED" script="longbowmen_unit_"></MenAtArm>
+	    <MenAtArm type="Metsänvartija" key="att_slav_noble_skirmishers" max="RANGED" script="metsanvartija_unit_"></MenAtArm>
+	    <MenAtArm type="Mountaineer" key="ave_hepht_sogd_warriors_chosen" max="INFANTRY" script="mountaineer_unit_"></MenAtArm>
+        <MenAtArm type="Mubarizun" key="att_des_es_noble_al_rahrain" max="INFANTRY" script="mubarizun_unit_"></MenAtArm>
+        <MenAtArm type="Nile Archers" key="att_des_es_adana_marksmen" max="RANGED" script="archers_of_the_nile_unit_"></MenAtArm>
+        <MenAtArm type="Onager" key="att_rom_onager_large" max="RANGED" script="onager_unit_"></MenAtArm>
+        <MenAtArm type="Palatinae" key="att_rom_numeroi" max="INFANTRY" script="palatinae_unit_"></MenAtArm>
+        <MenAtArm type="Sahara Horsemen" key="att_des_es_jamal_al_baltha" max="CAVALRY" script="hussar_unit_"></MenAtArm>
+		<MenAtArm type="Sahel Horsemen" key="att_des_garamantian_lancers" max="CAVALRY" script="sahel_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="Savran" key="att_est_zhayedan_immortal_cavalry" max="CAVALRY" script="savran_unit_"></MenAtArm> 
+		<MenAtArm type="Servile Soldiers" key="att_des_es_afar_raidmasters" max="INFANTRY" script="servile_soldiers_unit_"></MenAtArm>
+		<MenAtArm type="Siege towers" key="att_rom_numeroi" max="RANGED" script="siege_towers_unit_"></MenAtArm>
+		<MenAtArm type="Scorpio" key="att_rom_cheiroballistra" max="RANGED" script="scorpio_unit_"></MenAtArm>
+	    <MenAtArm type="Vigmen" key="att_nor_nordic_bows" max="RANGED" script="vigmen_unit_"></MenAtArm>     
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds" max="RANGED" script="war_dogs_unit_"></MenAtArm>
+		<MenAtArm type="War Elephant" key="att_est_indian_elephants" max="CAVALRY" script="war_elephant_unit_"></MenAtArm>
+      
+		<MenAtArm type="Retinue War Elephants" key="att_est_armoured_indian_elephants" max="CAVALRY" script="accolade_maa_elephantiers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="att_nom_hunnic_devil_archers" max="CAVALRY" script="accolade_maa_horse_archers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="att_des_es_armoured_himyarite_shotelai" max="CAVALRY" script="accolade_maa_camel_riders_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="att_ger_elite_germanic_archers" max="RANGED" script="accolade_maa_archers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="fote_gothic_cavalry_melee_comitatus" max="CAVALRY" script="accolade_maa_lancers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_gardingi_cavalry" max="CAVALRY" script="accolade_maa_outriders_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_ger_suebi_oath_takers" max="INFANTRY" script="accolade_maa_pikes_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors" max="RANGED" script="accolade_maa_skirmishers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_got" max="INFANTRY" script="accolade_maa_vanguard_unit_"></MenAtArm>
+
+	</Faction>
+	
+<Faction name="Rome">
+		<General key="att_rom_magister_militum_wre"></General>
+		<Knights key="att_rom_scholae_palatinae"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_rom_foederati_spears"></Levies>
+		<Levies type="Levy Infantry" key="fote_rom_levy_thugs"></Levies>
+		<Levies type="Levy Ranged" key="att_rom_levis_armaturae"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_rom_legio"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_rom_protectores_domestici"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_rom_comitatensis_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_rom_sagittarii"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="att_rom_elite_ballistarii"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_rom_scholae_gentiles"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_rom_hetaireia_guards"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="att_rom_palatina"></MenAtArm>
+		<MenAtArm type="Palatinae" key="att_rom_numeroi"></MenAtArm>
+        <MenAtArm type="Legionaries" key="att_rom_numeroi"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="att_ger_sarmatian_cataphract_archers"></MenAtArm>
+		<MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_rom_cheiroballistra"></MenAtArm>
+		<MenAtArm type="Onager" key="att_rom_onager_large"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="att_rom_excubitores_cavalry_guard"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_rom_armoured_sagittarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_rom_scholae_palatinae"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_rom_equites_sagittarii"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_rom_cornuti_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_rom_noble_foederati_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_rom_elite_palatina"></MenAtArm>
+	</Faction>
+
+<Faction name="Rome WRE">
+		<General key="att_rom_magister_militum_wre"></General>
+		<Knights key="att_rom_scholae_palatinae"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_rom_foederati_spears"></Levies>
+		<Levies type="Levy Infantry" key="fote_rom_levy_thugs"></Levies>
+		<Levies type="Levy Ranged" key="att_rom_levis_armaturae"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_rom_legio"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_rom_protectores_domestici"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_rom_comitatensis_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_rom_sagittarii"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="att_rom_elite_ballistarii"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_rom_scholae_gentiles"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_rom_hetaireia_guards"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="att_rom_palatina"></MenAtArm>
+		<MenAtArm type="Palatinae" key="att_rom_numeroi"></MenAtArm>
+        <MenAtArm type="Legionaries" key="att_rom_numeroi"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="att_rom_equites_sagittarii"></MenAtArm>
+		<MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_rom_cheiroballistra"></MenAtArm>
+		<MenAtArm type="Onager" key="att_rom_onager_large"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="att_rom_excubitores_cavalry_guard"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_rom_armoured_sagittarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_rom_scholae_palatinae"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_rom_equites_sagittarii"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_rom_cornuti_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_rom_noble_foederati_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_rom_elite_palatina"></MenAtArm>
+	</Faction>
+
+<Faction name="Rome EST">
+		<General key="att_rom_magister_militum"></General>
+		<Knights key="att_rom_scholae_palatinae"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_rom_foederati_spears"></Levies>
+		<Levies type="Levy Infantry" key="fote_rom_levy_thugs"></Levies>
+		<Levies type="Levy Ranged" key="att_rom_levis_armaturae"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_rom_legio"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_rom_protectores_domestici"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_rom_comitatensis_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_rom_sagittarii"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="att_rom_elite_ballistarii"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_rom_scholae_gentiles"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_rom_hetaireia_guards"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="att_rom_palatina"></MenAtArm>
+		<MenAtArm type="Palatinae" key="att_rom_numeroi"></MenAtArm>
+        <MenAtArm type="Legionaries" key="att_rom_numeroi"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="att_rom_equites_sagittarii"></MenAtArm>
+		<MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_rom_cheiroballistra"></MenAtArm>
+		<MenAtArm type="Onager" key="att_rom_onager_large"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="att_rom_excubitores_cavalry_guard"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="att_rom_armoured_sagittarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_rom_scholae_palatinae"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_rom_equites_sagittarii"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_rom_cornuti_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_rom_noble_foederati_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_rom_elite_palatina"></MenAtArm>
+	</Faction>
+
+
+<Faction name="Hun">
+		<General key="att_nom_hunnic_warlord"></General>
+		<Knights key="att_nom_hunnic_devil_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_nom_steppe_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_nom_steppe_tribespeople"></Levies>
+		<Levies type="Levy Ranged" key="fote_steppe_javelinmen_t1_levy"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_east_swordsmen_comitatus_got"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_nom_chosen_uar_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_nom_hunnic_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_nom_uar_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_nom_hunnic_lancers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_nom_first_wave_lancers"></MenAtArm>
+		<MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Horse Archers" key="att_nom_hunnic_devil_archers"></MenAtArm>
+                
+		<MenAtArm type="Retinue Archers" key="att_nom_steppe_shield_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_nom_first_wave_lancers"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_nom_noble_acatziri_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_ger_germanic_spear_masters"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband"></MenAtArm>
+	</Faction>
+
+<Faction name="White Hun">
+		<General key="ave_hepht_guardins_of_sun"></General>
+		<Knights key="ave_hepht_kidarite_elite_lancers"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_wh_xionite_spears"></Levies>
+		<Levies type="Levy Infantry" key="ave_hepht_sogd_warriors"></Levies>
+		<Levies type="Levy Ranged" key="ave_hepht_hindu_bowmen"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_wh_khingilas_khandas"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="ave_hepht_sogd_warriors_chosen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="ave_badakhshan_halberds"></MenAtArm>
+		<MenAtArm type="Bowmen" key="ave_hepht_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="ave_hepht_nobles"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="ave_hepht_cav_guard"></MenAtArm>
+		<MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Horse Archers" key="att_wh_spet_xyon_archers"></MenAtArm>
+		<MenAtArm type="Khandayat" key="ave_hepht_sogd_warriors_chosen"></MenAtArm>
+		<MenAtArm type="Lenkas" key="ave_hepht_sogd_warriors_chosen"></MenAtArm>
+		<MenAtArm type="Mountaineer" key="ave_hepht_sogd_warriors_chosen"></MenAtArm>
+                
+        <MenAtArm type="Retinue Archers" key="ave_hepht_archers_kushan"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="ave_hepht_cav_guard"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="ave_hepht_kidarite_guard"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="ave_hepht_hindu_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="ave_hepht_sogd_heavy_jav"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_wh_guardians_of_the_hindu_kush"></MenAtArm>
+	</Faction>
+
+<Faction name="Goth">
+		<General key="att_ger_gothic_general"></General>
+		<Knights key="fote_gothic_cavalry_melee_royal"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_nom_steppe_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen_east"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_brigands"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_east_swordsmen_retainers_got"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_gothic_palatina_defectors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="fote_german_romano_german_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_gothic_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="fote_gothic_cavalry_melee_retainers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_gothic_cavalry_melee_comitatus"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_elite_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="fote_gothic_cavalry_melee_comitatus"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_gardingi_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_ger_suebi_oath_takers"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_got"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Visigoths">
+		<General key="att_ger_gothic_general"></General>
+		<Knights key="fote_gothic_cavalry_melee_royal"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_germanic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen_east"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_east_swordsmen_retainers_got"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_protectores_defectors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_ger_germanic_spearmen_goths"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_gothic_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="fote_gothic_cavalry_melee_retainers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_gothic_cavalry_melee_comitatus"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_elite_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="fote_gothic_cavalry_melee_comitatus"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_gardingi_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_german_romano_german_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_got"></MenAtArm>
+	</Faction>
+
+<Faction name="Vandal">
+		<General key="att_ger_vandal_warlord"></General>
+		<Knights key="att_ger_chosen_vandal_raiders"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_germanic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen_east"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_brigands"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_east_swordsmen_retainers_van"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="fote_german_east_swordsmen_comitatus_van"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_ger_sarmatian_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_germanic_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_ger_vandal_raiders"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_ger_noble_alani_cavalry"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_ger_noble_alani_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_alan_alani_mounted_bows"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_ger_germanic_spear_masters_vandals"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_van"></MenAtArm>
+	</Faction>
+
+<Faction name="Burgonde">
+		<General key="att_ger_royal_burgundian_general"></General>
+		<Knights key="fote_burgundian_cavalry_melee_comitatus"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_germanic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen_east"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_scattershot_hurlers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_east_swordsmen_retainers_van"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_burgundian_elite_swordsmen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_ger_germanic_spear_masters_burgunds"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_germanic_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="fote_gothic_cavalry_melee_freemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_burgundian_cavalry_melee_retainers"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="fote_burgundian_cavalry_melee_retainers"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_germanic_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_ger_germanic_spear_masters_vandals"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_burgundian_guard_infantry"></MenAtArm>
+	</Faction>
+
+<Faction name="Franks">
+		<General key="att_ger_frankish_general"></General>
+		<Knights key="att_ger_antrustriones_cavalry_guard"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_germanic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_brigands"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_francisca_comitatus"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_royal_anstrutiones"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_ger_germanic_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_germanic_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_ger_frankish_lancers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_ger_sacra_francisca"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_ger_sacra_francisca"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_taifali_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_german_west_spearmen_royal_lb"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_frankish_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_francisca_heerbann"></MenAtArm>
+	</Faction>
+
+<Faction name="Sassanids">
+		<General key="att_est_savaran_sardar"></General>
+		<Knights key="att_est_gyan_avspar"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_est_persian_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_est_persian_brigade"></Levies>
+		<Levies type="Levy Ranged" key="att_est_persian_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_est_naft_throwers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_est_dailamite_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_est_immortals"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_est_persian_bowmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_est_persian_mounted_warriors"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_est_armenian_cataphracts"></MenAtArm>
+		<MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+		<MenAtArm type="Onager" key="att_est_onager_large"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+                
+        <MenAtArm type="Kamandaran" key="att_est_kurdish_archers"></MenAtArm>
+		<MenAtArm type="Savran" key="att_est_zhayedan_immortal_cavalry"></MenAtArm>
+        <MenAtArm type="Cataphracts" key="att_est_pushtighban_cataphracts"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="fote_est_varhranighan_khvadhay"></MenAtArm>
+    
+		<MenAtArm type="Retinue Archers" key="att_est_royal_persian_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="fote_est_armenian_cataphracts"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="fote_est_varhranighan_khvadhay"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_est_chosen_immortals"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_est_kurdish_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_est_elite_dailamite_infantry"></MenAtArm>
+	</Faction>
+
+<Faction name="Alamans">
+		<General key="att_ger_chnodomar's_entourage"></General>
+		<Knights key="att_ger_noble_germanic_horsemen_ala"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_germanic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_brigands"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_ger_jewelled_nobles"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_bejewelled_retinue_infantry"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_ger_germanic_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_germanic_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_ger_germanic_horsemen_alamanns"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_ger_noble_germanic_horsemen_ala"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_ger_germanic_horsemen_alamanns"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_chnodomar's_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_german_west_spearmen_elite_ala"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_elite_alamannic_scavengers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_ala"></MenAtArm>
+	</Faction>
+
+<Faction name="Suebians">
+		<General key="att_ger_chnodomar's_entourage_suebi"></General>
+		<Knights key="att_ger_royal_suebi_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_horse_slayers"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_brigands"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_ger_germanic_nobles_sue"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_suebi_champions"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_ger_suebi_oath_takers"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_germanic_crossbowmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_ger_germanic_horsemen_suebes"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_ger_noble_germanic_horsemen_ala"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_ger_noble_germanic_horsemen_ala"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_chnodomar's_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_ger_gothic_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_elite_alamannic_scavengers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband "></MenAtArm>
+	</Faction>
+
+<Faction name="Alans">
+		<General key="att_alan_alani_nobles_general"></General>
+		<Knights key="att_ger_elite_sarmatian_cataphracts"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_germanic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen_east"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_brigands"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_german_east_swordsmen_retainers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_sarmatian_warband"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_ger_sarmatian_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_alan_alani_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_alan_alani_chosen_raiders"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_ger_sarmatian_cataphracts"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Horse Archers" key="att_ger_sarmatian_cataphract_archers"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_germanic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_ger_sarmatian_cataphracts"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_sarmatian_cataphract_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_ger_alani_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_ala"></MenAtArm>
+	</Faction>
+
+<Faction name="Saxons">
+		<General key="att_nor_chieftain_with_gedriht"></General>
+		<Knights key="att_nor_saxon_lancers"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_nor_thrall_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen_east"></Levies>
+		<Levies type="Levy Ranged" key="att_nor_nordic_band"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_nor_elite_saxon_warriors"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_nor_gesithas"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_nor_elite_duguth_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_nor_nordic_bows"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_nor_saxon_mounted_warband"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_nor_saxon_lancers"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+               
+        <MenAtArm type="Churls" key="fote_nor_geoguth_spearmen"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_ger_germanic_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_nor_saxon_lancers"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_germanic_mounted_brigands"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_nor_elite_gedriht_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_nor_elite_saxon_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="fote_nor_saxon_axemen_t3"></MenAtArm>
+	</Faction>
+
+<Faction name="Langobards">
+		<General key="att_ger_redoubtable_chieftain"></General>
+		<Knights key="att_ger_royal_lancers"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_ger_germanic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_ger_freemen"></Levies>
+		<Levies type="Levy Ranged" key="att_ger_germanic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_ger_langobard_clubmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_ger_godan's_chosen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="fote_german_west_spearmen_elite_lb"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_ger_germanic_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_ger_germanic_horsemen_langobards"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_ger_noble_germanic_horsemen_lb"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="fote_gothic_elite_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_ger_noble_germanic_horsemen_lb"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_ger_germanic_night_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_german_west_spearmen_royal_lb"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_ger_barbed_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_lb"></MenAtArm>
+	</Faction>
+
+<Faction name="Danes">
+		<General key="att_nor_viking_captain"></General>
+		<Knights key="att_nor_nordic_horse_raiders"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_nor_thrall_spears"></Levies>
+		<Levies type="Levy Infantry" key="att_nor_nordic_band"></Levies>
+		<Levies type="Levy Ranged" key="att_nor_nordic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_nor_hirdmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_nor_chosen_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_nor_elite_nordic_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="fote_nor_longbowmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_nor_nordic_horse_raiders"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_nor_nordic_horse_raiders"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_nor_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+                
+        <MenAtArm type="Huscarls" key="att_nor_huscarls"></MenAtArm>
+		<MenAtArm type="Varangian Veterans" key="fote_nor_axemen_t4_vareg"></MenAtArm>
+        <MenAtArm type="Bondí" key="att_nor_nordic_spearmen"></MenAtArm>
+        <MenAtArm type="Vigmen" key="att_nor_nordic_bows"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="fote_nor_longbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_nor_nordic_horse_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_nor_nordic_mounted_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_nor_nordic_spear_masters"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_nor_nordic_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_nor_royal_huscarls"></MenAtArm>
+	</Faction>
+
+<Faction name="Geats">
+		<General key="fote_nor_bodyguard_cavalry_geats"></General>
+		<Knights key="att_nor_heroic_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_nor_thrall_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="att_nor_nordic_band"></Levies>
+		<Levies type="Levy Ranged" key="att_nor_nordic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_nor_hirdmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_nor_chosen_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_nor_nordic_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_nor_nordic_bows"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_nor_viking_raider_cavalry"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_nor_nordic_horse_lords"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_nor_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="fote_nor_longbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_nor_nordic_horse_lords"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_nor_nordic_mounted_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_nor_nordic_spear_masters"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_nor_nordic_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="fote_nor_axemen_t4_vareg"></MenAtArm>
+	</Faction>
+
+<Faction name="Jutes">
+		<General key="fote_nor_bodyguard_cavalry_geats"></General>
+		<Knights key="att_nor_heroic_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_nor_thrall_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="att_nor_nordic_band"></Levies>
+		<Levies type="Levy Ranged" key="att_nor_nordic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_nor_hirdmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_nor_chosen_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_nor_nordic_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_nor_nordic_bows"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_nor_viking_raider_cavalry"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_nor_nordic_horse_lords"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_est_pushtighban_cataphracts"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Churls" key="fote_nor_geoguth_spearmen"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="fote_nor_longbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_nor_nordic_horse_lords"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_nor_nordic_mounted_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_nor_nordic_spear_masters"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_nor_nordic_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_nor_royal_huscarls"></MenAtArm>
+	</Faction>
+
+<Faction name="Ebdanians">
+		<General key="att_cel_followers_of_morrigan"></General>
+		<Knights key="att_cel_mormaer_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_cel_celtic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_cel_celtic_band"></Levies>
+		<Levies type="Levy Ranged" key="att_cel_celtic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_cel_celtic_warband"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_cel_celtic_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_cel_celtic_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_cel_celtic_bows"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="fote_cel_cavalry_noble_late"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_cel_mormaer_cavalry"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_nor_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="att_cel_celtic_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_cel_mormaer_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_cel_mounted_spear_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_cel_noble_spearmen_late"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_cel_tanist"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="fote_cel_axemen_nobles_late"></MenAtArm>
+	</Faction>
+
+<Faction name="Picts">
+		<General key="att_cel_kings_fianna"></General>
+		<Knights key="att_cel_pictish_swordsmen"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_cel_celtic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_cel_celtic_band"></Levies>
+		<Levies type="Levy Ranged" key="att_cel_celtic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_cel_celtic_warband"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_cel_celtic_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="fote_cel_pikemen_pictish"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_cel_celtic_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_cel_mounted_spear_raiders"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_cel_round_shield_raiders"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="att_cel_celtic_crossbows"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_cel_chosen_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_cel_chosen_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_cel_wolfhound_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="fote_cel_javelinmen_pictish"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="fote_cel_axe_infantry_pictish"></MenAtArm>
+	</Faction>
+
+<Faction name="Caledonians">
+		<General key="att_cel_celtic_nobles"></General>
+		<Knights key="att_cel_mormaer_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_cel_celtic_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_cel_celtic_band"></Levies>
+		<Levies type="Levy Ranged" key="att_cel_celtic_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_cel_celtic_warband"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_cel_celtic_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_cel_sighthound_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_cel_celtic_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="fote_cel_cavalry_noble_late"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_cel_romano_british_horsemen"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_cel_gazehounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="att_cel_highland_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="fote_cel_romano_british_horsemen"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_cel_mounted_spear_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_cel_noble_spearmen_late"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_cel_tanist"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="fote_cel_axemen_nobles_late"></MenAtArm>
+	</Faction>
+
+<Faction name="Garamantians">         
+		<General key="att_des_desert_warlord"></General>
+		<Knights key="fote_berber_cavalry_melee_t3_romanized"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_des_amazigh_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="att_cel_celtic_band"></Levies>
+		<Levies type="Levy Ranged" key="fote_berber_swordsmen_t1"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="fote_berber_swordsmen_t2_light"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="fote_berber_swordsmen_t2_romanized"></MenAtArm>       
+		<MenAtArm type="Pikemen" key="fote_berber_spearmen_t3_nobles"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_des_garamantian_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_des_tuareg_camel_spearmen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_berber_cavalry_melee_t3_romanized"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_des_es_adana_trackers"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Horse Archers" key="att_des_es_sanai"></MenAtArm>
+        <MenAtArm type="Servile Soldiers" key="att_des_es_afar_raidmasters"></MenAtArm>
+        <MenAtArm type="Guinean Uplanders" key="fote_axum_javelinmen_t2_abyssinian"></MenAtArm>
+        <MenAtArm type="African Pikemen" key="att_des_es_sons_of_the_invincible_mahrem"></MenAtArm>
+        <MenAtArm type="Bush Hunters" key="att_des_es_adana_marksmen"></MenAtArm>
+        <MenAtArm type="Sahel Horseman" key="att_des_garamantian_lancers"></MenAtArm>
+		<MenAtArm type="Camel Riders" key="att_des_tuareg_camel_spearmen"></MenAtArm>
+		<MenAtArm type="Sahara Horsemen" key="att_des_es_jamal_al_baltha"></MenAtArm>
+
+        <MenAtArm type="Retinue Camel Riders" key="att_des_es_armoured_himyarite_shotelai"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="att_est_kurdish_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="fote_berber_cavalry_melee_t3_romanized"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_des_noble_numidian_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_berber_spearmen_t3_romanized"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="fote_berber_javelinmen_t2"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="fote_berber_swordsmen_t2_romanized"></MenAtArm>
+	</Faction>
+
+<Faction name="Aksum">
+		<General key="fote_axum_elephant_bodyguard"></General>
+		<Knights key="att_des_es_abunas_guard"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_des_es_tor_warriors"></Levies>
+		<Levies type="Levy Infantry" key="att_des_es_afar_swordsmen"></Levies>
+		<Levies type="Levy Ranged" key="att_des_es_marz_archers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_des_es_afar_raidmasters"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_des_es_behers_chosen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_des_es_masqal_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_des_elite_nubian_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_des_kushite_mounted_shotelai"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_des_es_bet_giorgis_cavalry"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_des_es_adana_trackers"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+        <MenAtArm type="Camel Riders" key="att_des_tuareg_camel_spearmen"></MenAtArm>
+        <MenAtArm type="Horn Warriors" key="att_des_kushite_shotelai"></MenAtArm>
+        <MenAtArm type="Nile Archers" key="att_des_es_adana_marksmen"></MenAtArm>
+
+		<MenAtArm type="Retinue Camel Riders" key="att_des_es_armoured_himyarite_shotelai"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="att_des_es_adana_marksmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_des_es_bet_giorgis_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_des_es_mounted_marz_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="fote_berber_spearmen_t3_romanized"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_des_es_rumha_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_des_es_behers_chosen"></MenAtArm>
+	</Faction>
+
+<Faction name="Himyar">
+		<General key="att_des_es_kings_radif"></General>
+		<Knights key="att_des_es_almaqahs_lancers"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_des_desert_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_des_desert_tribesmen"></Levies>
+		<Levies type="Levy Ranged" key="att_des_desert_bowmen"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_des_desert_legionary_defectors"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_des_es_zafar_sentinels"></MenAtArm>
+		<MenAtArm type="Pikemen" key="fote_arab_spearmen_t3_unarmored"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_des_es_ashum"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_des_arabic_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_des_es_himyarite_shotelai"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_des_es_adana_trackers"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+        <MenAtArm type="Camel Riders" key="att_des_tuareg_camel_spearmen"></MenAtArm>
+        <MenAtArm type="Abudrar" key="att_des_desert_palatina_defectors"></MenAtArm>
+
+		<MenAtArm type="Retinue Camel Riders" key="att_des_es_armoured_himyarite_shotelai"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="att_est_kurdish_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_des_es_himyarite_shotelai"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_des_es_zodiac_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_des_es_khahyahlim"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_des_es_rumha_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_des_es_baltha_defenders"></MenAtArm>
+	</Faction>
+
+<Faction name="Tanukhids">
+		<General key="att_des_es_mavias_chosen"></General>
+		<Knights key="fote_arab_cataphracts_shielded"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_des_desert_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_des_es_tanukhid_ambushers"></Levies>
+		<Levies type="Levy Ranged" key="att_des_desert_bowmen"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_des_desert_legionary_defectors"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_des_desert_palatina_defectors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="fote_arab_spearmen_t3_unarmored"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_des_desert_hurlers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_des_arabic_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_des_es_mavias_bodyguards"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_des_es_adana_trackers"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+        <MenAtArm type="Camel Riders" key="att_des_tuareg_camel_spearmen"></MenAtArm>
+        <MenAtArm type="Mubarizun" key="att_des_es_noble_al_rahrain"></MenAtArm>
+
+		<MenAtArm type="Retinue Camel Riders" key="att_des_es_armoured_himyarite_shotelai"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="att_est_kurdish_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_des_es_mavias_bodyguards"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_des_noble_arab_camelry"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_des_es_tanukhid_pikes"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_des_es_badyia_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_des_es_baltha_defenders"></MenAtArm>
+	</Faction>
+
+<Faction name="Lakhmids">
+		<General key="att_des_desert_chieftain"></General>
+		<Knights key="att_des_es_mavias_bodyguards"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_des_desert_levy"></Levies>
+		<Levies type="Levy Infantry" key="att_des_desert_tribesmen"></Levies>
+		<Levies type="Levy Ranged" key="att_des_desert_bowmen"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_des_es_al_rahrain"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_des_es_al_rahrain"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_des_desert_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_est_armenian_slingers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_des_arabic_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_des_es_al_dawser"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_des_es_adana_trackers"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+        <MenAtArm type="Camel Riders" key="att_des_tuareg_camel_spearmen"></MenAtArm>
+        <MenAtArm type="Mubarizun" key="att_des_es_noble_al_rahrain"></MenAtArm>
+
+		<MenAtArm type="Retinue Camel Riders" key="att_des_es_armoured_himyarite_shotelai"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="att_est_kurdish_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_des_es_al_dawser"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_des_es_al_shahba"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_des_es_tanukhid_pikes"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_est_armenian_slingers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_des_es_baltha_defenders"></MenAtArm>
+	</Faction>
+
+<Faction name="Sclavenian">
+		<General key="fote_slav_warlords_mounted_guard"></General>
+		<Knights key="fote_slav_chieftain_mounted_guard"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_slav_levy_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="att_slav_horse_cutters"></Levies>
+		<Levies type="Levy Ranged" key="att_slav_levy_archers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_slav_champions"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_slav_peruns_champions"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_slav_horse_butchers"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_slav_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_slav_raiders"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_alan_alani_chosen_raiders"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Metsänvartija" key="att_slav_noble_skirmishers"></MenAtArm>
+		<MenAtArm type="Konni" key="att_nom_nokkors"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_slav_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_alan_alani_chosen_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_slav_svarogs_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_slav_noble_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_slav_noble_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_slav_peruns_axes"></MenAtArm>
+	</Faction>
+
+<Faction name="Venedians">
+		<General key="fote_slav_chieftain_mounted_guard"></General>
+		<Knights key="att_slav_raiders"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_slav_levy_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="att_slav_horse_cutters"></Levies>
+		<Levies type="Levy Ranged" key="att_slav_levy_archers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_slav_large_shields"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_slav_veles_chosen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_slav_horse_butchers"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_slav_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_slav_raiders"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_alan_alani_chosen_raiders"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+
+        <MenAtArm type="Metsänvartija" key="att_slav_noble_skirmishers"></MenAtArm>
+		<MenAtArm type="Huscarls" key="att_nor_huscarls"></MenAtArm>
+		<MenAtArm type="Varangian Veterans" key="fote_nor_axemen_t4_vareg"></MenAtArm>
+        <MenAtArm type="Bondí" key="att_nor_nordic_spearmen"></MenAtArm>
+        <MenAtArm type="Vigmen" key="att_nor_nordic_bows"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="att_slav_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_alan_alani_chosen_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_slav_svarogs_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_slav_noble_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_slav_noble_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_slav_peruns_axes"></MenAtArm>
+	</Faction>
+
+<Faction name="Anteans">
+		<General key="fote_slav_warlords_mounted_guard"></General>
+		<Knights key="att_alan_alani_chosen_raiders"></Knights>
+		
+		<Levies type="Levy Spearmen" key="att_slav_levy_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="att_slav_horse_cutters"></Levies>
+		<Levies type="Levy Ranged" key="att_slav_levy_archers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="att_slav_champions"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="att_slav_peruns_champions"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_slav_horse_butchers"></MenAtArm>
+		<MenAtArm type="Bowmen" key="att_slav_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="att_alan_alani_cavalry_warriors"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_alan_alani_chosen_raiders"></MenAtArm>
+        <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds"></MenAtArm>
+        <MenAtArm type="Scorpio" key="att_ger_captured_cheiroballistra"></MenAtArm>
+		
+		<MenAtArm type="Konni" key="att_nom_nokkors"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="att_nom_steppe_bows"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="att_alan_alani_chosen_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="att_slav_svarogs_raiders"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_slav_noble_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="att_slav_noble_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="att_slav_peruns_axes"></MenAtArm>
+	</Faction>
+	
+</FactionsGroups>

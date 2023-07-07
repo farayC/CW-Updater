@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cultures>
+	<Heritage name="Akan" faction="West African">
+		<Culture name="Akan" faction="West African"></Culture>
+		<Culture name="Guan" faction="West African"></Culture>
+		<Culture name="Kru" faction="West African"></Culture>
+	</Heritage>
+	<Heritage name="East Bantu" faction="West African">
+	</Heritage>
+	<Heritage name="Arabic" faction="Abbasid">
+		<Culture name="Bedouin" faction="Bedouin"></Culture>
+		<Culture name="Egyptian" faction="Egyptian"></Culture>
+		<Culture name="Maghrebi" faction="Hafsid"></Culture>
+		<Culture name="Mashriqi" faction="Abbasid"></Culture>
+		<Culture name="Yemeni" faction="Bedouin"></Culture>
+		<Culture name="Moroccan" faction="Almohad"></Culture>
+		<Culture name="Algerian" faction="Almohad"></Culture>
+		<Culture name="Tripolitanian" faction="Hafsid"></Culture>
+		<Culture name="Tunisian" faction="Hafsid"></Culture>
+		<Culture name="Outremer" faction="Outremer"></Culture>
+		<Culture name="Oltremare" faction="Outremer"></Culture>
+		<Culture name="Ultramar" faction="Outremer"></Culture>
+		<Culture name="Hierosolyman" faction="Outremer"></Culture>
+		<Culture name="Jerusaleman" faction="Outremer"></Culture>
+		<Culture name="Külföldi" faction="Outremer"></Culture>
+		<Culture name="Dramor" faction="Outremer"></Culture>
+		<Culture name="Coigríche" faction="Outremer"></Culture>
+		<Culture name="Himyarite" faction="Bedouin"></Culture>
+		<Culture name="South Arabian" faction="Bedouin"></Culture>
+	</Heritage>
+	<Heritage name="Baltic" faction="Lithuanian">
+		<Culture name="Latgalian" faction="Lithuanian"></Culture>
+		<Culture name="Lithuanian" faction="Lithuanian"></Culture>
+		<Culture name="Prussian" faction="Prussian"></Culture>
+		<Culture name="Kurlander" faction="Teutonic"></Culture>	
+	</Heritage>
+	<Heritage name="Balto-Finnic" faction="Baltic Finnic">
+		<Culture name="Estonian" faction="Estonian"></Culture>
+		<Culture name="Finnish" faction="Baltic Finnic"></Culture>
+		<Culture name="Karelian" faction="Baltic Finnic"></Culture>
+		<Culture name="Sami" faction="Baltic Finnic"></Culture>
+		<Culture name="Vepsian" faction="Baltic Finnic"></Culture>
+		<Culture name="Kurlander" faction="Teutonic"></Culture>	
+	</Heritage>
+	<Heritage name="Berber" faction="Almohad">
+		<Culture name="Baranis" faction="Almohad"></Culture>
+		<Culture name="Butr" faction="Marinid"></Culture>
+		<Culture name="Guanche" faction="Marinid"></Culture>
+		<Culture name="Zaghawa" faction="Sahelian"></Culture>
+		<Culture name="Siculo-Norman" faction="Sicilian"></Culture>
+		<Culture name="Moroccan" faction="Almohad"></Culture>
+		<Culture name="Algerian" faction="Almohad"></Culture>
+		<Culture name="Tripolitanian" faction="Hafsid"></Culture>
+		<Culture name="Tunisian" faction="Hafsid"></Culture>
+		<Culture name="Taureg" faction="Marinid"></Culture>
+	</Heritage>
+	<Heritage name="Brythonic" faction="Welsh">
+		<Culture name="Breton" faction="Breton"></Culture>
+		<Culture name="Cornish" faction="Welsh"></Culture>
+		<Culture name="Cumbrian" faction="Scottish"></Culture>
+		<Culture name="Pictish" faction="Scottish"></Culture>
+		<Culture name="Welsh" faction="Welsh"></Culture>
+		<Culture name="Dramor" faction="Outremer"></Culture>
+		<Culture name="Arvorigeg" faction="Breton"></Culture>
+		<Culture name="Gallo" faction="Breton"></Culture>
+	</Heritage>
+	<Heritage name="Burman" faction="Burmese">
+		<Culture name="Burmese" faction="Burmese"></Culture>
+		<Culture name="Mon" faction="Burmese"></Culture>
+	</Heritage>
+	<Heritage name="Byzantine" faction="Byzantine">
+		<Culture name="Alan" faction="Alan"></Culture>
+		<Culture name="Armenian" faction="Armenian"></Culture>
+		<Culture name="Georgian" faction="Georgian"></Culture>
+		<Culture name="Greek" faction="Byzantine"></Culture>
+		<Culture name="Syriac" faction="Syriac"></Culture>
+		<Culture name="Siculo-Norman" faction="Sicilian"></Culture>
+	</Heritage>
+	<Heritage name="Central African" faction="West African">
+		<Culture name="Hausa" faction="West African"></Culture>
+		<Culture name="Kanuri" faction="West African"></Culture>
+		<Culture name="Nupe" faction="West African"></Culture>
+		<Culture name="Sao" faction="West African"></Culture>
+	</Heritage>
+	<Heritage name="Central Germanic" faction="German">
+		<Culture name="Bavarian" faction="Bavarian"></Culture>
+		<Culture name="Dutch" faction="Brabantian"></Culture>
+		<Culture name="Franconian" faction="Franconian"></Culture>
+		<Culture name="Frisian" faction="Brabantian"></Culture>
+		<Culture name="German" faction="German"></Culture>
+		<Culture name="Langobard" faction="Cisalpine"></Culture>
+		<Culture name="Saxon" faction="Saxon"></Culture>
+		<Culture name="Swabian" faction="Swabian"></Culture>
+		<Culture name="Lothringian" faction="Lothringian"></Culture>
+		<Culture name="Alsatian" faction="Lothringian"></Culture>
+		<Culture name="Austrian" faction="Austrian"></Culture>
+		<Culture name="Flemish" faction="Flemish"></Culture>
+		<Culture name="Vlaemsch" faction="Flemish"></Culture>
+		<Culture name="Rhinelander" faction="Trierer"></Culture>
+		<Culture name="Swiss" faction="Swiss"></Culture>
+		<Culture name="Kurlander" faction="Teutonic"></Culture>	
+		<Culture name="Hierosolyman" faction="Outremer"></Culture>
+	</Heritage>
+	<Heritage name="Chinese" faction="Tibetan">
+		<Culture name="Han" faction="Tibetan"></Culture>
+	</Heritage>
+	<Heritage name="Dravidian" faction="Indian">
+		<Culture name="Gond" faction="Indian"></Culture>
+		<Culture name="Kannada" faction="Indian"></Culture>
+		<Culture name="Tamil" faction="Indian"></Culture>
+		<Culture name="Telugu" faction="Indian"></Culture>
+	</Heritage>
+	<Heritage name="West African" faction="West African">
+	</Heritage>
+	<Heritage name="East African" faction="Nubian">
+		<Culture name="Daju" faction="Nubian"></Culture>
+		<Culture name="Ethiopian" faction="Ethiopian"></Culture>
+		<Culture name="Nubian" faction="Nubian"></Culture>
+		<Culture name="Welayta" faction="Ethiopian"></Culture>
+	</Heritage>
+	<Heritage name="East Slavic" faction="Rus">
+		<Culture name="Ilmenian" faction="Rus"></Culture>
+		<Culture name="Russian" faction="Rus"></Culture>
+		<Culture name="Severian" faction="Rus"></Culture>
+		<Culture name="Volhynian" faction="Rus"></Culture>
+		<Culture name="Jerusaleman" faction="Outremer"></Culture>
+	</Heritage>
+	<Heritage name="Frankish" faction="French">
+		<Culture name="Frankish" faction="French"></Culture>
+		<Culture name="French" faction="French"></Culture>
+		<Culture name="Norman" faction="French"></Culture>
+		<Culture name="Occitan" faction="Occitan"></Culture>
+		<Culture name="Lorrainian" faction="Lothringian"></Culture>
+		<Culture name="Alsatian" faction="Lothringian"></Culture>
+		<Culture name="Burgundian" faction="Burgundian"></Culture>
+		<Culture name="Aquitainian" faction="Occitan"></Culture>
+		<Culture name="Auvergnat" faction="Occitan"></Culture>
+		<Culture name="Lengadocian" faction="Occitan"></Culture>
+		<Culture name="Siculo-Norman" faction="Sicilian"></Culture>
+		<Culture name="Rhinelander" faction="Trierer"></Culture>
+		<Culture name="Swiss" faction="Swiss"></Culture>
+		<Culture name="Walloon" faction="Flemish"></Culture>
+		<Culture name="Vlaemsch" faction="Flemish"></Culture>
+		<Culture name="Outremer" faction="Outremer"></Culture>
+		<Culture name="Arpitan" faction="Savoyard"></Culture>
+		<Culture name="Arvorigeg" faction="Breton"></Culture>
+		<Culture name="Gallo" faction="Breton"></Culture>
+	</Heritage>
+	<Heritage name="Goidelic" faction="Goidelic">
+		<Culture name="Gaelic" faction="Goidelic"></Culture>
+		<Culture name="Irish" faction="Goidelic"></Culture>
+		<Culture name="Norse-Gael" faction="Norse Gael"></Culture>
+		<Culture name="Ulster-Scot" faction="Goidelic"></Culture>
+		<Culture name="Coigríche" faction="Outremer"></Culture>		
+	</Heritage>
+	<Heritage name="Guinean Uplander" faction="West African">
+		<Culture name="Bobo" faction="West African"></Culture>
+		<Culture name="Gur" faction="West African"></Culture>
+		<Culture name="Malinke" faction="West African"></Culture>
+		<Culture name="Marka" faction="West African"></Culture>
+		<Culture name="Mel" faction="West African"></Culture>
+	</Heritage>
+	<Heritage name="Horn African" faction="Horn African">
+		<Culture name="Afar" faction="Horn African"></Culture>
+		<Culture name="Beja" faction="Horn African"></Culture>
+		<Culture name="Somali" faction="Horn African"></Culture>
+	</Heritage>
+	<Heritage name="Iberian" faction="Castilian">
+		<Culture name="Andalusian" faction="Andalusian"></Culture>
+		<Culture name="Aragonese" faction="Aragonese"></Culture>
+		<Culture name="Asturleonese" faction="Castilian"></Culture>
+		<Culture name="Basque" faction="Basque"></Culture>
+		<Culture name="Castilian" faction="Castilian"></Culture>
+		<Culture name="Catalan" faction="Aragonese"></Culture>
+		<Culture name="Galician" faction="Portuguese"></Culture>
+		<Culture name="Portuguese" faction="Portuguese"></Culture>
+		<Culture name="Suebi" faction="Portuguese"></Culture>
+		<Culture name="Visigothic" faction="Castilian"></Culture>
+		<Culture name="Ultramar" faction="Outremer"></Culture>
+	</Heritage>
+	<Heritage name="Israelite" faction="Kurdish">
+		<Culture name="Ashkenazi" faction="Slovianskan"></Culture>
+		<Culture name="Bavlim" faction="Kurdish"></Culture>
+		<Culture name="Radhanite" faction="Cuman"></Culture>
+		<Culture name="Kochinim	" faction="Indian"></Culture>
+		<Culture name="Sephardi" faction="Andalusian"></Culture>
+		<Culture name="Musta'arabi" faction="Bedouin"></Culture>
+		<Culture name="Parsim" faction="Kurdish"></Culture>
+		<Culture name="Teimani" faction="Bedouin"></Culture>
+	</Heritage>
+	<Heritage name="Indo-Aryan" faction="Indian">
+	</Heritage>
+	<Heritage name="Iranian" faction="Khwarazmian">
+		<Culture name="Afghan" faction="Afghan"></Culture>
+		<Culture name="Baloch" faction="Afghan"></Culture>
+		<Culture name="Daylamite" faction="Ildegizid"></Culture>
+		<Culture name="Khwarezmian" faction="Khwarazmian"></Culture>
+		<Culture name="Kurdish" faction="Kurdish"></Culture>
+		<Culture name="Persian" faction="Khwarazmian"></Culture>
+		<Culture name="Saka" faction="Tajik"></Culture>
+		<Culture name="Sogdian" faction="Tajik"></Culture>
+		<Culture name="Tajik" faction="Tajik"></Culture>
+		<Culture name="Tocharian " faction="Tajik"></Culture>
+		<Culture name="Gorani " faction="Kurdish"></Culture>
+		<Culture name="Tabari " faction="Ildegizid"></Culture>
+		<Culture name="Turko-Persian" faction="Turko Persian"></Culture>
+		<Culture name="Turko-Afghan" faction="Turko Persian"></Culture>
+		<Culture name="Hephthalite" faction="Tajik"></Culture>
+		<Culture name="Khuzi" faction="Kurdish"></Culture>
+		<Culture name="Pamiri" faction="Tajik"></Culture>
+		<Culture name="Turco-Hephthalite" faction="Turko Persian"></Culture>
+	</Heritage>
+	<Heritage name="Elamite" faction="Kurdish">
+	</Heritage>
+	<Heritage name="Latin" faction="Florentine">
+		<Culture name="Cisalpine" faction="Cisalpine"></Culture>
+		<Culture name="Italian" faction="Papal States"></Culture>
+		<Culture name="Lombard" faction="Sicilian"></Culture>
+		<Culture name="Roman" faction="Roman"></Culture>
+		<Culture name="Sardinian" faction="Genoan"></Culture>
+		<Culture name="Sicilian" faction="Sicilian"></Culture>
+		<Culture name="Venetian" faction="Venetian"></Culture>
+		<Culture name="Ligurian" faction="Genoan"></Culture>
+		<Culture name="Romagnol" faction="Florentine"></Culture>
+		<Culture name="Tuscan" faction="Pisan"></Culture>
+		<Culture name="Umbrian" faction="Florentine"></Culture>
+		<Culture name="Neopolitan" faction="Neopolitan"></Culture>
+		<Culture name="Siculo-Norman" faction="Sicilian"></Culture>
+		<Culture name="Swiss" faction="Swiss"></Culture>
+		<Culture name="Oltremare" faction="Outremer"></Culture>
+		<Culture name="Arpitan" faction="Savoyard"></Culture>		
+	</Heritage>
+	<Heritage name="Magyar" faction="Hungarian">
+		<Culture name="Hungarian" faction="Hungarian"></Culture>
+		<Culture name="Mogyër" faction="Magyar"></Culture>
+		<Culture name="Szekely" faction="Magyar"></Culture>
+		<Culture name="Transylvanian" faction="Vlach"></Culture>
+		<Culture name="Külföldi" faction="Outremer"></Culture>
+	</Heritage>
+	<Heritage name="Mongolic" faction="Mongol">
+	</Heritage>
+	<Heritage name="Niger Delta" faction="West African">
+	</Heritage>
+	<Heritage name="North Germanic" faction="Danish">
+		<Culture name="Danish" faction="Danish"></Culture>
+		<Culture name="Norse" faction="Norse"></Culture>
+		<Culture name="Norwegian" faction="Norwegian"></Culture>
+		<Culture name="Swedish" faction="Swedish"></Culture>
+		<Culture name="Geatish" faction="Geatish"></Culture>
+		<Culture name="Gutish" faction="Swedish"></Culture>
+		<Culture name="Icelandic" faction="Norse"></Culture>
+		<Culture name="Norse-Gael" faction="Norse Gael"></Culture>
+		<Culture name="Danelander" faction="Aenglish"></Culture>
+		<Culture name="Anglo-Nordic" faction="Aenglish"></Culture>			
+		<Culture name="Ænglish" faction="Aenglish"></Culture>
+		<Culture name="Hierosolyman" faction="Outremer"></Culture>
+		<Culture name="Greenlandic" faction="Norse"></Culture>		
+		<Culture name="Vinlandic" faction="Norse"></Culture>				
+	</Heritage>
+	<Heritage name="Qiangic" faction="Tibetan">
+	</Heritage>
+	<Heritage name="Sahelian" faction="Sahelian">
+	</Heritage>
+	<Heritage name="Senegambian" faction="Sahelian">
+	</Heritage>
+	<Heritage name="Somalian" faction="Horn African">
+	</Heritage>
+	<Heritage name="South Slavic" faction="Bulgarian">
+		<Culture name="Bosnian" faction="Bosnian"></Culture>
+		<Culture name="Bulgarian" faction="Bulgarian"></Culture>
+		<Culture name="Croatian" faction="Croatian"></Culture>
+		<Culture name="Serbian" faction="Serbian"></Culture>
+		<Culture name="Jerusaleman" faction="Outremer"></Culture>
+	</Heritage>
+	<Heritage name="Tibetan" faction="Tibetan">
+	</Heritage>
+	<Heritage name="Tocharian" faction="Tajik">
+	</Heritage>
+	<Heritage name="Turkic" faction="Rum">
+		<Culture name="Avar" faction="Cuman"></Culture>
+		<Culture name="Bashkir" faction="Bolghar"></Culture>
+		<Culture name="Bolghar" faction="Bolghar"></Culture>
+		<Culture name="Chuvash" faction="Bolghar"></Culture>
+		<Culture name="Cuman" faction="Cuman"></Culture>
+		<Culture name="Karluk" faction="Turko Persian"></Culture>
+		<Culture name="Khazar" faction="Cuman"></Culture>
+		<Culture name="Kimek" faction="Cuman"></Culture>
+		<Culture name="Kipchak" faction="Cuman"></Culture>
+		<Culture name="Kirghiz" faction="Mongol"></Culture>
+		<Culture name="Laktan" faction="Cuman"></Culture>
+		<Culture name="Oghuz" faction="Rum"></Culture>
+		<Culture name="Pecheneg" faction="Cuman"></Culture>
+		<Culture name="Shatuo" faction="Mongol"></Culture>
+		<Culture name="Uriankhai" faction="Mongol"></Culture>
+		<Culture name="Uyghur" faction="Turko Persian"></Culture>
+		<Culture name="Yughur" faction="Turko Persian"></Culture>
+		<Culture name="Azeri" faction="Ildegizid"></Culture>
+		<Culture name="Turko-Persian" faction="Turko Persian"></Culture>
+		<Culture name="Turko-Afghan" faction="Turko Persian"></Culture>
+	</Heritage>
+	<Heritage name="Urgo-Permian" faction="Siberian">
+	</Heritage>
+	<Heritage name="Inuit" faction="Siberian">
+	</Heritage>
+	<Heritage name="Algonquian" faction="Siberian">
+	</Heritage>
+	<Heritage name="Iroquoian" faction="Siberian">
+	</Heritage>
+	<Heritage name="Paleo-Inui" faction="Siberian">
+	</Heritage>
+	<Heritage name="Siberian" faction="Siberian">
+	</Heritage>
+	<Heritage name="Vlach" faction="Vlach">
+		<Culture name="Transylvanian" faction="Vlach"></Culture>
+	</Heritage>
+	<Heritage name="Volga-Finnic" faction="Mordvin">
+	</Heritage>
+	<Heritage name="West Germanic" faction="English">
+		<Culture name="Anglo-Saxon" faction="English"></Culture>
+		<Culture name="English" faction="English"></Culture>
+		<Culture name="Old Saxon" faction="English"></Culture>
+		<Culture name="Scots" faction="Scottish"></Culture>
+		<Culture name="Danelander" faction="Aenglish"></Culture>
+		<Culture name="Anglo-Nordic" faction="Aenglish"></Culture>	
+		<Culture name="Ænglish" faction="Aenglish"></Culture>	
+		<Culture name="Ulster-Scot" faction="Goidelic"></Culture>
+		<Culture name="Hierosolyman" faction="Outremer"></Culture>
+	</Heritage>
+	<Heritage name="West Slavic" faction="Bohemian">
+		<Culture name="Carantanian" faction="Carantanian"></Culture>
+		<Culture name="Czech" faction="Bohemian"></Culture>
+		<Culture name="Polabian" faction="Slovianskan"></Culture>
+		<Culture name="Polish" faction="Polish"></Culture>
+		<Culture name="Pomeranian" faction="Slovianskan"></Culture>
+		<Culture name="Slovien" faction="Bohemian"></Culture>
+		<Culture name="Jerusaleman" faction="Outremer"></Culture>
+		<Culture name="Silesian" faction="Silesian"></Culture>
+	</Heritage>
+</Cultures>

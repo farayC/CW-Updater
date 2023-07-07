@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<battle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle.xsd">
+    <alliance id="0">
+        <army>
+            <faction>att_fact_alamanni</faction>
+            <deployment_area>
+                <orientation radians="0"/>
+                <position x="-976" y="972"/>
+                <position x="972" y="972"/>
+                <position x="972" y="-976"/>
+                <position x="-976" y="-976"/>
+            </deployment_area>
+            <unit num_soldiers="100" script_name="">
+                <unit_type type="att_alan_alani_cavalry_raiders"/>
+                <position x="-2" y="510"/>
+                <orientation radians="3.14159"/>
+                <width metres="50.8216"/>
+            </unit>
+            <camera_start_position x="0" y="0" z="0"/>
+            <camera_target_position x="0" y="0" z="0"/>
+        </army>
+        <victory_condition>
+            <kill_or_rout_enemy/>
+        </victory_condition>
+        <rout_position x="0" y="0"/>
+    </alliance>
+    <alliance id="1">
+        <army>
+            <faction>att_fact_alamanni</faction>
+            <deployment_area>
+                <orientation radians="0"/>
+                <position x="-976" y="972"/>
+                <position x="972" y="972"/>
+                <position x="972" y="-976"/>
+                <position x="-976" y="-976"/>
+            </deployment_area>
+            <unit num_soldiers="100" script_name="">
+                <unit_type type="att_alan_alani_cavalry_raiders"/>
+                <position x="-2" y="-514"/>
+                <orientation radians="0"/>
+                <width metres="55.8973"/>
+            </unit>
+            <camera_start_position x="0" y="0" z="0"/>
+            <camera_target_position x="0" y="0" z="0"/>
+        </army>
+        <victory_condition>
+            <kill_or_rout_enemy/>
+        </victory_condition>
+        <rout_position x="0" y="0"/>
+    </alliance>
+    <battle_description>
+        <time_of_day>day</time_of_day>
+        <season>Winter</season>
+    </battle_description>
+    <weather>
+		<environment_key>weather\default\default\land\day\snow\snow_5_heavy.environment</environment_key>
+        <prevailing_wind x="1" y="0"/>
+    </weather>
+    <Climate>
+        <name>ROME_Atlantic</name>
+    </Climate>
+    <battle_map_definition>
+        <name>terrain/tiles/battle/assembly_kit/battle_of_the_bastards/battlefield</name>
+    </battle_map_definition>
+</battle>

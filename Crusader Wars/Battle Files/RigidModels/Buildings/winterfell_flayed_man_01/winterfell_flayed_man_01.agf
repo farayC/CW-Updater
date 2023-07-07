@@ -1,0 +1,12 @@
+##battle/buildings/winterfell_flayed_man_01
+#all
+battle/buildings/winterfell_flayed_man_01/models/piece07_destruct01
+battle/buildings/winterfell_flayed_man_01/tech
+
+#models
+battle/buildings/winterfell_flayed_man_01/models/piece07_destruct01
+
+
+##battle/buildings/winterfell_flayed_man_01/models/piece07_destruct01:rigidmodels/buildings/winterfell_flayed_man_01/winterfell_flayed_man_01_piece07_destruct01.rigid_model_v2
+
+
