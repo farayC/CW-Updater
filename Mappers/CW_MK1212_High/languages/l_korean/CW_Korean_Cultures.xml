@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cultures>
+	<Heritage name="Akan" language="아칸">
+		<Culture name="Akan" language="아칸"></Culture>
+		<Culture name="Guan" language="구안"></Culture>
+		<Culture name="Kru" language="크루"></Culture>
+	</Heritage>
+	<Heritage name="Arabic" language="아라비아">
+		<Culture name="Bedouin" language="베두인"></Culture>
+		<Culture name="Egyptian" language="이집트"></Culture>
+		<Culture name="Maghrebi" language="마그레브"></Culture>
+		<Culture name="Mashriqi" language="마슈리크"></Culture>
+		<Culture name="Yemeni" language="예멘"></Culture>
+	</Heritage>
+	<Heritage name="Baltic" language="발트">
+		<Culture name="Latgalian" language="라트갈레"></Culture>
+		<Culture name="Lithuanian" language="리투아니아"></Culture>
+		<Culture name="Prussian" language="프로이센"></Culture>
+	</Heritage>
+	<Heritage name="Balto-Finnic" language="발트핀">
+		<Culture name="Estonian" language="에스토니아"></Culture>
+		<Culture name="Finnish" language="핀란드"></Culture>
+		<Culture name="Karelian" language="카렐리야"></Culture>
+		<Culture name="Sami" language="사미"></Culture>
+		<Culture name="Vepsian" language="벱스"></Culture>
+	</Heritage>
+	<Heritage name="Berber" language="베르베르">
+		<Culture name="Baranis" language="바라니스"></Culture>
+		<Culture name="Butr" language="부트르"></Culture>
+		<Culture name="Guanche" language="관체"></Culture>
+		<Culture name="Zaghawa" language="자가와"></Culture>
+	</Heritage>
+	<Heritage name="Brythonic" language="브리튼">
+		<Culture name="Breton" language="브르타뉴"></Culture>
+		<Culture name="Cornish" language="콘월"></Culture>
+		<Culture name="Cumbrian" language="컴브리아"></Culture>
+		<Culture name="Pictish" language="픽트"></Culture>
+		<Culture name="Welsh" language="웨일스"></Culture>
+	</Heritage>
+	<Heritage name="Burman" language="버마">
+		<Culture name="Burmese" language="버마"></Culture>
+		<Culture name="Mon" language="몬"></Culture>
+	</Heritage>
+	<Heritage name="Byzantine" language="비잔티움">
+		<Culture name="Alan" language="알란"></Culture>
+		<Culture name="Armenian" language="아르메니아"></Culture>
+		<Culture name="Georgian" language="조지아"></Culture>
+		<Culture name="Greek" language="그리스"></Culture>
+		<Culture name="Assyrian" language="앗시리아"></Culture>
+	</Heritage>
+	<Heritage name="Central African" language="중부 아프리카">
+		<Culture name="Hausa" language="하우사"></Culture>
+		<Culture name="Kanuri" language="카누리"></Culture>
+		<Culture name="Nupe" language="누페"></Culture>
+		<Culture name="Sao" language="사오"></Culture>
+	</Heritage>
+	<Heritage name="Central Germanic" language="중부 게르만">
+		<Culture name="Bavarian" language="바이에른"></Culture>
+		<Culture name="Dutch" language="네덜란드"></Culture>
+		<Culture name="Franconian" language="프랑켄"></Culture>
+		<Culture name="Frisian" language="프리슬란"></Culture>
+		<Culture name="German" language="게르만"></Culture>
+		<Culture name="Langobard" language="랑고바르드"></Culture>
+		<Culture name="Saxon" language="작센"></Culture>
+		<Culture name="Swabian" language="슈바벤"></Culture>
+	</Heritage>
+	<Heritage name="Chinese" language="중국">
+		<Culture name="Han" language="한족"></Culture>
+	</Heritage>
+	<Heritage name="Dravidian" language="드라비다">
+		<Culture name="Gond" language="곤드"></Culture>
+		<Culture name="Kannada" language="칸나다"></Culture>
+		<Culture name="Tamil" language="타밀"></Culture>
+		<Culture name="Telugu" language="텔루구"></Culture>
+	</Heritage>
+	<Heritage name="West African" language="기니 고지대">
+	</Heritage>
+	<Heritage name="East African" language="동아프리카">
+		<Culture name="Daju" language="다주"></Culture>
+		<Culture name="Ethiopian" language="에티오피아"></Culture>
+		<Culture name="Nubian" language="누비아"></Culture>
+		<Culture name="Welayta" language="월라이타"></Culture>
+	</Heritage>
+	<Heritage name="East Slavic" language="동부 슬라브">
+		<Culture name="Ilmenian" language="일메니아"></Culture>
+		<Culture name="Russian" language="러시아"></Culture>
+		<Culture name="Severian" language="세르비아"></Culture>
+		<Culture name="Volhynian" language="볼히니아"></Culture>
+	</Heritage>
+	<Heritage name="Frankish" language="프랑크">
+		<Culture name="Frankish" language="프랑크"></Culture>
+		<Culture name="French" language="프랑스"></Culture>
+		<Culture name="Norman" language="노르만"></Culture>
+		<Culture name="Occitan" language="옥시타니아"></Culture>
+	</Heritage>
+	<Heritage name="Goidelic" language="켈트">
+		<Culture name="Gaelic" language="게일"></Culture>
+		<Culture name="Irish" language="아일랜드"></Culture>
+	</Heritage>
+	<Heritage name="Guinean Uplander" language="기니 고지대">
+		<Culture name="Bobo" language="보보"></Culture>
+		<Culture name="Gur" language="구르"></Culture>
+		<Culture name="Malinke" language="만딩카"></Culture>
+		<Culture name="Marka" language="마르카"></Culture>
+		<Culture name="Mel" language="멜"></Culture>
+	</Heritage>
+	<Heritage name="Horn African" language="반도 아프리카">
+		<Culture name="Afar" language="아파르"></Culture>
+		<Culture name="Beja" language="베자"></Culture>
+		<Culture name="Somali" language="소말리"></Culture>
+	</Heritage>
+	<Heritage name="Iberian" language="이베리아">
+		<Culture name="Andalusian" language="안달루시아"></Culture>
+		<Culture name="Aragonese" language="아라곤"></Culture>
+		<Culture name="Asturleonese" language="아스투리아스레온"></Culture>
+		<Culture name="Basque" language="바스크"></Culture>
+		<Culture name="Castilian" language="카스티야"></Culture>
+		<Culture name="Catalan" language="카탈루냐"></Culture>
+		<Culture name="Galician" language="갈리시아"></Culture>
+		<Culture name="Portuguese" language="포르투갈"></Culture>
+		<Culture name="Suebi" language="수에비"></Culture>
+		<Culture name="Visigothic" language="서고트"></Culture>
+	</Heritage>
+	<Heritage name="Israelite" language="이스라엘">
+		<Culture name="Ashkenazi" language="아슈케나즈"></Culture>
+		<Culture name="Bavlim" language="바블림"></Culture>
+		<Culture name="Radhanite" language="라다니트"></Culture>
+		<Culture name="Kochinim	" language="코치님"></Culture>
+		<Culture name="Sephardi" language="스파라드"></Culture>
+	</Heritage>
+	<Heritage name="Indo-Aryan" language="인도아리아">
+	</Heritage>
+	<Heritage name="Iranian" language="이란">
+		<Culture name="Afghan" language="아프간"></Culture>
+		<Culture name="Baloch" language="발루치"></Culture>
+		<Culture name="Daylamite" language="다일람"></Culture>
+		<Culture name="Khwarezmian" language="호라즘"></Culture>
+		<Culture name="Kurdish" language="쿠르드"></Culture>
+		<Culture name="Persian" language="페르시아"></Culture>
+		<Culture name="Saka" language="사카"></Culture>
+		<Culture name="Sogdian" language="소그드"></Culture>
+		<Culture name="Tajik" language="타지크"></Culture>
+		<Culture name="Tocharian " language="토하라"></Culture>
+	</Heritage>
+	<Heritage name="Latin" language="라틴">
+		<Culture name="Cisalpine" language="키살피나"></Culture>
+		<Culture name="Italian" language="이탈리아"></Culture>
+		<Culture name="Lombard" language="롬바르디아"></Culture>
+		<Culture name="Roman" language="로마"></Culture>
+		<Culture name="Sardinian" language="사르데냐"></Culture>
+		<Culture name="Sicilian" language="시칠리아"></Culture>
+	</Heritage>
+	<Heritage name="Magyar" language="마자르">
+		<Culture name="Hungarian" language="헝가리"></Culture>
+		<Culture name="Mogyër" language="모갸르"></Culture>
+	</Heritage>
+	<Heritage name="Mongolic" language="몽골">
+	</Heritage>
+	<Heritage name="Niger Delta" language="">
+	</Heritage>
+	<Heritage name="North Germanic" language="북부 게르만">
+		<Culture name="Danish" language="덴마크"></Culture>
+		<Culture name="Norse" language="노르드"></Culture>
+		<Culture name="Norwegian" language="노르웨이"></Culture>
+		<Culture name="Swedish" language="스웨덴"></Culture>
+	</Heritage>
+	<Heritage name="Qiangic" language="강족">
+	</Heritage>
+	<Heritage name="Sahelian" language="사헬">
+	</Heritage>
+	<Heritage name="Senegambian" language="세네감비아">
+	</Heritage>
+	<Heritage name="Somalian" language="반도 아프리카">
+	</Heritage>
+	<Heritage name="South Slavic" language="남부 슬라브">
+		<Culture name="Bosnian" language="보스니아"></Culture>
+		<Culture name="Bulgarian" language="불가리아"></Culture>
+		<Culture name="Croatian" language="크로아티아"></Culture>
+		<Culture name="Serbian" language="세르비아"></Culture>
+	</Heritage>
+	<Heritage name="Tibetan" language="티베트">
+	</Heritage>
+	<Heritage name="Tocharian" language="토하라">
+	</Heritage>
+	<Heritage name="Turkic" language="투르크">
+		<Culture name="Avar" language="아바르"></Culture>
+		<Culture name="Bashkir" language="바슈키르"></Culture>
+		<Culture name="Bolghar" language="볼가르"></Culture>
+		<Culture name="Chuvash" language="추바시"></Culture>
+		<Culture name="Cuman" language="쿠만"></Culture>
+		<Culture name="Karluk" language="카를루크"></Culture>
+		<Culture name="Khazar" language="하자르"></Culture>
+		<Culture name="Kimek" language="키멕"></Culture>
+		<Culture name="Kipchak" language="킵차크"></Culture>
+		<Culture name="Kirghiz" language="키르기즈"></Culture>
+		<Culture name="Laktan" language="라크탄"></Culture>
+		<Culture name="Oghuz" language=""></Culture>
+		<Culture name="Pecheneg" language="페체네그"></Culture>
+		<Culture name="Shatuo" language="샤투"></Culture>
+		<Culture name="Uriankhai" language="우량하이"></Culture>
+		<Culture name="Uyghur" language="위구르"></Culture>
+		<Culture name="Yughur" language="유구르"></Culture>
+	</Heritage>
+	<Heritage name="Urgo-Permian" language="우그리아페름">
+		<Culture name="Bjarmian" language="우그리아페름"></Culture>
+		<Culture name="Ostyak" language="우그리아페름"></Culture>
+		<Culture name="Permian" language="우그리아페름"></Culture>
+	</Heritage>
+	<Heritage name="Vlach" language="블라흐">
+	</Heritage>
+	<Heritage name="Volga-Finnic" language="볼가핀">
+	</Heritage>
+	<Heritage name="West Germanic" language="서부 게르만">
+		<Culture name="Anglo-Saxon" language="앵글로색슨"></Culture>
+		<Culture name="English" language="잉글랜드"></Culture>
+		<Culture name="Old Saxon" language="고 색슨"></Culture>
+		<Culture name="Scots" language="스코틀랜드"></Culture>
+	</Heritage>
+	<Heritage name="West Slavic" language="서슬라브">
+		<Culture name="Carantanian" language="카란타니아"></Culture>
+		<Culture name="Czech" language="체코"></Culture>
+		<Culture name="Polabian" language="폴라브"></Culture>
+		<Culture name="Polish" language="폴란드"></Culture>
+		<Culture name="Pomeranian" language="포메라니아"></Culture>
+		<Culture name="Slovien" language="슬로비엔"></Culture>
+	</Heritage>
+	<Heritage name="Yoruba" language="요루바">
+	</Heritage>
+</Cultures>
