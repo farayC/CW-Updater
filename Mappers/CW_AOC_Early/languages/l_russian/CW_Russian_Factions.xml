@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Factions>
+	<Faction name="Default">
+
+		
+		<MenAtArm type="Light Footmen" language="Легкие пехотинцы"></MenAtArm>
+		<MenAtArm type="Armored Footmen" language="Бронированные пехотинцы"></MenAtArm>
+		<MenAtArm type="Pikemen" language="Пикинеры"></MenAtArm>
+		<MenAtArm type="Bowmen" language="Стрелки"></MenAtArm>
+		<MenAtArm type="Crossbowmen" language="Арбалетчики"></MenAtArm>
+		<MenAtArm type="Light Horsemen" language="Легкая конница"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" language="Бронированные всадники"></MenAtArm>
+		<MenAtArm type="House Guards" language="Гвардейцы дома"></MenAtArm>
+		<MenAtArm type="Order Knights" language="Рыцари ордена"></MenAtArm>
+		<MenAtArm type="Jomsviking Pirates" language="Йомсвикинги-пираты"></MenAtArm>
+		
+		<MenAtArm type="Caballeros" language="Кабальеро"></MenAtArm>
+		<MenAtArm type="Camel Riders" language="Наездники на верблюдах"></MenAtArm>
+		<MenAtArm type="Hobelars" language="Хобилары"></MenAtArm>
+		<MenAtArm type="Paiks" language="Пайксы"></MenAtArm>
+		<MenAtArm type="Sahel Horsemen" language="Сахельские всадники"></MenAtArm>
+		<MenAtArm type="War Elephants" language="Боевые слоны"></MenAtArm>
+		
+		<MenAtArm type="Abudrar" language="Абудрары"></MenAtArm>
+		<MenAtArm type="Ayyar" language="Айяры"></MenAtArm>
+		<MenAtArm type="Bondí" language="Бонды"></MenAtArm>
+		<MenAtArm type="Bush Hunters" language="Охотники из буша"></MenAtArm>
+		<MenAtArm type="Cataphracts" language="Катафрактарии"></MenAtArm>
+		<MenAtArm type="Druzhina" language="Дружинники"></MenAtArm>
+		<MenAtArm type="Gendarmes" language="Жандармы"></MenAtArm>
+		<MenAtArm type="Goedendag Militia" language="Ополченцы с годендагами"></MenAtArm>
+		<MenAtArm type="Guinean Uplanders" language="Гвинейские горцы"></MenAtArm>
+		<MenAtArm type="Horn Warriors" language="Воины Рога"></MenAtArm>
+		<MenAtArm type="Horse Archers" language="Конные лучники"></MenAtArm>
+		<MenAtArm type="Huscarls" language="Хускарлы"></MenAtArm>
+		<MenAtArm type="Khandayat" language="Кхандаяты"></MenAtArm>
+		<MenAtArm type="Konni" language="Конни"></MenAtArm>
+		<MenAtArm type="Lenkas" language="Ленкасы"></MenAtArm>
+		<MenAtArm type="Longbowmen" language="Длинные луки"></MenAtArm>
+		<MenAtArm type="Metsänvartija" language="Лесные стражи"></MenAtArm>
+		<MenAtArm type="Monaspa" language="Монаспа"></MenAtArm>
+		<MenAtArm type="Mountaineers" language="Горцы"></MenAtArm>
+		<MenAtArm type="Mubarizun" language="Мубаризуны"></MenAtArm>
+		<MenAtArm type="Mulathamūn" language="Муляссамуны"></MenAtArm>
+		<MenAtArm type="Nile Archers" language="Нильские лучники"></MenAtArm>
+		<MenAtArm type="Palace Guards" language="Дворцовые гвардейцы"></MenAtArm>
+		<MenAtArm type="Picchieri" language="Копьеносцы"></MenAtArm>
+		<MenAtArm type="Sarawit" language="Саравиты"></MenAtArm>
+		<MenAtArm type="Schiltron" language="Шилтроны"></MenAtArm>
+		<MenAtArm type="Shomer" language="Шомеры"></MenAtArm>
+		<MenAtArm type="Varangian Veterans" language="Варяжские ветераны"></MenAtArm>
+		<MenAtArm type="Vigmen" language="Вигманы"></MenAtArm>
+		<MenAtArm type="Zbrojnosh" language="Збройноши"></MenAtArm>
+		
+		<MenAtArm type="Chu-ko-nu Archers" language="Стрелки чо-ко-ну"></MenAtArm>
+		<MenAtArm type="Landsknechts" language="Ландскнехты"></MenAtArm>
+		<MenAtArm type="Palatini" language="Палатинцы"></MenAtArm>
+		<MenAtArm type="Chasseurs" language="Егеря"></MenAtArm>
+		<MenAtArm type="Vaulter Infantry" language="Пехотинцы-прыгуны"></MenAtArm>
+		
+		<MenAtArm type="Retinue War Elephants" language="Свита боевых слонов"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" language="Свита конных лучников"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" language="Свита наездников на верблюдах"></MenAtArm>
+		<MenAtArm type="Retinue Archers" language="Свита лучников"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" language="Свита копейщиков"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" language="Свита дозорных"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" language="Свита пикинеров"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" language="Свита застрельщиков"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" language="Свита авангарда"></MenAtArm>
+	</Faction>
+	
+</Factions>

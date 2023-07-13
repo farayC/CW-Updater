@@ -337,4 +337,12 @@
 		<Culture name="Jerusaleman" faction="Outremer"></Culture>
 		<Culture name="Silesian" faction="Silesian"></Culture>
 	</Heritage>
+	<Heritage name="Caucasian" faction="Georgian">
+		<Culture name="Svan" faction="Georgian"></Culture>
+		<Culture name="Abkhaz" faction="Georgian"></Culture>
+		<Culture name="Mingrelian" faction="Georgian"></Culture>
+		<Culture name="Adyghean" faction="Alan"></Culture>
+		<Culture name="Lezgin" faction="Cuman"></Culture>
+		<Culture name="Udi" faction="Georgian"></Culture>
+	</Heritage>
 </Cultures>
