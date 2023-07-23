@@ -115,6 +115,15 @@
 		<Culture name="Ethiopian" faction="Ethiopian"></Culture>
 		<Culture name="Nubian" faction="Nubian"></Culture>
 		<Culture name="Welayta" faction="Ethiopian"></Culture>
+		<Culture name="Dinka" faction="Nubian"></Culture>
+		<Culture name="Tigray " faction="Ethiopian"></Culture>
+		<Culture name="Agaw" faction="Ethiopian"></Culture>
+		<Culture name="Sidama" faction="Horn African"></Culture>
+		<Culture name="Argobba" faction="Ethiopian"></Culture>
+		<Culture name="Kwama" faction="Ethiopian"></Culture>
+		<Culture name="Berta" faction="Ethiopian"></Culture>
+		<Culture name="Omotic" faction="Horn African"></Culture>
+		<Culture name="Habesha" faction="Ethiopian"></Culture>
 	</Heritage>
 	<Heritage name="East Slavic" faction="Rus">
 		<Culture name="Ilmenian" faction="Rus"></Culture>
@@ -158,6 +167,9 @@
 		<Culture name="Marka" faction="West African"></Culture>
 		<Culture name="Mel" faction="West African"></Culture>
 	</Heritage>
+	<Heritage name="Gur" faction="West African"></Heritage>
+	<Heritage name="West African" faction="West African"></Heritage>
+	<Heritage name="Yoruba" faction="West African"></Heritage>
 	<Heritage name="Horn African" faction="Horn African">
 		<Culture name="Afar" faction="Horn African"></Culture>
 		<Culture name="Beja" faction="Horn African"></Culture>
@@ -206,6 +218,7 @@
 		<Culture name="Khuzi" faction="Kurdish"></Culture>
 		<Culture name="Pamiri" faction="Tajik"></Culture>
 		<Culture name="Turco-Hephthalite" faction="Turko Persian"></Culture>
+		<Culture name="Pashtun" faction="Afghan"></Culture>
 	</Heritage>
 	<Heritage name="Elamite" faction="Kurdish"></Heritage>
 	<Heritage name="Latin" faction="Florentine">

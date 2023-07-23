@@ -68,7 +68,17 @@
 		<MenAtArm type="Tennataerion" key="mk_wel_t2_teulu_saethwyr" max="RANGED" script="tennataerion_unit_"></MenAtArm>
 		<MenAtArm type="Siberian Hunters" key="mk_merc_siberia_t3_archers" max="RANGED" script="siberian_hunters_unit_"></MenAtArm>
 		<MenAtArm type="Swahili Sailors" key="mk_sal_t3_hormuz_pirates" max="INFANTRY" script="swahili_sailors_unit_"></MenAtArm>
-				
+		<MenAtArm type="Hindu Recruits" key="mk_ghu_t2_paiks" max="INFANTRY" script="hindu_recruits_unit_"></MenAtArm>
+		<MenAtArm type="Macemen" key="mk_haf_t1_irban" max="INFANTRY" script="macemen_unit_"></MenAtArm>
+		<MenAtArm type="Hashashin" key="mk_alm_t2_ghuzat" max="INFANTRY" script="hashashin_unit_"></MenAtArm>
+		<MenAtArm type="Bedouin Tribesmen" key="arab_desert_camel_warriors" max="INFANTRY" script="bedouin_tribesmen_unit_"></MenAtArm>
+		<MenAtArm type="Mande Hunter" key="mk_mak_t2_nubian_archers" max="INFANTRY" script="mande_hunter_unit_"></MenAtArm>
+		<MenAtArm type="Islamic Alashair Infantry" key="mk_ayy_t2_halqa_spearmen" max="INFANTRY" script="islamic_alashair_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Islamic Khasseki Infantry" key="mk_ayy_t2_ashair_infantry" max="INFANTRY" script="islamic_khasseki_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Barbary Corsairs " key="mk_sal_t3_hormuz_pirates" max="INFANTRY" script="barbary_corsairs_unit_"></MenAtArm>
+		<MenAtArm type="Shotel Warriors" key="mk_zag_t3_shotelai" max="INFANTRY" script="shotel_warriors_unit_"></MenAtArm>
+		<MenAtArm type="Sofa" key="mk_mak_t2_nubian_archers" max="INFANTRY" script="sofa_unit_"></MenAtArm>
+										
 		<MenAtArm type="Retinue War Elephants" key="mk_ghu_t2_war_elephants_naphta" max="CAVALRY" script="accolade_maa_elephantiers_unit_"></MenAtArm>
 		<MenAtArm type="Retinue Horse Archers" key="mk_abb_t2_turkoman_medium_horse_archer" max="CAVALRY" script="accolade_maa_horse_archers_unit_"></MenAtArm>
 		<MenAtArm type="Retinue Camel Riders" key="mk_alm_t2_tuareg_camel_riders" max="CAVALRY" script="accolade_maa_camel_riders_unit_"></MenAtArm>
@@ -918,7 +928,7 @@
 		<Knights key="mk_swi_t2_feldhauptmann"></Knights>
 
 		<Levies type="Levy Spearmen" key="mk_swi_t2_landsturm_spearmen"></Levies>
-		<Levies type="Levy Infantry" key="swi_t2_eidgenossen_swordsmen"></Levies>
+		<Levies type="Levy Infantry" key="mk_swi_t2_eidgenossen_swordsmen"></Levies>
 		<Levies type="Levy Ranged" key="mk_swi_t2_landsturm_crossbowmen"></Levies>
 
 		<MenAtArm type="Light Footmen" key="mk_brab_t2_goedendag_militia"></MenAtArm>

@@ -15,23 +15,31 @@
 		<MenAtArm type="Bowmen" key="att_ger_gothic_archers" max="RANGED" script="bowmen_unit_"></MenAtArm>
 		<MenAtArm type="Crossbowmen" key="att_rom_elite_ballistarii" max="RANGED" script="crossbowmen_unit_"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="fote_gothic_cavalry_melee_retainers" max="CAVALRY" script="light_horsemen_unit_"></MenAtArm>
-		<MenAtArm type="Armored Horsemen" key="fote_gothic_cavalry_melee_comitatus" max="CAVALRY" script="armored_horsemen_unit_"></MenAtArm>
-		
-		<MenAtArm type="Abudrar" key="att_des_desert_palatina_defectors" max="INFANTRY" script="abudrar_unit_"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="fote_gothic_cavalry_melee_comitatus" max="CAVALRY" script="armored_horsemen_unit_"></MenAtArm>		
+
+		<MenAtArm type="Abudrar" key="att_des_desert_palatina_defectors" max="INFANTRY" script="abudrar_unit_"></MenAtArm>			
         <MenAtArm type="African Horse Archers" key="att_des_es_sanai" max="CAVALRY" script="african_horse_archers_unit_"></MenAtArm>
 		<MenAtArm type="African Pikemen" key="att_des_es_sons_of_the_invincible_mahrem" max="INFANTRY" script="african_pikemen_unit_"></MenAtArm>
+		<MenAtArm type="Argyraspides" key="fote_arab_spearmen_t4_armored" max="INFANTRY" script="ufp_argyraspides_unit_"></MenAtArm>
+		<MenAtArm type="Athenian Epilektoi" key="att_des_es_tanukhid_pikes" max="INFANTRY" script="ufp_athenian_epilektoi_unit_"></MenAtArm>
 		<MenAtArm type="Bondí" key="att_nor_nordic_spearmen" max="INFANTRY" script="bondi_unit_"></MenAtArm>
 		<MenAtArm type="Bush Hunters" key="att_des_es_adana_marksmen" max="RANGED" script="bush_hunter_unit_"></MenAtArm>
+		<MenAtArm type="Byzantin Archers" key="att_rom_ravenna_elite_ballistarii" max="RANGED" script="tfe_maa_byz_archers_unit_"></MenAtArm>
 		<MenAtArm type="Camel Horse Archers" key="att_des_noble_arab_camelry" max="CAVALRY" script="camel_horse_archers_unit_"></MenAtArm>
 	    <MenAtArm type="Camel Riders" key="att_des_tuareg_camel_spearmen" max="CAVALRY" script="camel_rider_unit_"></MenAtArm>
 	    <MenAtArm type="Cataphracts" key="att_est_pushtighban_cataphracts" max="CAVALRY" script="cataphract_unit_"></MenAtArm>
 	    <MenAtArm type="Chakar" key="fote_cel_axemen_nobles_early" max="INFANTRY" script="chakar_unit_"></MenAtArm>
 	    <MenAtArm type="Churls" key="fote_nor_geoguth_spearmen" max="INFANTRY" script="churls_unit_"></MenAtArm>
+        <MenAtArm type="Cichiciquitzo" key="att_des_es_rumha_skirmishers" max="RANGED" script="cichiciquitzo_unit_"></MenAtArm>
 	    <MenAtArm type="Clibanarii" key="att_rom_equites_sagittarii" max="CAVALRY" script="clibanarii_unit_"></MenAtArm>
 	    <MenAtArm type="Comitatenses" key="att_rom_palatina" max="INFANTRY" script="comitatenses_unit_"></MenAtArm>
-	    <MenAtArm type="Cymbrogi" key="att_cel_cateran_brigade" max="INFANTRY" script="cymbrogi_unit_"></MenAtArm>
+      	<MenAtArm type="Cretan Archer" key="att_rom_armoured_sagittarii" max="RANGED" script="ufp_cretan_archer_unit_"></MenAtArm>
+        <MenAtArm type="Cymbrogi" key="att_cel_cateran_brigade" max="INFANTRY" script="cymbrogi_unit_"></MenAtArm>
 	   	<MenAtArm type="Daylami" key="fote_est_dailamite_spears" max="INFANTRY" script="daylami_unit_"></MenAtArm>
+        <MenAtArm type="Ethopian War Elephant" key="fote_axum_elephant_tower" max="CAVALRY" script="ufp_ethopian_war_elephant_unit_"></MenAtArm>
+		<MenAtArm type="Guanche Warrior" key="att_cel_ebdani_raiders" max="RANGED" script="guanche_warrior_unit_"></MenAtArm>
         <MenAtArm type="Guinean Uplanders" key="fote_axum_javelinmen_t2_abyssinian" max="RANGED" script="guinea_warrior_unit_"></MenAtArm>
+        <MenAtArm type="Hippo Toxotai" key="att_rom_comitatensis_spears" max="CAVALRY" script="tfe_maa_hippo_toxotai_unit_"></MenAtArm>
 		<MenAtArm type="Horse Archers" key="att_ger_sarmatian_cataphract_archers" max="CAVALRY" script="horse_archers_unit_"></MenAtArm>
         <MenAtArm type="Horn Warriors" key="att_des_kushite_shotelai" max="RANGED" script="horn_warrior_unit_"></MenAtArm>
 		<MenAtArm type="Huscarls" key="att_nor_elite_nordic_warriors" max="INFANTRY" script="huscarl_unit_"></MenAtArm>
@@ -42,29 +50,32 @@
         <MenAtArm type="Legionaries" key="att_rom_numeroi" max="INFANTRY" script="legionaries_unit_"></MenAtArm>     
 		<MenAtArm type="Lenkas" key="ave_hepht_sogd_warriors_chosen" max="INFANTRY" script="garudas_unit_"></MenAtArm>
         <MenAtArm type="Longbowmen" key="fote_nor_longbowmen" max="RANGED" script="longbowmen_unit_"></MenAtArm>
+	    <MenAtArm type="Marc'hegion" key="fote_cel_romano_british_horsemen" max="CAVALRY" script="marc_hegion_unit_"></MenAtArm>
 	    <MenAtArm type="Metsänvartija" key="att_slav_noble_skirmishers" max="RANGED" script="metsanvartija_unit_"></MenAtArm>
 	    <MenAtArm type="Mountaineer" key="ave_hepht_sogd_warriors_chosen" max="INFANTRY" script="mountaineer_unit_"></MenAtArm>
         <MenAtArm type="Mubarizun" key="att_des_es_noble_al_rahrain" max="INFANTRY" script="mubarizun_unit_"></MenAtArm>
         <MenAtArm type="Nile Archers" key="att_des_es_adana_marksmen" max="RANGED" script="archers_of_the_nile_unit_"></MenAtArm>
-        <MenAtArm type="Onager" key="att_rom_onager_large" max="RANGED" script="onager_unit_"></MenAtArm>
+        <MenAtArm type="Norman Cavalry" key="att_ger_sacra_francisca" max="CAVALRY" script="norman_cavalry_unit_"></MenAtArm>
+  	    <MenAtArm type="Onager" key="att_rom_onager_large" max="RANGED" script="onager_unit_"></MenAtArm>
         <MenAtArm type="Palatinae" key="att_rom_numeroi" max="INFANTRY" script="palatinae_unit_"></MenAtArm>
-        <MenAtArm type="Sahara Horsemen" key="att_des_es_jamal_al_baltha" max="CAVALRY" script="hussar_unit_"></MenAtArm>
+        <MenAtArm type="Pamir Tribesmen" key="att_est_elite_dailamite_infantry" max="RANGED" script="pamir_tribesmen_unit_"></MenAtArm>		
+        <MenAtArm type="Protostates" key="att_rom_eastern_auxilia_palatina" max="INFANTRY" script="tfe_maa_protostates_unit_"></MenAtArm>	
+        <MenAtArm type="Sacred Band Carthage" key="fote_berber_spearmen_t3_nobles" max="INFANTRY" script="ufp_sacred_band_carthage_unit_"></MenAtArm>
+	    <MenAtArm type="Sahara Horsemen" key="att_des_es_jamal_al_baltha" max="CAVALRY" script="hussar_unit_"></MenAtArm>
 		<MenAtArm type="Sahel Horsemen" key="att_des_garamantian_lancers" max="CAVALRY" script="sahel_horsemen_unit_"></MenAtArm>
 		<MenAtArm type="Savran" key="att_est_zhayedan_immortal_cavalry" max="CAVALRY" script="savran_unit_"></MenAtArm> 
+        <MenAtArm type="Scorpio" key="att_rom_cheiroballistra" max="RANGED" script="scorpio_unit_"></MenAtArm>
 		<MenAtArm type="Servile Soldiers" key="att_des_es_afar_raidmasters" max="INFANTRY" script="servile_soldiers_unit_"></MenAtArm>
+	    <MenAtArm type="Siberian Hunters" key="att_nom_steppe_shield_archers" max="RANGED" script="siberian_hunters_unit_"></MenAtArm>
 		<MenAtArm type="Siege towers" key="att_rom_numeroi" max="RANGED" script="siege_towers_unit_"></MenAtArm>
-		<MenAtArm type="Scorpio" key="att_rom_cheiroballistra" max="RANGED" script="scorpio_unit_"></MenAtArm>
+		<MenAtArm type="Spartan" key="att_rom_lanciarii_seniores" max="INFANTRY" script="ufp_spartan_unit_"></MenAtArm>
+        <MenAtArm type="Swahili Sailors" key="att_des_es_rumha_warriors" max="INFANTRY" script="swahili_sailors_unit_"></MenAtArm>
+        <MenAtArm type="Tennataerion" key="att_cel_celtic_archers" max="RANGED" script="tennataerion_unit_"></MenAtArm>
+		<MenAtArm type="Varangian Veterans" key="fote_nor_axemen_t4_vareg" max="RANGED" script="varangian_veterans_unit_"></MenAtArm>
 	    <MenAtArm type="Vigmen" key="att_nor_nordic_bows" max="RANGED" script="vigmen_unit_"></MenAtArm>     
         <MenAtArm type="War Dogs" key="att_ger_burgundian_warhounds" max="RANGED" script="war_dogs_unit_"></MenAtArm>
 		<MenAtArm type="War Elephant" key="att_est_indian_elephants" max="CAVALRY" script="war_elephant_unit_"></MenAtArm>
- 		<MenAtArm type="Pamir Tribesmen" key="att_est_elite_dailamite_infantry" max="RANGED" script="pamir_tribesmen_unit_"></MenAtArm>
-		<MenAtArm type="Cichiciquitzo" key="fote_berber_javelinmen_t2" max="RANGED" script="cichiciquitzo_unit_"></MenAtArm>
-		<MenAtArm type="Marc'hegion" key="fote_cel_romano_british_horsemen" max="CAVALRY" script="marc_hegion_unit_"></MenAtArm>
-		<MenAtArm type="Norman Cavalry" key="att_ger_sacra_francisca" max="CAVALRY" script="norman_cavalry_unit_"></MenAtArm>
-		<MenAtArm type="Tennataerion" key="att_cel_celtic_archers" max="RANGED" script="tennataerion_unit_"></MenAtArm>
-		<MenAtArm type="Siberian Hunters" key="att_nom_steppe_shield_archers" max="RANGED" script="siberian_hunters_unit_"></MenAtArm>
-		<MenAtArm type="Swahili Sailors" key="att_des_es_rumha_warriors" max="INFANTRY" script="swahili_sailors_unit_"></MenAtArm>
-     
+		    
 		<MenAtArm type="Retinue War Elephants" key="att_est_armoured_indian_elephants" max="CAVALRY" script="accolade_maa_elephantiers_unit_"></MenAtArm>
 		<MenAtArm type="Retinue Horse Archers" key="att_nom_hunnic_devil_archers" max="CAVALRY" script="accolade_maa_horse_archers_unit_"></MenAtArm>
 		<MenAtArm type="Retinue Camel Riders" key="att_des_es_armoured_himyarite_shotelai" max="CAVALRY" script="accolade_maa_camel_riders_unit_"></MenAtArm>
@@ -74,7 +85,6 @@
 		<MenAtArm type="Retinue Pikemen" key="att_ger_suebi_oath_takers" max="INFANTRY" script="accolade_maa_pikes_unit_"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="att_ger_agathyrsi_warriors" max="RANGED" script="accolade_maa_skirmishers_unit_"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="att_ger_germanic_warband_got" max="INFANTRY" script="accolade_maa_vanguard_unit_"></MenAtArm>
-
 	</Faction>
 	
 <Faction name="Rome">
@@ -685,7 +695,7 @@
 		
 		<MenAtArm type="Light Footmen" key="fote_berber_swordsmen_t2_light"></MenAtArm>
 		<MenAtArm type="Armored Footmen" key="fote_berber_swordsmen_t2_romanized"></MenAtArm>       
-		<MenAtArm type="Pikemen" key="fote_berber_spearmen_t3_nobles"></MenAtArm>
+		<MenAtArm type="Pikemen" key="att_des_shawia_guard"></MenAtArm>
 		<MenAtArm type="Bowmen" key="att_des_garamantian_hunters"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="att_des_tuareg_camel_spearmen"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="fote_berber_cavalry_melee_t3_romanized"></MenAtArm>
@@ -793,7 +803,7 @@
 		<MenAtArm type="Retinue Archers" key="att_est_kurdish_archers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="att_des_es_mavias_bodyguards"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="att_des_noble_arab_camelry"></MenAtArm>
-		<MenAtArm type="Retinue Pikemen" key="att_des_es_tanukhid_pikes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_des_es_khahyahlim"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="att_des_es_badyia_skirmishers"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="att_des_es_baltha_defenders"></MenAtArm>
 	</Faction>
@@ -822,7 +832,7 @@
 		<MenAtArm type="Retinue Archers" key="att_est_kurdish_archers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="att_des_es_al_dawser"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="att_des_es_al_shahba"></MenAtArm>
-		<MenAtArm type="Retinue Pikemen" key="att_des_es_tanukhid_pikes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_des_es_khahyahlim"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="att_est_armenian_slingers"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="att_des_es_baltha_defenders"></MenAtArm>
 	</Faction>
