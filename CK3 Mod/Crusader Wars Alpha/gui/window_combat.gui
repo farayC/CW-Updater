@@ -1046,6 +1046,7 @@ window = {
 		###   ---Added Crusader Wars Play Battle Control1---     ###
 		###      Enabled for player character only lead army     ### 
 		############################################################
+		
 		button = { name = Play_Battle_control1
 			visible = "[And(CombatWindow.GetLeftSideCommander.IsPlayer, Not(CombatWindow.IsCombatInPursuitPhase))]" # ONLY PLAYER character can control battles, since the player character can always control, regardless of options this doesn't need the variable check.
 			# 
