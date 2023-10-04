@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Factions>
+	<Faction name="Default">
+
+		
+		<MenAtArm type="Light Footmen" language="Infantes ligeros"></MenAtArm>
+		<MenAtArm type="Armored Footmen" language="Infantes acorazados"></MenAtArm>
+		<MenAtArm type="Pikemen" language="Piqueros"></MenAtArm>
+		<MenAtArm type="Bowmen" language="Arqueros"></MenAtArm>
+		<MenAtArm type="Crossbowmen" language="Ballesteros"></MenAtArm>
+		<MenAtArm type="Light Horsemen" language="Jinetes ligeros"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" language="Jinetes acorazados"></MenAtArm>
+		<MenAtArm type="House Guards" language="Guardia"></MenAtArm>
+		<MenAtArm type="Order Knights" language="Caballeros de la orden"></MenAtArm>
+		<MenAtArm type="Jomsviking Pirates" language="Jomsviking Pirates"></MenAtArm>
+		
+		<MenAtArm type="Caballeros" language="Caballeros"></MenAtArm>
+		<MenAtArm type="Camel Riders" language="Jinetes de camellos"></MenAtArm>
+		<MenAtArm type="Hobelars" language="Hobelars"></MenAtArm>
+		<MenAtArm type="Paiks" language="Paiks"></MenAtArm>
+		<MenAtArm type="Sahel Horsemen" language="Jinetes de Sahel"></MenAtArm>
+		<MenAtArm type="War Elephants" language="Elefantes de guerra"></MenAtArm>
+		
+		<MenAtArm type="Abudrar" language="Abudrar"></MenAtArm>
+		<MenAtArm type="Ayyar" language="Ayyar"></MenAtArm>
+		<MenAtArm type="Bondí" language="Bondí"></MenAtArm>
+		<MenAtArm type="Bush Hunters" language="Cazadores del monte"></MenAtArm>
+		<MenAtArm type="Cataphracts" language="Catafractos"></MenAtArm>
+		<MenAtArm type="Druzhina" language="Druzhina"></MenAtArm>
+		<MenAtArm type="Gendarmes" language="Gendarmes"></MenAtArm>
+		<MenAtArm type="Goedendag Militia" language="Milicia goedendag"></MenAtArm>
+		<MenAtArm type="Guinean Uplanders" language="Montañeses guineanos"></MenAtArm>
+		<MenAtArm type="Horn Warriors" language="Guerreros del Cuerno"></MenAtArm>
+		<MenAtArm type="Horse Archers" language="Arqueros a caballo"></MenAtArm>
+		<MenAtArm type="Huscarls" language="Huscarles"></MenAtArm>
+		<MenAtArm type="Khandayat" language="Khandayat"></MenAtArm>
+		<MenAtArm type="Konni" language="Konni"></MenAtArm>
+		<MenAtArm type="Lenkas" language="Lenkas"></MenAtArm>
+		<MenAtArm type="Longbowmen" language="Arqueros de arco largo"></MenAtArm>
+		<MenAtArm type="Metsänvartija" language="Metsänvartija"></MenAtArm>
+		<MenAtArm type="Monaspa" language="Monaspa"></MenAtArm>
+		<MenAtArm type="Mountaineers" language="Montañeros"></MenAtArm>
+		<MenAtArm type="Mubarizun" language="Mubarizun"></MenAtArm>
+		<MenAtArm type="Mulathamūn" language="Mulathimun"></MenAtArm>
+		<MenAtArm type="Nile Archers" language="Arqueros del Nilo"></MenAtArm>
+		<MenAtArm type="Palace Guards" language="Guardias palatinos"></MenAtArm>
+		<MenAtArm type="Picchieri" language="Picchieri"></MenAtArm>
+		<MenAtArm type="Sarawit" language="Sarawit"></MenAtArm>
+		<MenAtArm type="Schiltron" language="Schiltron"></MenAtArm>
+		<MenAtArm type="Shomer" language="Shomer"></MenAtArm>
+		<MenAtArm type="Varangian Veterans" language="Veteranos Varegos"></MenAtArm>
+		<MenAtArm type="Vigmen" language="Vigmen"></MenAtArm>
+		<MenAtArm type="Zbrojnosh" language="Zbrojnosh"></MenAtArm>
+		
+		<MenAtArm type="Chu-ko-nu Archers" language="Arqueros chu-ko-nu"></MenAtArm>
+		<MenAtArm type="Landsknechts" language="Lansquenetes"></MenAtArm>
+		<MenAtArm type="Palatini" language="Palatini"></MenAtArm>
+		<MenAtArm type="Chasseurs" language="Chasseurs"></MenAtArm>
+		<MenAtArm type="Vaulter Infantry" language="Infantería pertiguista"></MenAtArm>
+		
+		<MenAtArm type="Retinue War Elephants" language="Séquito de elefantes de guerra"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" language="Séquito de arqueros a caballo"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" language="Séquito de jinetes de camellos"></MenAtArm>
+		<MenAtArm type="Retinue Archers" language="Séquito de arqueros"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" language="Séquito de lanceros"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" language="Séquito de jinetes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" language="Séquito de piqueros"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" language="Séquito de escaramuzadores"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" language="Séquito de vanguardia"></MenAtArm>
+	</Faction>
+	
+</Factions>

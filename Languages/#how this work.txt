@@ -1,0 +1,17 @@
+#####################################
+#                      Language Support	          #
+######################################
+!!! Do not edit anything in this folder!!!
+
+# What is this? 
+In order to Crusader Wars to work with users playing Crusader Kings 3 with a different language other then english, it needs these language files, that are essentually the translation of cultures, heritages and men-at-arms names to a language as its in ck3 game files.
+
+#Why we need this?
+Crusader Wars reads the battle data from the |console_history.txt| and all names in the unit mappers files for cultures, heritages and MAA are in english, so if you are playing in a different language, ck3 logs all names of those in the using language, making the mod not be able to find any data and causing errors or weird bugs. 
+
+#And the solution?
+This files replace the english names of everything with the using language, making the mod now be able to find data and work correctly!
+
+#What if a one Unit Mapper adds another MAA or Culture that is not translated here?
+Simple, Unit Mappers can have a folder("languages") that does the same thing as it does here! It can add a translation, for MAA or Cultures, by using the same example as this ones on the folder, simply only adding the untranslated ones. 
+Language files in a Unit Mapper just increments the data to these official files during playthrough.

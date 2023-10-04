@@ -1,0 +1,11 @@
+#####################################################
+#		            Crusader Wars		         #
+#####################################################
+
+
+if you don't have steam workshop Crusader Wars mod, use this one.
+
+Installation:
+     - Copy and paste the folder and the file to "Documents/Paradox Interactive/Crusader Kings III/Mod".
+     - Add the mod your current playset on Crusader Kings Launcher.
+     - Done!

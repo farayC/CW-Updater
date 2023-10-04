@@ -1,0 +1,84 @@
+<UnitsLanguages>
+	<MenAtArm original_name="Light Footmen" language_name="Infantes ligeros"></MenAtArm>
+	<MenAtArm original_name="Armored Footmen" language_name="Infantes acorazados"></MenAtArm>
+	<MenAtArm original_name="Pikemen" language_name="Piqueros"></MenAtArm>
+	<MenAtArm original_name="Bowmen" language_name="Arqueros"></MenAtArm>
+	<MenAtArm original_name="Crossbowmen" language_name="Ballesteros"></MenAtArm>
+	<MenAtArm original_name="Light Horsemen" language_name="Jinetes ligeros"></MenAtArm>
+	<MenAtArm original_name="Armored Horsemen" language_name="Jinetes acorazados"></MenAtArm>
+	<MenAtArm original_name="House Guards" language_name="Guardia"></MenAtArm>
+	<MenAtArm original_name="Order Knights" language_name="Caballeros de la orden"></MenAtArm>
+	
+	<MenAtArm original_name="Jomsviking Pirates" language_name="Piratas jomsvikingos"></MenAtArm>
+	<MenAtArm original_name="Caballeros" language_name="Caballeros"></MenAtArm>
+	<MenAtArm original_name="Camel Riders" language_name="Jinetes de camellos"></MenAtArm>
+	<MenAtArm original_name="Hobelars" language_name="Hobelars"></MenAtArm>
+	<MenAtArm original_name="Paiks" language_name="Paiks"></MenAtArm>
+	<MenAtArm original_name="Sahel Horsemen" language_name="Jinetes de Sahel"></MenAtArm>
+	<MenAtArm original_name="War Elephants" language_name="Elefantes de guerra"></MenAtArm>
+	
+	<MenAtArm original_name="Abudrar" language_name="Abudrar"></MenAtArm>
+	<MenAtArm original_name="Ayyar" language_name="Ayyar"></MenAtArm>
+	<MenAtArm original_name="Bondí" language_name="Bóndi"></MenAtArm>
+	<MenAtArm original_name="Bush Hunters" language_name="Cazadores del monte"></MenAtArm>
+	<MenAtArm original_name="Cataphracts" language_name="Catafractos"></MenAtArm>
+	<MenAtArm original_name="Druzhina" language_name="Druzhina"></MenAtArm>
+	<MenAtArm original_name="Gendarmes" language_name="Gendarmes"></MenAtArm>
+	<MenAtArm original_name="Goedendag Militia" language_name="Milicia goedendag"></MenAtArm>
+	<MenAtArm original_name="Guinean Uplanders" language_name="Montañeses guineanos"></MenAtArm>
+	<MenAtArm original_name="Horn Warriors" language_name="Guerreros del Cuerno"></MenAtArm>
+	<MenAtArm original_name="Horse Archers" language_name="Arqueros a caballo"></MenAtArm>
+	<MenAtArm original_name="Huscarls" language_name="Huscarles"></MenAtArm>
+	<MenAtArm original_name="Khandayat" language_name="Khandayat"></MenAtArm>
+	<MenAtArm original_name="Konni" language_name="Konni"></MenAtArm>
+	<MenAtArm original_name="Lenkas" language_name="Lenkas"></MenAtArm>
+	<MenAtArm original_name="Longbowmen" language_name="Arqueros de arco largo"></MenAtArm>
+	<MenAtArm original_name="Metsänvartija" language_name="Metsänvartija"></MenAtArm>
+	<MenAtArm original_name="Monaspa" language_name="Monaspa"></MenAtArm>
+	<MenAtArm original_name="Mountaineers" language_name="Montañeros"></MenAtArm>
+	<MenAtArm original_name="Mubarizun" language_name="Mubarizun"></MenAtArm>
+	<MenAtArm original_name="Mulathamūn" language_name="Mulathimun"></MenAtArm>
+	<MenAtArm original_name="Nile Archers" language_name="Arqueros del Nilo"></MenAtArm>
+	<MenAtArm original_name="Palace Guards" language_name="Guardias palatinos"></MenAtArm>
+	<MenAtArm original_name="Picchieri" language_name="Picchieri"></MenAtArm>
+	<MenAtArm original_name="Sarawit" language_name="Sarawit"></MenAtArm>
+	<MenAtArm original_name="Schiltron" language_name="Schiltron"></MenAtArm>
+	<MenAtArm original_name="Shomer" language_name="Shomer"></MenAtArm>
+	<MenAtArm original_name="Varangian Veterans" language_name="Veteranos varegos"></MenAtArm>
+	<MenAtArm original_name="Vigmen" language_name="Vigmen"></MenAtArm>
+	<MenAtArm original_name="Zbrojnosh" language_name="Zbrojnosh"></MenAtArm>
+	<MenAtArm original_name="Chu-ko-nu Archers" language_name="Arqueros chu-ko-nu"></MenAtArm>
+	<MenAtArm original_name="Landsknechts" language_name="Lansquenetes"></MenAtArm>
+	<MenAtArm original_name="Palatini" language_name="Palatini"></MenAtArm>
+	<MenAtArm original_name="Chasseurs" language_name="Chasseurs"></MenAtArm>
+	<MenAtArm original_name="Vaulter Infantry" language_name="Infantería pertiguista"></MenAtArm>
+	
+	<MenAtArm original_name="Pamir Tribesmen" language_name=""></MenAtArm>
+	<MenAtArm original_name="Cichiciquitzo" language_name=""></MenAtArm>
+	<MenAtArm original_name="Marc'hegion" language_name=""></MenAtArm>
+	<MenAtArm original_name="Norman Cavalry" language_name=""></MenAtArm>
+	<MenAtArm original_name="Tennataerion" language_name=""></MenAtArm>
+	<MenAtArm original_name="Siberian Hunters" language_name=""></MenAtArm>
+	<MenAtArm original_name="Swahili Sailors" language_name=""></MenAtArm>
+	<MenAtArm original_name="Hindu Recruits" language_name=""></MenAtArm>
+	<MenAtArm original_name="Macemen" language_name=""></MenAtArm>
+	<MenAtArm original_name="Hashashin" language_name=""></MenAtArm>
+	<MenAtArm original_name="Bedouin Tribesmen" language_name=""></MenAtArm>
+	<MenAtArm original_name="Mande Hunter" language_name=""></MenAtArm>
+	<MenAtArm original_name="Islamic Alashair Infantry" language_name=""></MenAtArm>
+	<MenAtArm original_name="Islamic Khasseki Infantry" language_name=""></MenAtArm>
+	<MenAtArm original_name="Barbary Corsairs" language_name=""></MenAtArm>
+	<MenAtArm original_name="Shotel Warriors" language_name=""></MenAtArm>
+	<MenAtArm original_name="Sofa" language_name=""></MenAtArm>
+	
+	<MenAtArm original_name="Retinue War Elephants" language_name="Séquito de elefantes de guerra"></MenAtArm>
+	<MenAtArm original_name="Retinue Horse Archers" language_name="Séquito de arqueros a caballo"></MenAtArm>
+	<MenAtArm original_name="Retinue Camel Riders" language_name="Séquito de jinetes de camellos"></MenAtArm>
+	<MenAtArm original_name="Retinue Archers" language_name="Séquito de arqueros"></MenAtArm>
+	<MenAtArm original_name="Retinue Crossbowmen" language_name="Séquito de Séquito de ballesteros"></MenAtArm>
+	<MenAtArm original_name="Retinue Lancers" language_name="Séquito de lanceros"></MenAtArm>
+	<MenAtArm original_name="Retinue Outriders" language_name="Séquito de jinetes"></MenAtArm>
+	<MenAtArm original_name="Retinue Pikemen" language_name="Séquito de piqueros"></MenAtArm>
+	<MenAtArm original_name="Retinue Skirmishers" language_name="Séquito de escaramuzadores"></MenAtArm>
+	<MenAtArm original_name="Retinue Vanguard" language_name="Séquito de vanguardia"></MenAtArm>
+</UnitsLanguages>
