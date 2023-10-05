@@ -1227,7 +1227,7 @@
 		<MenAtArm type="Light Horsemen" key="mk_merc_eng_t1_reivers"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="mk_wel_t1_uchelwyr"></MenAtArm>
 		<MenAtArm type="House Guards" key="mk_merc_gael_t1_galloglaich"></MenAtArm>
-		<MenAtArm type="Order Knights" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
@@ -1324,7 +1324,7 @@
 		<MenAtArm type="Light Horsemen" key="mk_ara_t1_caballeros_villanos"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="mk_ara_t1_fidalgos"></MenAtArm>
 		<MenAtArm type="House Guards" key="catalan_spearmen"></MenAtArm>
-		<MenAtArm type="Order Knights" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Horse Archers" key="mk_ara_t1_mounted_crossbowmen"></MenAtArm>
@@ -1357,7 +1357,7 @@
 		<MenAtArm type="Light Horsemen" key="mk_cas_t1_almogavar_scouts"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="mk_cas_t1_hidalgos"></MenAtArm>
 		<MenAtArm type="House Guards" key="mk_cas_t1_monteros_de_espinosa"></MenAtArm>
-		<MenAtArm type="Order Knights" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Horse Archers" key="mk_cas_t1_mounted_crossbowmen"></MenAtArm>
@@ -1389,8 +1389,8 @@
 		<MenAtArm type="Crossbowmen" key="mk_ara_t1_sergeant_crossbowmen"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="mk_ara_t1_caballeros_villanos"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="mk_nav_t1_hidalgos"></MenAtArm>
-		<MenAtArm type="House Guards" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
-		<MenAtArm type="Order Knights" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="House Guards" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Horse Archers" key="mk_ara_t1_mounted_crossbowmen"></MenAtArm>
@@ -1422,8 +1422,8 @@
 		<MenAtArm type="Crossbowmen" key="mk_por_t1_besteiros"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="mk_cas_t1_almogavar_scouts"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="mk_por_t1_cavaleiros"></MenAtArm>
-		<MenAtArm type="House Guards" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
-		<MenAtArm type="Order Knights" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="House Guards" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Horse Archers" key="mk_por_t1_besteiros_de_cavalo"></MenAtArm>
@@ -2777,7 +2777,7 @@
 		<MenAtArm type="Light Horsemen" key="mk_merc_eng_t1_reivers"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="mk_wel_t1_uchelwyr"></MenAtArm>
 		<MenAtArm type="House Guards" key="mk_aor_sco_t1_galloglaich"></MenAtArm>
-		<MenAtArm type="Order Knights" key="mk_mio_t1_spanish_order_knights_dismounted"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_cas_t1_order_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
