@@ -17,25 +17,6 @@ local dev = require "lua_scripts.dev"
 local scripting = require "lua_scripts.episodicscripting"
 
 
-
-
--- Callbacks
-function myfunction(context)
-    
-    if context.string == "button_end_battle" then
-        dev.log("Battle has finished")
-    end
-    
-    if context.string == "button_dismiss_results" then
-        dev.log("Battle has finished")
-    end
-
-end
-scripting.AddEventCallBack("ComponentLClickUp", myfunction);
-
-
-
-
 -- Logging
 dev.log("")
 dev.log("--------------------------------------------------------")

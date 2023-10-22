@@ -44,8 +44,8 @@ dev.log("\n" .. date);
 dev.log"\n Script Loaded";
 
 
-bm:setup_victory_callback(function() file_debug() end);
-bm:register_phase_change_callback("Deployment", function() Deployment_Phase() end);	
+--bm:setup_victory_callback(function() file_debug() end);
+bm:register_phase_change_callback("Complete", function() file_debug() end);	
  
 function Deployment_Phase()
 	bm:out("Battle is in deployment phase");
@@ -55,6 +55,21 @@ function Start_Battle()
 	bm:out("Battle is Starting");
 	
 end;
+
+local scripting = require "lua_scripts.episodicscripting"
+-- Callbacks
+function EndBattle(context)
+    
+    if context.string == "button_end_battle" then
+        dev.log("Battle has finished")
+    end;
+    
+    if context.string == "button_dismiss_results" then
+        dev.log("Battle has finished")
+    end;
+
+end;
+scripting.AddEventCallBack("ComponentLClickUp", EndBattle);
 
 
 
@@ -66,7 +81,7 @@ function file_debug()
 	
 		bm:callback(function() bm:end_battle() end, 1000);
         dev.log("Defeat")
-	else
+	elseif is_routing_or_dead(Alliance_Bolton) then
 		bm:out("Player has won !");
 
 		bm:callback(function() bm:end_battle() end, 1000);

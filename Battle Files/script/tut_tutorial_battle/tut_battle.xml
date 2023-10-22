@@ -3,81 +3,97 @@
 <alliance id="0">
 <army>
 
-<army_name>Kingdom of Aragon</army_name>
+<army_name>Duchy of Lower Lorraine</army_name>
 
 <faction>historical_house_stark</faction>
 
 <deployment_area>
-<centre x ="0.00" y ="-650.00"/>
-<width metres ="1800"/>
-<height metres ="500"/>
-<orientation radians ="0.00"/>
+<centre x ="-450.00" y ="0.00"/>
+<width metres ="400"/>
+<height metres ="1300"/>
+<orientation radians ="3.14"/>
 </deployment_area>
 
 <unit num_soldiers= "50" script_name= "player_general_unit_0">
-<unit_type type="mk_ara_t3_king_bodyguard"/>
-<position x="0" y="-550"/>
-<orientation radians="0.00"/>
+<unit_type type="cha_sax_gasindi"/>
+<position x="-350" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="0"/>
+<unit_experience level="1"/>
 <general>
-<name>King Sancho of Aragon</name>
-<star_rating level="3"/>
+<name>Duke Gottfried III of Lower Lorraine</name>
+<star_rating level="2"/>
 </general>
 </unit>
 
-<unit num_soldiers= "70" script_name= "player_general_knights_unit_0">
-<unit_type type="mk_ara_t3_general_bodyguard"/>
-<position x="-30" y="-565"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "60" script_name= "player_general_knights_unit_0">
+<unit_type type="cha_fra_guardsmen"/>
+<position x="-365" y="30"/>
+<orientation radians="1.57"/>
+<width metres="21.70"/>
+<unit_experience level="2"/>
+</unit>
+
+<unit num_soldiers= "177" script_name= "player_levy_spearmen_unit_0">
+<unit_type type="cha_fra_levy_spear"/>
+<position x="-395" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="1"/>
 </unit>
 
-<unit num_soldiers= "147" script_name= "player_levy_spearmen_unit_0">
-<unit_type type="mk_nav_t3_militia_guisarmiers"/>
-<position x="0" y="-595"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "177" script_name= "player_levy_spearmen_unit_1">
+<unit_type type="cha_fra_levy_spear"/>
+<position x="-395" y="30"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="1"/>
 </unit>
 
-<unit num_soldiers= "56" script_name= "player_levy_infantry_unit_0">
-<unit_type type="mk_ara_t3_pavise_spearmen"/>
-<position x="0" y="-610"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "177" script_name= "player_levy_spearmen_unit_2">
+<unit_type type="cha_fra_levy_spear"/>
+<position x="-395" y="60"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="1"/>
 </unit>
 
-<unit num_soldiers= "23" script_name= "player_levy_ranged_unit_0">
-<unit_type type="mk_ara_t3_militia_crossbowmen"/>
-<position x="0" y="-625"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "102" script_name= "player_levy_infantry_unit_0">
+<unit_type type="cha_sax_seax_warriors"/>
+<position x="-410" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="1"/>
 </unit>
 
-<unit num_soldiers= "16" script_name= "player_light_footmen_unit_0">
-<unit_type type="mk_ara_t3_peones"/>
-<position x="0" y="-640"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "102" script_name= "player_levy_infantry_unit_1">
+<unit_type type="cha_sax_seax_warriors"/>
+<position x="-410" y="30"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="1"/>
 </unit>
 
-<unit num_soldiers= "36" script_name= "player_armored_footmen_unit_0">
-<unit_type type="mk_ara_t3_halberdier_maa"/>
-<position x="0" y="-655"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "82" script_name= "player_levy_ranged_unit_0">
+<unit_type type="cha_fra_levy_archers"/>
+<position x="-425" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="1"/>
 </unit>
 
-<unit num_soldiers= "40" script_name= "player_bowmen_unit_0">
-<unit_type type="mk_ara_t3_peones_crossbowmen"/>
-<position x="0" y="-670"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "197" script_name= "player_armored_footmen_unit_0">
+<unit_type type="cha_fra_armoured_sword"/>
+<position x="-440" y="0"/>
+<orientation radians="1.57"/>
+<width metres="21.70"/>
+<unit_experience level="1"/>
+</unit>
+
+<unit num_soldiers= "97" script_name= "player_bowmen_unit_0">
+<unit_type type="cha_fra_mounted_archers"/>
+<position x="-455" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="1"/>
 </unit>
@@ -94,19 +110,19 @@
 <alliance id="1">
 <army>
 
-<army_name>Principality of Catalonia</army_name>
+<army_name>Prince-Bishopric of Mainz</army_name>
 
 <faction>historical_house_bolton</faction>
 
 <deployment_area>
-<centre x ="0.00" y ="650.00"/>
-<width metres ="1800"/>
-<height metres ="500"/>
-<orientation radians ="3.14"/>
+<centre x ="450.00" y ="0.00"/>
+<width metres ="400"/>
+<height metres ="1300"/>
+<orientation radians ="6.28"/>
 </deployment_area>
 
 <deployables>
-<deployable_item name="deployable_stakes" num_deployables ="0">
+<deployable_item name="deployable_stakes" num_deployables ="1">
 </deployable_item>
 <deployable_item name="deployable_spiketrap" num_deployables ="0">
 </deployable_item>
@@ -115,95 +131,71 @@
 </deployables>
 
 <unit num_soldiers= "50" script_name= "enemy_general_unit_0">
-<unit_type type="mk_ara_t3_king_bodyguard"/>
-<position x="0" y="-550"/>
-<orientation radians="0.00"/>
+<unit_type type="cha_sax_gasindi"/>
+<position x="-350" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
 <unit_experience level="0"/>
 <general>
-<name>Benet</name>
-<star_rating level="4"/>
+<name>Baron Jürgen of Wiesbaden</name>
+<star_rating level="2"/>
 </general>
 </unit>
 
-<unit num_soldiers= "180" script_name= "enemy_general_knights_unit_0">
-<unit_type type="mk_ara_t3_general_bodyguard"/>
-<position x="-30" y="-565"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "20" script_name= "enemy_general_knights_unit_0">
+<unit_type type="cha_fra_guardsmen"/>
+<position x="-365" y="30"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="2"/>
+<unit_experience level="0"/>
 </unit>
 
-<unit num_soldiers= "121" script_name= "enemy_levy_spearmen_unit_0">
-<unit_type type="mk_nav_t3_militia_guisarmiers"/>
-<position x="0" y="-595"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "108" script_name= "enemy_levy_spearmen_unit_0">
+<unit_type type="cha_fra_levy_spear"/>
+<position x="-395" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="1"/>
+<unit_experience level="0"/>
 </unit>
 
-<unit num_soldiers= "121" script_name= "enemy_levy_spearmen_unit_1">
-<unit_type type="mk_nav_t3_militia_guisarmiers"/>
-<position x="-30" y="-595"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "108" script_name= "enemy_levy_spearmen_unit_1">
+<unit_type type="cha_fra_levy_spear"/>
+<position x="-395" y="30"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="1"/>
+<unit_experience level="0"/>
 </unit>
 
-<unit num_soldiers= "93" script_name= "enemy_levy_infantry_unit_0">
-<unit_type type="mk_ara_t3_pavise_spearmen"/>
-<position x="0" y="-610"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "83" script_name= "enemy_levy_infantry_unit_0">
+<unit_type type="cha_sax_seax_warriors"/>
+<position x="-410" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="1"/>
+<unit_experience level="0"/>
 </unit>
 
-<unit num_soldiers= "37" script_name= "enemy_levy_ranged_unit_0">
-<unit_type type="mk_ara_t3_militia_crossbowmen"/>
-<position x="0" y="-625"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "33" script_name= "enemy_levy_ranged_unit_0">
+<unit_type type="cha_fra_levy_archers"/>
+<position x="-425" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="1"/>
+<unit_experience level="0"/>
 </unit>
 
-<unit num_soldiers= "10" script_name= "enemy_armored_footmen_unit_0">
-<unit_type type="mk_ara_t3_halberdier_maa"/>
-<position x="0" y="-640"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "95" script_name= "enemy_armored_footmen_unit_0">
+<unit_type type="cha_fra_armoured_sword"/>
+<position x="-440" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="1"/>
+<unit_experience level="0"/>
 </unit>
 
-<unit num_soldiers= "88" script_name= "enemy_pikemen_unit_0">
-<unit_type type="mk_ara_t3_pikemen"/>
-<position x="0" y="-655"/>
-<orientation radians="0.00"/>
+<unit num_soldiers= "185" script_name= "enemy_bowmen_unit_0">
+<unit_type type="cha_fra_mounted_archers"/>
+<position x="-455" y="0"/>
+<orientation radians="1.57"/>
 <width metres="21.70"/>
-<unit_experience level="1"/>
-</unit>
-
-<unit num_soldiers= "94" script_name= "enemy_bowmen_unit_0">
-<unit_type type="mk_ara_t3_peones_crossbowmen"/>
-<position x="0" y="-670"/>
-<orientation radians="0.00"/>
-<width metres="21.70"/>
-<unit_experience level="1"/>
-</unit>
-
-<unit num_soldiers= "93" script_name= "enemy_bowmen_unit_1">
-<unit_type type="mk_ara_t3_peones_crossbowmen"/>
-<position x="-30" y="-670"/>
-<orientation radians="0.00"/>
-<width metres="21.70"/>
-<unit_experience level="1"/>
-</unit>
-
-<unit num_soldiers= "66" script_name= "enemy_shomer_unit_0">
-<unit_type type="mk_rum_t3_azab_swordsmen"/>
-<position x="0" y="-685"/>
-<orientation radians="0.00"/>
-<width metres="21.70"/>
-<unit_experience level="1"/>
+<unit_experience level="0"/>
 </unit>
 
 </army>
@@ -226,10 +218,10 @@
 <boiling_oil></boiling_oil>
 </battle_description>
 
-<playable_area dimension="2000"/>
+<playable_area dimension="1500"/>
 
 <weather>
-<environment_key>Weather\ROME_Med\default\Land\day\dry\morn_med_3.environment</environment_key>
+<environment_key>Weather\ROME_Destruct\default\land\day\fog\default_day_fog.environment</environment_key>
 <prevailing_wind x="1.00" y="0.00"/>
 </weather>
 
@@ -237,7 +229,7 @@
 
 <battle_map_definition>
 <name>Terrain/battles/main_attila_map/</name>
-<tile_map_position x="0.177" y="0.407">/</tile_map_position>
+<tile_map_position x="0.257" y="0.214">/</tile_map_position>
 </battle_map_definition>
 
 </battle>

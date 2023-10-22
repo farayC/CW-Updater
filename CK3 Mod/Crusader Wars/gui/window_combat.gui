@@ -1007,21 +1007,24 @@ window = {
 			state = {
 				name = "clear"
 				duration = 0.01
-				next = "print_player_name"
+				next = "enter_debug"
 				on_start = "[ExecuteConsoleCommand('Log.ClearAll')]"
 			}
-			state = {	
-				name = "print_region"
-				duration = 0.01	
-				on_finish = "[ExecuteConsoleCommand(Concatenate('Region:',CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')))]"
-			}	
 
+
+			state = {
+				name = "enter_debug"
+				duration = 0.1
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown))]"
+			}
+	
+	
 			
 			state = {
 				name = "xxxxx"
 				duration = 0.01
-				on_start = "[GetScriptedGui('GetProvinceRegion').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('GetProvinceRegion',CombatWindow.GetCombat.GetProvince.MakeScope).End)]"
-				on_finish = "[ExecuteConsoleCommand(Concatenate('Region:', Localize('region_type')))]"
+				on_start = "[GetScriptedGui('left_main_participant').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('left_main_participant',CombatWindow.GetCombat.GetLeftSideMainParticipant.MakeScope).End)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('DEBUG---:', Localize('player_knight_effectiveness')))]"
 			}
 		}	
 
@@ -1181,7 +1184,7 @@ window = {
 				name = "log_player_knight_effectiveness"
 				duration = 0.01
 				next = "log_enemy_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			#--------Crusader Wars Enemy Army---------
@@ -1242,7 +1245,7 @@ window = {
 				name = "log_enemy_knight_effectiveness"
 				duration = 0.01
 				next = "log_completed_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			state = {
@@ -1469,7 +1472,7 @@ window = {
 				name = "log_player_knight_effectiveness"
 				duration = 0.01
 				next = "log_enemy_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			#--------Crusader Wars Enemy Army---------
@@ -1530,7 +1533,7 @@ window = {
 				name = "log_enemy_knight_effectiveness"
 				duration = 0.01
 				next = "log_completed_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			state = {
@@ -1754,7 +1757,7 @@ window = {
 				name = "log_player_knight_effectiveness"
 				duration = 0.01
 				next = "log_enemy_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			#--------Crusader Wars Enemy Army---------
@@ -1815,7 +1818,7 @@ window = {
 				name = "log_enemy_knight_effectiveness"
 				duration = 0.01
 				next = "log_completed_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			state = {
@@ -1907,7 +1910,7 @@ window = {
 		###      Enabled for ANY character lead army             ### 
 		############################################################
 		button = { name = Play_Battle_control4
-			visible = "[GetVariableSystem.HasValue( 'cw_op_control', 'control4' ), Not(CombatWindow.IsCombatInPursuitPhase)]" # any character can direct control battles 
+			visible = "[And(CombatWindow.GetLeftSideCommander.IsValid, GetVariableSystem.HasValue( 'cw_op_control', 'control4' )), Not(CombatWindow.IsCombatInPursuitPhase)]" # any character can direct control battles 
 			
 			#raw_tooltip = "Fight the battle yourself!"
 			tooltip = "[SelectLocalization(GreaterThan_CFixedPoint(CombatWindow.GetLeftCombatSide.GetSoftCasualties, '(CFixedPoint)0'), 'cw_bw_fight_button', 'cw_bw_wait_button')]"
@@ -2038,7 +2041,7 @@ window = {
 				name = "log_player_knight_effectiveness"
 				duration = 0.01
 				next = "log_enemy_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetLeftSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			#--------Crusader Wars Enemy Army---------
@@ -2099,7 +2102,7 @@ window = {
 				name = "log_enemy_knight_effectiveness"
 				duration = 0.01
 				next = "log_completed_divider"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown)]"
+				on_finish = "[ExecuteConsoleCommand(Select_CString(StringIsEmpty(CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown), 'x', CombatWindow.GetRightSideMainParticipant.GetKnightEffectivenessBreakdown))]"
 			}
 
 			state = {

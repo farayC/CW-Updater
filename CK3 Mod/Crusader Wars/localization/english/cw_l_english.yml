@@ -82,6 +82,8 @@
 	region_type: "[CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')]"
 	building: "[GetPlayer.MakeScope.Var('unique_map').Province.GetHolding.GetSpecialBuildingType.GetKey]"
 
+	player_knight_effectiveness: "[GetPlayer.MakeScope.Var('left_side_warleader').Char.GetKnightEffectivenessBreakdown]"
+
 	#
 	### Unit Mapping ### 
 	cw_op_tab5_desc: "details about unit mapping, both default and CK3 mod compatibility ".

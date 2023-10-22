@@ -5,6 +5,13 @@ clear_log = {
     
 }
 
+left_main_participant = {
+    effect = {
+        debug_log_scopes = yes
+        set_variable = {name = left_side_warleader value = scope:left_main_participant}
+    }
+}
+
 special_building = {
     effect = {
         debug_log_scopes = yes
