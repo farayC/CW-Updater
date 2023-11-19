@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<MenAtArm type="Pamir Tribesmen" key="att_des_es_badyia_skirmishers" max="RANGED" script="pamir_tribesmen_unit_"></MenAtArm>
+		<MenAtArm type="Cichiciquitzo" key="att_des_es_rumha_skirmishers" max="RANGED" script="cichiciquitzo_unit_"></MenAtArm>
+		<MenAtArm type="Marc'hegion" key="cha_bre_armorican_cav" max="CAVALRY" script="marc_hegion_unit_"></MenAtArm>
+		<MenAtArm type="Norman Cavalry" key="cha_nor_chevalers" max="CAVALRY" script="norman_cavalry_unit_"></MenAtArm>
+		<MenAtArm type="Tennataerion" key="cha_cel_welsh_longbowmen" max="RANGED" script="tennataerion_unit_"></MenAtArm>
+		<MenAtArm type="Siberian Hunters" key="att_nom_steppe_shield_archers" max="RANGED" script="siberian_hunters_unit_"></MenAtArm>
+		<MenAtArm type="Swahili Sailors" key="att_des_es_spice_warriors" max="INFANTRY" script="swahili_sailors_unit_"></MenAtArm>
+		<MenAtArm type="Velakkara" key="att_nom_chosen_uar_warriors" max="INFANTRY" script="velakkara_unit_"></MenAtArm>
+		<MenAtArm type="Bantu Warriors" key="att_des_es_adana_marksmen" max="RANGED" script="bantu_warriors_unit_"></MenAtArm>
+		<MenAtArm type="Guanche Warrior" key="att_des_es_afar_swordsmen" max="RANGED" script="guanche_warrior_unit_"></MenAtArm>
+
+	</Faction>
+	
+</FactionsGroups>

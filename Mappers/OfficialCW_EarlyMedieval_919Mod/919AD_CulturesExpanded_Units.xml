@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+
+		<MenAtArm type="Peltast" key="cha_byz_skirm" max="RANGED" script="byzantine_peltast_unit_"></MenAtArm>
+		<MenAtArm type="Apelatai" key="cha_byz_skirm" max="RANGED" script="byzantine_apelatai_unit_"></MenAtArm>
+		<MenAtArm type="Toxotai" key="cha_byz_armoured_archers" max="RANGED" script="byzantine_toxotai_unit_"></MenAtArm>
+		<MenAtArm type="Psiloi" key="cha_byz_armoured_archers" max="RANGED" script="byzantine_psiloi_unit_"></MenAtArm>
+		<MenAtArm type="Akontistai" key="cha_byz_skirm" max="RANGED" script="byzantine_akontistai_unit_"></MenAtArm>		
+		<MenAtArm type="Koursores" key="cha_byz_tagmata_cavalry" max="CAVALRY" script="byzantine_koursores_unit_"></MenAtArm>
+		<MenAtArm type="Trapezitai" key="cha_byz_scout_cavalry" max="CAVALRY" script="byzantine_trapezitai_unit_"></MenAtArm>
+		<MenAtArm type="Hippotoxotai" key="cha_avar_noble_archers" max="CAVALRY" script="byzantine_hippotoxotai_unit_"></MenAtArm>
+		<MenAtArm type="Skythikon" key="cha_avar_noble_archers" max="CAVALRY" script="byzantine_skythikon_unit_"></MenAtArm>
+		<MenAtArm type="Vardariotai" key="cha_avar_horse_masters" max="CAVALRY" script="byzantine_vardariotai_unit_"></MenAtArm>		
+		<MenAtArm type="Menaulatoi" key="cha_byz_skutatoi_spear" max="INFANTRY" script="byzantine_menaulatoi_unit_"></MenAtArm>
+		<MenAtArm type="Skoutatoi" key="cha_byz_skutatoi_spear" max="INFANTRY" script="byzantine_skoutatoi_unit_"></MenAtArm>
+		<MenAtArm type="Kontophoros" key="cha_byz_skutatoi_axemen" max="INFANTRY" script="byzantine_kontophoros_unit_"></MenAtArm>		
+		<MenAtArm type="Klibanophoroi" key="cha_byz_tagmata_cavalry" max="CAVALRY" script="byzantine_klibanophoroi_unit_"></MenAtArm>
+		<MenAtArm type="Latinkon" key="cha_nor_chevalers" max="CAVALRY" script="byzantine_latinkon_unit_"></MenAtArm>		
+
+		<MenAtArm type="Voynik" key="cha_slav_ambushers" max="RANGED" script="bulgarian_voynik_unit_"></MenAtArm>
+		<MenAtArm type="Ciobani" key="cha_slav_large_shields" max="RANGED" script="bulgarian_ciobani_unit_"></MenAtArm>
+		<MenAtArm type="Oklopnitsi" key="cha_slav_champions" max="INFANTRY" script="bulgarian_oklopnitsi_unit_"></MenAtArm>
+		<MenAtArm type="Konnik" key="cha_slav_royal_cav" max="CAVALRY" script="bulgarian_konnik_unit_"></MenAtArm>		
+		
+		<MenAtArm type="Azabs" key="att_nom_steppe_bows" max="RANGED" script="turkish_azabs_unit_"></MenAtArm>
+		<MenAtArm type="Janissaries" key="att_nom_steppe_bows" max="RANGED" script="janissaries_archer_unit_"></MenAtArm>
+		<MenAtArm type="Janissaries" key="att_nom_steppe_bows" max="INFANTRY" script="janissaries_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Iqta'dar" key="att_nom_noble_horse_archers" max="CAVALRY" script="islamic_iqtadar_unit_"></MenAtArm>
+		<MenAtArm type="Sipahis" key="att_nom_hunnic_devil_archers" max="CAVALRY" script="sipahis_unit_"></MenAtArm>		
+		<MenAtArm type="Hasham" key="att_nom_elite_hunnic_lancers" max="CAVALRY" script="islamic_hasham_unit_"></MenAtArm>
+		<MenAtArm type="Sipahi Lancers" key="att_nom_noble_steppe_cataphracts" max="CAVALRY" script="sipahi_lancers_unit_"></MenAtArm>
+		<MenAtArm type="Qapukulu" key="att_nom_noble_steppe_cataphracts" max="CAVALRY" script="turkish_qapukulu_unit_"></MenAtArm>		
+		
+		<MenAtArm type="Rijal" key="cha_mus_andalusian_skirm" max="RANGED" script="islamic_rijal_unit_"></MenAtArm> 
+		<MenAtArm type="Rumat" key="cha_mus_armoured_archers" max="RANGED" script="islamic_rumat_unit_"></MenAtArm>
+		<MenAtArm type="Fursan" key="cha_mus_andalusian_cav" max="CAVALRY" script="islamic_fursan_unit_"></MenAtArm>
+		<MenAtArm type="Barbary Corsairs" key="cha_mus_armoured_archers" max="RANGED" script="barbary_corsairs_unit_"></MenAtArm>
+		<MenAtArm type="Naffatun" key="cha_mus_armoured_archers" max="RANGED" script="islamic_naffatun_unit_"></MenAtArm>
+		<MenAtArm type="Khasseki Infantry" key="cha_mus_armoured_archers" max="RANGED" script=" islamic_khasseki_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Abid al-Shira" key="att_des_elite_nubian_archers" max="RANGED" script="abid_alshira_unit_"></MenAtArm>
+		<MenAtArm type="Al-'Ashair Spearmen" key="cha_mus_berber_warriors" max="INFANTRY" script="islamic_alashair_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Sibyan al-Khass" key="cha_mus_andalusian_cav" max="CAVALRY" script="sibyan_alkhass_unit_"></MenAtArm>
+		<MenAtArm type="Zanj Ghilman" key="att_des_es_tor_warriors" max="INFANTRY" script="ghilman_nubians_unit_"></MenAtArm>
+		<MenAtArm type="Tabardariyya" key="att_des_es_spice_guard" max="INFANTRY" script="egyptian_tabardariyya_unit_"></MenAtArm>
+		<MenAtArm type="Mamluk Cavalry" key="cha_mus_andalusian_cav" max="CAVALRY" script="mamluk_cavalry_unit_"></MenAtArm>		
+		<MenAtArm type="Khassaki" key="cha_mus_armoured_cav" max="CAVALRY" script="egyptian_khassaki_unit_"></MenAtArm>		
+
+		<MenAtArm type="Paighan" key="att_est_paighan_band" max="RANGED" script="persian_paighan_unit_"></MenAtArm>
+		<MenAtArm type="Kamandaran" key="att_est_persian_bowmen" max="RANGED" script="persian_kamandaran_unit_"></MenAtArm>
+		<MenAtArm type="Neyze-daran" key="att_est_immortals" max="INFANTRY" script="persian_neyzedaran_unit_"></MenAtArm>
+		<MenAtArm type="Persian War Elephants" key="att_est_indian_elephants" max="CAVALRY" script="persian_war_elephant_unit_"></MenAtArm>
+		<MenAtArm type="Aswārān" key="att_est_gyan_avspar" max="CAVALRY" script="persian_cataphract_unit_"></MenAtArm>
+		<MenAtArm type="Gond-i Shahanshah" key="att_est_elite_immortals" max="INFANTRY" script="gondi_shahanshah_unit_"></MenAtArm>
+		<MenAtArm type="Shotelai" key="att_des_kushite_shotelai" max="RANGED" script="shotel_warriors_unit_"></MenAtArm>
+		<MenAtArm type="Mongol Lancers" key="att_nom_elite_hunnic_lancers" max="CAVALRY" script="mongol_cataphract_unit_"></MenAtArm>
+		
+		<MenAtArm type="Almogávares" key="cha_spa_noble_skirm" max="RANGED" script="iberian_raiders_unit_"></MenAtArm>
+		<MenAtArm type="Jinete" key="cha_spa_jinetes" max="CAVALRY" script="spanish_jinete_unit_"></MenAtArm>
+		<MenAtArm type="Granadine Jinetes" key="cha_mus_berber_jinetes" max="CAVALRY" script="muslim_jinete_unit_"></MenAtArm>
+		<MenAtArm type="Corseletes" key="cha_spa_royal_guardsmen" max="INFANTRY" script="iberian_coseletes_unit_"></MenAtArm>
+		<MenAtArm type="Picas Secas" key="cha_lom_spear" max="INFANTRY" script="iberian_picas_secas_unit_"></MenAtArm>		
+		<MenAtArm type="Besteiros do conto" key="att_rom_elite_ballistarii" max="RANGED" script="portugal_crossbowmen_unit_"></MenAtArm>
+		<MenAtArm type="Aventuros" key="cha_spa_royal_guardsmen" max="INFANTRY" script="portugal_aventuros_unit_"></MenAtArm>		
+		
+		<MenAtArm type="Ceathairne" key="cha_cel_gaillmhigh" max="RANGED" script="gaelic_ceathairne_unit_"></MenAtArm>		
+		<MenAtArm type="Ceithern" key="cha_cel_kerns" max="RANGED" script="irish_ceithern_unit_"></MenAtArm>
+		<MenAtArm type="Ostmen" key="cha_vik_sword_hirdmen" max="INFANTRY" script="irish_ostmen_unit_"></MenAtArm>
+		<MenAtArm type="Ridire" key="cha_cel_horsemen" max="CAVALRY" script="irish_ridire_unit_"></MenAtArm>
+		<MenAtArm type="Cliathairi" key="cha_cel_spear" max="INFANTRY" script="irish_cliathairi_unit_"></MenAtArm>		
+		<MenAtArm type="Horseboys" key="cha_cel_horsemen" max="CAVALRY" script="irish_horseboys_unit_"></MenAtArm>
+		<MenAtArm type="Muire" key="cha_cel_armoured_spear" max="INFANTRY" script="irish_muire_unit_"></MenAtArm>
+		<MenAtArm type="Gall óglaigh" key="cha_vik_big_axes" max="INFANTRY" script="irish_galloglaigh_unit_"></MenAtArm>				
+		<MenAtArm type="Helwyr" key="cha_cel_kerns" max="RANGED" script="welsh_helwyr_unit_"></MenAtArm>
+		<MenAtArm type="Saethwyr" key="cha_cel_welsh_longbowmen" max="RANGED" script="welsh_saethwyr_unit_"></MenAtArm>
+		<MenAtArm type="Rhyfelwyr" key="cha_cel_fianna" max="INFANTRY" script="welsh_rhyfelwyr_unit_"></MenAtArm>
+		<MenAtArm type="Teulu" key="cha_cel_royal_horsemen" max="CAVALRY" script="welsh_teulu_unit_"></MenAtArm>	
+				
+		<MenAtArm type="Woodsmen" key="cha_slav_ambushers" max="RANGED" script="woodsmen_unit_"></MenAtArm>
+		<MenAtArm type="Strzelcy" key="cha_slav_raiders" max="CAVALRY" script="polish_strzelcy_unit_"></MenAtArm>		
+		<MenAtArm type="Giltine's Chosen" key="cha_slav_champions" max="INFANTRY" script="giltines_chosen_unit_"></MenAtArm>		
+		<MenAtArm type="Dzukijan Horsemen" key="cha_avar_noble_archers" max="CAVALRY" script="dzukijan_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="Dievas' Guard" key="cha_slav_royal_cav" max="CAVALRY" script="dievas_guard_unit_"></MenAtArm>
+		<MenAtArm type="Bajorija" key="cha_slav_royal_cav" max="CAVALRY" script="lithuanian_bajorija_unit_"></MenAtArm>		
+		<MenAtArm type="Pavise Spearmen" key="cha_sax_spear_veterans" max="INFANTRY" script="pavise_spearmen_unit_"></MenAtArm>		
+		<MenAtArm type="Hussars" key="cha_slav_raiders" max="CAVALRY" script="hungarian_hussar_unit_"></MenAtArm>
+		<MenAtArm type="Tízlándzsások" key="cha_sax_hearth_cav" max="CAVALRY" script="hungarian_tizlandzsasok_unit_"></MenAtArm>
+		<MenAtArm type="Royal Banderium" key="cha_avar_noble_lancers" max="CAVALRY" script="hungarian_banderium_unit_"></MenAtArm>		
+		
+		<MenAtArm type="Berdiche Axemen" key="cha_slav_champions" max="INFANTRY" script="berdiche_axemen_unit_"></MenAtArm>
+		<MenAtArm type="Druzhina Cavalry" key="cha_slav_royal_cav" max="CAVALRY" script="druzhina_cavalry_unit_"></MenAtArm>
+		<MenAtArm type="Dvor cavalry" key="cha_avar_horse_masters" max="CAVALRY" script="dvor_cavalry_unit_"></MenAtArm>
+		<MenAtArm type="Cossack cavalry" key="cha_avar_noble_archers" max="CAVALRY" script="cossack_cavalry_unit_"></MenAtArm>			
+		
+		<MenAtArm type="Balestrieri Genovesi" key="att_rom_elite_ballistarii" max="RANGED" script="genoese_crossbowmen_unit_"></MenAtArm>		
+		<MenAtArm type="Famiglia Ducale" key="cha_lom_gastald_knights" max="CAVALRY" script="milan_famiglia_ducale_unit_"></MenAtArm>
+		<MenAtArm type="Lanze Spezzate" key="cha_lom_gastald_knights" max="CAVALRY" script="lanze_spezzate_unit_"></MenAtArm>
+		<MenAtArm type="Luceran Archers" key="cha_mus_armoured_archers" max="RANGED" script="sicilian_archers_unit_"></MenAtArm>	
+		
+		<MenAtArm type="Yeoman Archers" key="cha_cel_welsh_longbowmen" max="RANGED" script="yeoman_archers_unit_"></MenAtArm>		
+		<MenAtArm type="Sherwood Archers" key="cha_cel_welsh_longbowmen" max="RANGED" script="sherwood_archers_unit_"></MenAtArm>
+		<MenAtArm type="Billmen" key="cha_nor_lancent_armeure" max="INFANTRY" script="english_billmen_unit_"></MenAtArm>
+
+		<MenAtArm type="Aventurier" key="att_rom_elite_ballistarii" max="RANGED" script="french_aventurier_unit_"></MenAtArm>		
+		<MenAtArm type="Voulgier" key="cha_nor_lancent_armeure" max="INFANTRY" script="french_voulgier_unit_"></MenAtArm>
+		<MenAtArm type="Caballarii" key="cha_fra_scola_knights" max="CAVALRY" script="french_caballarii_unit_"></MenAtArm>
+		<MenAtArm type="Norman Knights" key="cha_nor_chef" max="CAVALRY" script="norman_knights_unit_"></MenAtArm>
+		<MenAtArm type="Verlorene Haufe" key="cha_vik_big_axes" max="INFANTRY" script="germanic_verlorene_haufe_unit_"></MenAtArm>
+		<MenAtArm type="Obudshaer" key="cha_nor_lancent_armeure" max="INFANTRY" script="danish_obudshaer_unit_"></MenAtArm>
+		<MenAtArm type="Svenner" key="cha_slav_raiders" max="CAVALRY" script="danish_svenner_unit_"></MenAtArm>		
+		<MenAtArm type="Turcopoles" key="cha_avar_noble_archers" max="CAVALRY" script="outremer_turcopoles_unit_"></MenAtArm>		
+		<MenAtArm type="Sodeer Archers" key="cha_mus_armoured_archers" max="RANGED" script="outremer_bowmen_unit_"></MenAtArm>
+		<MenAtArm type="Knights of Jerusalem" key="cha_nor_chef" max="CAVALRY" script="outremer_heavy_cavalry_unit_"></MenAtArm>
+		
+	</Faction>
+	
+</FactionsGroups>

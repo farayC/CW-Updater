@@ -1,9 +1,9 @@
 ﻿l_english:
 	#
 	### Event/Alert Window button texts ###
-	cwalert.1.title: "Crusader Wars Notification|Pre-Beta|September 2023"
-	cwalert.1.desc: "#high The mod entered Pre Beta stage and you need to download the new Crusader Wars launcher V0.9.7 from Crusader Wars website#!#high Please visit the Crusader Wars website for the download link to the Crusader Wars Pre Beta.#!\n\nThe Crusader Wars launcher is #high separate #! from the Steam Workshop CK3 mod. Steam will automatically update the CK3 mod file, but Steam does #high NOT #! automatically update the Crusader Wars.exe launcher. You need to open CK3 atleast once and then go the the CW Launcher and update, if you don't open it, the launcher will not detect any update!.\n\n#X If you do not download the updated launcher your Attila battles will crash. You have been warned.#!\n\n#high If you have already download the Crusader Wars Pre Beta launcher after the effective date of September 2023 you may safely ignore this notification.#!"
- 	cwalert.1.a: "I will exit CK3 and download the update right now!"
+	cwalert.1.title: "Crusader Wars Notification|Pre-Beta|November 2023"
+	cwalert.1.desc: "#high The mod updated to v0.9.9 "Supply your army!", update your Crusader Wars Launcher now if you haven't, to avoid bugs.\n\nThe Crusader Wars launcher is #high separate #! from the Steam Workshop CK3 mod. Steam will automatically update the CK3 mod file, but Steam does #high NOT #! automatically update the Crusader Wars.exe launcher. You need to open CK3 atleast once and then go the the CW Launcher and update, if you don't open it, the launcher will not detect any update!.\n\n#X If you do not download the updated launcher your Attila battles will crash. You have been warned."
+ 	cwalert.1.a: "I will update Crusader Wars Launcher now!"
 	#
 	#
 	### Battle Window button texts ###
@@ -80,7 +80,7 @@
 	player_prowess: "[GetPlayer.MakeScope.Var('left_side_prowess').Char.GetProwess]"
 	enemy_prowess: "[GetPlayer.MakeScope.Var('right_side_prowess').Char.GetProwess]"
 	region_type: "[CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')]"
-	building: "[GetPlayer.MakeScope.Var('unique_map').Province.GetHolding.GetSpecialBuildingType.GetKey]"
+	building: "[GetPlayer.MakeScope.Var('unique_map').GetProvince.GetHolding.GetSpecialBuildingType.GetKey]"
 
 	player_knight_effectiveness: "[GetPlayer.MakeScope.Var('left_side_warleader').Char.GetKnightEffectivenessBreakdown]"
 

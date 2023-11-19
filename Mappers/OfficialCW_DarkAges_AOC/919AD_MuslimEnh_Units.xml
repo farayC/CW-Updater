@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<MenAtArm type="Hindu Recruits" key="att_des_es_rumha_skirmishers" max="INFANTRY" script="hindu_recruits_unit_"></MenAtArm>
+		<MenAtArm type="Macemen" key="att_des_es_baltha_defenders" max="INFANTRY" script="macemen_unit_"></MenAtArm>
+		<MenAtArm type="Hashashin" key="att_des_es_tanukhid_ambushers" max="INFANTRY" script="hashashin_unit_"></MenAtArm>
+		<MenAtArm type="Bedouin Tribesmen" key="att_des_desert_mounted_skirmishers" max="CAVALRY" script="bedouin_tribesmen_unit_"></MenAtArm>
+
+	</Faction>
+	
+</FactionsGroups>

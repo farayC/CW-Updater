@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<General key="cha_gen_guard_cav" max="CAVALRY" script="general_unit_"></General>
+		<Knights key="cha_gen_knights" max="CAVALRY" script="general_knights_unit_"></Knights>
+		
+		<Levies type="Levy Spearmen" key="cha_gen_levy_spear" max="LEVY" script="levy_spearmen_unit_"></Levies>
+		<Levies type="Levy Infantry" key="cha_gen_sword" max="LEVY" script="levy_infantry_unit_"></Levies>
+		<Levies type="Levy Ranged" key="cha_gen_levy_archers" max="LEVY" script="levy_ranged_unit_"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="cha_gen_skirm" max="INFANTRY" script="light_footmen_unit_"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_gen_armoured_sword" max="INFANTRY" script="armored_footmen_unit_"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_gen_armoured_spear" max="INFANTRY" script="pikemen_unit_"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_gen_archers" max="RANGED" script="bowmen_unit_"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="cha_cel_pictish_crossbowmen" max="RANGED" script="crossbowmen_unit_"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_fra_horsemen" max="CAVALRY" script="light_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_spa_royal_cav" max="CAVALRY" script="armored_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="House Guard" key="cha_spa_royal_guardsmen" max="INFANTRY" script="house_guard_unit_"></MenAtArm>
+		<MenAtArm type="Order Knights" key="cha_pap_guardsmen" max="INFANTRY" script="teutonic_knights_unit_"></MenAtArm>
+		<MenAtArm type="Jomsviking Pirates" key="cha_vik_big_axes" max="INFANTRY" script="jomsviking_pirates_unit_"></MenAtArm>
+		
+		<MenAtArm type="Caballeros" key="cha_spa_jinetes" max="CAVALRY" script="caballero_unit_"></MenAtArm>
+		<MenAtArm type="Camel Riders" key="att_des_camel_warriors" max="CAVALRY" script="camel_rider_unit_"></MenAtArm>
+		<MenAtArm type="Hobelars" key="cha_gen_skirm_cav" max="CAVALRY" script="hobelar_unit_"></MenAtArm>
+		<MenAtArm type="Paiks" key="cha_mus_archers" max="RANGED" script="paiks_unit_"></MenAtArm>
+		<MenAtArm type="Sahel Horsemen" key="cha_mus_berber_jinetes" max="CAVALRY" script="sahel_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="War Elephants" key="att_est_indian_elephants" max="CAVALRY" script="war_elephant_unit_"></MenAtArm>
+		<MenAtArm type="Abudrar" key="att_est_persian_skirmishers" max="INFANTRY" script="abudrar_unit_"></MenAtArm>
+		<MenAtArm type="Ayyar" key="att_des_desert_tribesmen" max="INFANTRY" script="ayyar_unit_"></MenAtArm>
+		<MenAtArm type="Bondí" key="cha_vik_spear" max="INFANTRY" script="bondi_unit_"></MenAtArm>
+		<MenAtArm type="Bush Hunters" key="att_des_desert_bowmen" max="RANGED" script="bush_hunter_unit_"></MenAtArm>
+		<MenAtArm type="Cataphracts" key="cha_byz_duxs_guard" max="CAVALRY" script="cataphract_unit_"></MenAtArm>
+		<MenAtArm type="Druzhina" key="att_ger_noble_germanic_swordsmen" max="INFANTRY" script="druzhina_unit_"></MenAtArm>
+		<MenAtArm type="Gendarmes" key="cha_fra_scola_knights" max="INFANTRY" script="gendarme_unit_"></MenAtArm>
+		<MenAtArm type="Goedendag Militia" key="att_est_kurdish_javelinmen" max="INFANTRY" script="goedendag_unit_"></MenAtArm>
+		<MenAtArm type="Guinean Uplanders" key="att_nom_uar_archers" max="RANGED" script="guinea_warrior_unit_"></MenAtArm>
+		<MenAtArm type="Horn Warriors" key="cha_mus_berber_horsemen" max="CAVALRY" script="horn_warrior_unit_"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="cha_avar_horse_masters" max="CAVALRY" script="horse_archers_unit_"></MenAtArm>
+		<MenAtArm type="Huscarls" key="cha_vik_housecarls" max="INFANTRY" script="huscarl_unit_"></MenAtArm>
+		<MenAtArm type="Khandayat" key="att_wh_khingilas_khandas" max="INFANTRY" script="khandayat_unit_"></MenAtArm>
+		<MenAtArm type="Konni" key="cha_slav_raiders" max="CAVALRY" script="hussar_unit_"></MenAtArm>
+		<MenAtArm type="Lenkas" key="att_nom_uar_archers" max="RANGED" script="garudas_unit_"></MenAtArm>
+		<MenAtArm type="Longbowmen" key="cha_cel_welsh_longbowmen" max="RANGED" script="longbowmen_unit_"></MenAtArm>
+		<MenAtArm type="Metsänvartija" key="att_ger_germanic_archers" max="RANGED" script="metsanvartija_unit_"></MenAtArm>
+		<MenAtArm type="Monaspa" key="cha_gen_guard_cav" max="CAVALRY" script="monaspa_unit_"></MenAtArm>
+		<MenAtArm type="Mountaineers" key="att_nom_steppe_warriors" max="INFANTRY" script="mountaineer_unit_"></MenAtArm>
+		<MenAtArm type="Mubarizun" key="att_est_dailamite_warriors" max="INFANTRY" script="mubarizun_unit_"></MenAtArm>
+		<MenAtArm type="Mulathamūn" key="cha_mus_berber_horsemen" max="CAVALRY" script="mulathamun_unit_"></MenAtArm>
+		<MenAtArm type="Nile Archers" key="att_est_kurdish_archers" max="RANGED" script="nile_archer_unit_"></MenAtArm>
+		<MenAtArm type="Palace Guards" key="att_nom_bosphoran_infantry" max="INFANTRY" script="palace_guard_unit_"></MenAtArm>
+		<MenAtArm type="Picchieri" key="cha_pap_guardsmen" max="INFANTRY" script="picchieri_unit_"></MenAtArm>
+		<MenAtArm type="Sarawit" key="cha_pap_guardsmen" max="INFANTRY" script="sarawit_unit_"></MenAtArm>
+		<MenAtArm type="Schiltron" key="cha_pap_guardsmen" max="INFANTRY" script="schiltron_unit_"></MenAtArm>
+		<MenAtArm type="Shomer" key="att_est_kurdish_javelinmen" max="INFANTRY" script="shomer_unit_"></MenAtArm>
+		<MenAtArm type="Varangian Veterans" key="cha_vik_warlords_companions" max="INFANTRY" script="varangian_veteran_unit_"></MenAtArm>
+		<MenAtArm type="Vigmen" key="cha_vik_armoured_archers" max="RANGED" script="vigmen_unit_"></MenAtArm>
+		<MenAtArm type="Zbrojnosh" key="cha_slav_champions" max="INFANTRY" script="zbrojnosh_unit_"></MenAtArm>
+		<MenAtArm type="Chu-ko-nu Archers" key="att_avar_foot_archers" max="RANGED" script="cu_ko_nu_unit_"></MenAtArm>
+		<MenAtArm type="Landsknechts" key="att_rom_menaulatoi" max="INFANTRY" script="landsknechts_unit_"></MenAtArm>
+		<MenAtArm type="Palatini" key="att_rom_eastern_armoured_legio" max="INFANTRY" script="praetorian_unit_"></MenAtArm>
+		<MenAtArm type="Chasseurs" key="cha_lom_gastald_cav" max="CAVALRY" script="chasseurs_unit_"></MenAtArm>
+		<MenAtArm type="Vaulter Infantry" key="att_des_desert_hurlers" max="INFANTRY" script="vaulter_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Pamir Tribesmen" key="att_des_es_rumha_warriors" max="RANGED" script="pamir_tribesmen_unit_"></MenAtArm>
+		<MenAtArm type="Cichiciquitzo" key="cha_mus_andalusian_skirm" max="RANGED" script="cichiciquitzo_unit_"></MenAtArm>
+		<MenAtArm type="Marc'hegion" key="cha_bre_armorican_knights" max="CAVALRY" script="marc_hegion_unit_"></MenAtArm>
+		<MenAtArm type="Norman Cavalry" key="cha_fra_scola_cav" max="CAVALRY" script="norman_cavalry_unit_"></MenAtArm>
+		<MenAtArm type="Tennataerion" key="cha_cel_welsh_archers" max="RANGED" script="tennataerion_unit_"></MenAtArm>
+		<MenAtArm type="Siberian Hunters" key="cha_avar_foot_archers" max="RANGED" script="siberian_hunters_unit_"></MenAtArm>
+		<MenAtArm type="Swahili Sailors" key="att_des_es_spice_warriors" max="INFANTRY" script="swahili_sailors_unit_"></MenAtArm>
+		<MenAtArm type="Asawira" key="att_est_zhayedan_immortal_cavalry" max="CAVALRY" script="asawira_unit_"></MenAtArm>
+		<MenAtArm type="Tarkhans" key="att_ger_elite_sarmatian_cataphracts" max="CAVALRY" script="tarkhan_unit"></MenAtArm>
+		<MenAtArm type="Tawashi" key="att_des_desert_mounted_javelinmen" max="CAVALRY" script="tawashi_unit"></MenAtArm>
+		<MenAtArm type="Zupin Warrior" key="att_est_dailamite_warriors" max="INFANTRY" script="zupin_warrior_unit_"></MenAtArm>
+		
+		<MenAtArm type="Retinue War Elephants" key="att_est_indian_elephants" max="CAVALRY" script="accolade_maa_elephantiers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="att_avar_foot_archers" max="CAVALRY" script="accolade_maa_horse_archers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="att_des_camel_warriors" max="CAVALRY" script="accolade_maa_camel_riders_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_gen_archers" max="RANGED" script="accolade_maa_archers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_spa_royal_cav" max="CAVALRY" script="accolade_maa_lancers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_fra_horsemen" max="CAVALRY" script="accolade_maa_outriders_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_gen_armoured_spear" max="INFANTRY" script="accolade_maa_pikes_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_gen_skirm" max="INFANTRY" script="accolade_maa_skirmishers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_gen_armoured_sword" max="INFANTRY" script="accolade_maa_vanguard_unit_"></MenAtArm>
+
+	</Faction>
+	
+	<Faction name="Spanish">
+		<General key="cha_spa_royal_guard_cavalry"></General>
+		<Knights key="cha_spa_royal_cav"></Knights>
+		
+		<Levies type="Levy Spearmen" key="cha_gen_levy_spear"></Levies>
+		<Levies type="Levy Infantry" key="cha_gen_sword"></Levies>
+		<Levies type="Levy Ranged" key="cha_gen_levy_archers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="cha_spa_ambushers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_gen_armoured_sword"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_gen_armoured_spear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_gen_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_spa_iberian_cav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_spa_royal_cav"></MenAtArm>
+		<MenAtArm type="House Guard" key="cha_spa_royal_guardsmen"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_gen_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_spa_royal_cav"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_spa_iberian_cav"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_gen_armoured_spear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_spa_ambushers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_gen_armoured_sword"></MenAtArm>
+	</Faction>
+
+	<Faction name="Muslim">
+		<General key="cha_mus_umayyad_guard_cav"></General>
+		<Knights key="cha_mus_armoured_cav"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_mus_berber_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="cha_mus_andalusian_infantry"></Levies>
+		<Levies type="Levy Ranged" key="cha_mus_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_mus_andalusian_skirm"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_mus_andalusian_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_mus_berber_warriors"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_mus_armoured_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_mus_berber_light_cav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_mus_andalusian_cav"></MenAtArm>
+		<MenAtArm type="House Guard" key="cha_mus_umayyad_guardsmen"></MenAtArm>
+		<MenAtArm type="Order Knights" key="cha_mus_umayyad_guardsmen"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_mus_armoured_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_mus_andalusian_cav"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_mus_berber_light_cav"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_mus_berber_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_mus_andalusian_skirm"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_mus_andalusian_warriors"></MenAtArm>
+	</Faction>
+
+	<Faction name="Frankish">
+		<General key="cha_fra_paladin_guardsmen"></General>
+		<Knights key="cha_fra_guardsmen"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_fra_levy_spear"></Levies>
+		<Levies type="Levy Infantry" key="cha_fra_sword"></Levies>
+		<Levies type="Levy Ranged" key="cha_fra_levy_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_fra_skirm"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_fra_armoured_sword"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_fra_armoured_spear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_fra_mounted_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_fra_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_fra_cav"></MenAtArm>
+		<MenAtArm type="House Guard" key="cha_fra_mounted_swordsmen"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_fra_mounted_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_fra_cav"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_fra_horsemen"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_fra_armoured_spear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_fra_skirm"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_fra_armoured_sword"></MenAtArm>
+	</Faction>
+
+	<Faction name="Lombard">
+		<General key="cha_lom_gastald_guardsmen"></General>
+		<Knights key="cha_lom_gastald_cav"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_lom_levy_spear"></Levies>
+		<Levies type="Levy Infantry" key="cha_lom_levy_axemen"></Levies>
+		<Levies type="Levy Ranged" key="cha_lom_levy_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_lom_skirm"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_lom_gastald_swordsmen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_lom_guardsmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_lom_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_lom_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_lom_gastald_cav"></MenAtArm>
+		<MenAtArm type="House Guard" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_lom_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_lom_gastald_cav"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_lom_horsemen"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_lom_guardsmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_lom_skirm"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_lom_gastald_swordsmen"></MenAtArm>
+	</Faction>
+
+	<Faction name="Celtic">
+		<General key="cha_cel_kings_fianna"></General>
+		<Knights key="cha_cel_kings_fianna"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_cel_levy_spear"></Levies>
+		<Levies type="Levy Infantry" key="cha_cel_axemen"></Levies>
+		<Levies type="Levy Ranged" key="cha_cel_levy_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_cel_kerns"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_cel_fianna"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_cel_spear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_cel_pictish_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_cel_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_cel_kings_fianna"></MenAtArm>
+		<MenAtArm type="House Guard" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="OrderKnights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_cel_pictish_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_cel_kings_fianna"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_cel_horsemen"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_cel_spear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_cel_kerns"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_cel_fianna"></MenAtArm>
+	</Faction>
+
+	<Faction name="English">
+		<General key="cha_eng_royal_horsemen"></General>
+		<Knights key="cha_eng_royal_horsemen"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_eng_fyrd_spear"></Levies>
+		<Levies type="Levy Infantry" key="cha_eng_select_axemen"></Levies>
+		<Levies type="Levy Ranged" key="cha_eng_fyrd_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_gen_skirm"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_eng_thegns"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_eng_thegn_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_eng_select_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_eng_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_eng_royal_horsemen"></MenAtArm>
+		<MenAtArm type="House Guard" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_eng_select_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_eng_royal_horsemen"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_eng_horsemen"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_eng_thegn_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_gen_skirm"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_eng_thegns"></MenAtArm>
+	</Faction>
+
+	<Faction name="Viking">
+		<General key="cha_vik_warlords_companions"></General>
+		<Knights key="cha_vik_warlords_companions"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_vik_levy_freemen"></Levies>
+		<Levies type="Levy Infantry" key="cha_vik_axe_freemen"></Levies>
+		<Levies type="Levy Ranged" key="cha_vik_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_sax_javelinmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_vik_axe_hirdmen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_vik_spear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_vik_hunters"></MenAtArm>
+		<MenAtArm type="Cross bowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_sax_scout_cav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_sax_hearth_cav"></MenAtArm>
+		<MenAtArm type="House Guard" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_vik_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_sax_hearth_cav"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_sax_scout_cav"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_vik_spear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_sax_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_vik_axe_hirdmen"></MenAtArm>
+	</Faction>
+
+	<Faction name="Saxon">
+		<General key="cha_sax_hearth_guard"></General>
+		<Knights key="cha_sax_hearth_cav"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_sax_spear_band"></Levies>
+		<Levies type="Levy Infantry" key="cha_sax_axe_band"></Levies>
+		<Levies type="Levy Ranged" key="cha_sax_levy_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_sax_javelinmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_sax_sword_veterans"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_sax_spear_veterans"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_sax_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_sax_scout_cav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_sax_hearth_cav"></MenAtArm>
+		<MenAtArm type="House Guard" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_sax_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_sax_hearth_cav"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_sax_scout_cav"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_sax_spear_veterans"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_sax_javelinmen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_sax_sword_veterans"></MenAtArm>
+	</Faction>
+
+	<Faction name="Slavic">
+		<General key="cha_slav_royal_cav"></General>
+		<Knights key="cha_slav_royal_cav"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_slav_tribesmen"></Levies>
+		<Levies type="Levy Infantry" key="cha_gen_sword"></Levies>
+		<Levies type="Levy Ranged" key="cha_slav_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_slav_ambushers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_gen_armoured_sword"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_slav_large_shields"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_gen_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_avar_lancers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_slav_royal_cav"></MenAtArm>
+		<MenAtArm type="House Guard" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_gen_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_slav_royal_cav"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_avar_lancers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_slav_large_shields"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_slav_ambushers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_gen_armoured_sword"></MenAtArm>
+	</Faction>
+
+	<Faction name="Byzantine">
+		<General key="cha_byz_duxs_guard"></General>
+		<Knights key="cha_byz_tagmata_cavalry"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_byz_levy_spear"></Levies>
+		<Levies type="Levy Infantry" key="cha_byz_iuvenes"></Levies>
+		<Levies type="Levy Ranged" key="cha_byz_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_gen_skirm"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_byz_skutatoi"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_byz_skutatoi_spear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_byz_armoured_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_byz_light_cav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_byz_tagmata_cavalry"></MenAtArm>
+		<MenAtArm type="House Guard" key="cha_byz_skutatoi"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_byz_armoured_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_byz_tagmata_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_byz_light_cav"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_byz_skutatoi_spear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_gen_skirm"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_byz_skutatoi"></MenAtArm>
+	</Faction>
+
+	<Faction name="Asian">
+		<General key="cha_avar_guard"></General>
+		<Knights key="cha_avar_horse_masters"></Knights>
+
+		<Levies type="Levy Spearmen" key="cha_avar_levy_spear"></Levies>
+		<Levies type="Levy Infantry" key="cha_avar_spear"></Levies>
+		<Levies type="Levy Ranged" key="cha_avar_levy_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="cha_avar_foot_archers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="cha_avar_noble_sword"></MenAtArm>
+		<MenAtArm type="Pikemen" key="cha_avar_tribesmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="cha_avar_foot_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="cha_avar_lancers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="cha_avar_noble_lancers"></MenAtArm>
+		<MenAtArm type="House Guard" key="cha_avar_tribesmen"></MenAtArm>
+		<MenAtArm type="Order Knights" key="DEFAULT"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="cha_avar_noble_archers"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="cha_avar_foot_archers"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="cha_avar_noble_lancers"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="cha_avar_lancers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="cha_avar_tribesmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="cha_avar_foot_archers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="cha_avar_noble_sword"></MenAtArm>
+	</Faction>
+
+
+</FactionsGroups>

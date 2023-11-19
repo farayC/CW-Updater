@@ -1314,7 +1314,7 @@ window = {
 				name = "print_special_building"
 				duration = 0.01	
 				next = "print_modifiers"
-				on_start = "[GetScriptedGui('special_building').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('special_building',CombatWindow.GetCombat.GetProvince.GetHolding.MakeScope).End)]"
+				on_start = "[GetScriptedGui('special_building').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('special_building',CombatWindow.GetCombat.GetProvince.MakeScope).End)]"
 				on_finish = "[ExecuteConsoleCommand(Concatenate('SpecialBuilding:', Localize('building')))]"
 			}	
 

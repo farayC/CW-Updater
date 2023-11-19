@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<MenAtArm type="Mande Hunter" key="att_des_es_ashum" max="RANGED" script="mande_hunter_unit_"></MenAtArm>
+		<MenAtArm type="Al-'Ashair Infantry" key="cha_mus_berber_warriors" max="INFANTRY" script="islamic_alashair_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Khasseki Infantry" key="att_des_es_rumha_skirmishers" max="INFANTRY" script="islamic_khasseki_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Barbary Corsairs" key="att_des_es_spice_warriors" max="INFANTRY" script="barbary_corsairs_unit_"></MenAtArm>
+		<MenAtArm type="Shotel Warriors" key="att_des_kushite_shotelai" max="INFANTRY" script="shotel_warriors_unit_"></MenAtArm>
+		<MenAtArm type="Sofa" key="att_des_es_marz_archers" max="RANGED" script="sofa_unit_"></MenAtArm>
+	</Faction>
+	
+</FactionsGroups>

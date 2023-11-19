@@ -1,0 +1,7 @@
+Lord of the Rings
+Experiment an epic Lord of the Rings campaign across middle Earth.
+Choose between defending against darkness or spreading it, making crucial decisions that shape the end of the third age.
+
+Mapped units from ''Dawnless Days'' and his main unit submods: Expanded Elves/The Gundabad Submod/The Last Breath/Fiefs of Gondor.
+
+!!!You need to install the CK3 mod ''Lord of the Rings --- Crusader Wars Patch'' to use this mapper !!!
