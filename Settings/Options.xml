@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <Option name="CloseAttila">Enabled</Option>
+  <Option name="FullArmies">Disabled</Option>
+  <Option name="TimeLimit">Disabled</Option>
+  <Option name="BattleMapsSize">Big</Option>
+  <Option name="DefensiveDeployables">Enabled</Option>
+  <Option name="LeviesMax">200</Option>
+  <Option name="RangedMax">200</Option>
+  <Option name="InfantryMax">200</Option>
+  <Option name="CavalryMax">100</Option>
+  <Option name="BattleScale">100%</Option>
+  <Option name="AutoScaleUnits">Enabled</Option>
+</Options>
