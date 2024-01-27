@@ -5,15 +5,14 @@
 		<Culture name="Roman" faction="Rome"></Culture>
 		<Culture name="Sardinian" faction="Rome"></Culture>
         <Culture name="Illyro-Roman" faction="Rome"></Culture>
-		<Culture name="Hispano-Roman" faction="Rome"></Culture>
 		<Culture name="Gallo-Roman" faction="Rome"></Culture>
-        <Culture name="Afro-Roman" faction="Roman African"></Culture>
-		<Culture name="Mauro-Roman" faction="Roman African"></Culture>
+        <Culture name="Afro-Roman" faction="Roman Maure"></Culture>
+		<Culture name="Mauro-Roman" faction="Roman Maure"></Culture>
 		<Culture name="Britano-Roman" faction="Roman Britanni"></Culture>
 		<Culture name="Thracio-Roman" faction="Rome"></Culture>
         <Culture name="Dacio-Roman" faction="Rome"></Culture>
-		<Culture name="Hispano-Roman" faction="Rome"></Culture>
-	    <Culture name="Hiberno-Roman" faction="Rome"></Culture>
+		<Culture name="Hispano-Roman" faction="Roman Corduba"></Culture>
+	    <Culture name="Hiberno-Roman" faction="Roman Corduba"></Culture>
         <Culture name="Caledo-Roman" faction="Rome"></Culture>
 		<Culture name="Rhaetio-Roman" faction="Rome"></Culture>
 		<Culture name="Sicilian" faction="Rome"></Culture>
@@ -68,6 +67,7 @@
     </Heritage>
     <Heritage name="Turkic" faction="Hun">
 		<Culture name="Hun" faction="Hun"></Culture>
+		<Culture name="Akatzir" faction="Hun"></Culture>
 		<Culture name="Sabir" faction="Hun"></Culture>
 		<Culture name="Saragur" faction="Hun"></Culture>
         <Culture name="Avar" faction="Hun"></Culture>
@@ -91,11 +91,13 @@
         <Culture name="Ongud" faction="Hun"></Culture>
 		<Culture name="Shatuo" faction="Hun"></Culture>
 		<Culture name="Akatzir" faction="Hun"></Culture>
+		<Culture name="Kangar" faction="Hun"></Culture>
+		<Culture name="Kurykan" faction="Hun"></Culture>
 	</Heritage>
     <Heritage name="East Germanic" faction="Goth">
 		<Culture name="Vandal" faction="Vandal"></Culture>
 		<Culture name="Lugii" faction="Goth"></Culture>
-		<Culture name="Gothonic" faction="Goth"></Culture>
+		<Culture name="Dębczyn" faction="Goth"></Culture>
         <Culture name="Gothic" faction="Goth"></Culture>
 		<Culture name="Visigothic" faction="Visigoths"></Culture>
 		<Culture name="Hispanian" faction="Goth"></Culture>
@@ -151,6 +153,8 @@
 		<Culture name="Yuezhin" faction="Sassanids"></Culture>
 		<Culture name="Xiao_yuezhi" faction="Sassanids"></Culture>
 		<Culture name="Elymaean" faction="Sassanids"></Culture>
+		<Culture name="Ferghanan" faction="Sassanids"></Culture>
+		<Culture name="Old Ferghanan" faction="Sassanids"></Culture>
 	</Heritage>
 	<Heritage name="Elamite" faction="Sassanids"></Heritage>
     <Heritage name="Sarmatian" faction="Alans">
@@ -164,7 +168,7 @@
 	</Heritage>
     <Heritage name="North Germanic" faction="Danes">
 		<Culture name="Norse" faction="Danes"></Culture>
-		<Culture name="Sitonian" faction="Geats"></Culture>
+		<Culture name="Kven" faction="Geats"></Culture>
 		<Culture name="Swedish" faction="Geats"></Culture>
 		<Culture name="Norwegian" faction="Danes"></Culture>
         <Culture name="Danish" faction="Danes"></Culture>
@@ -182,7 +186,7 @@
         <Culture name="Jutish" faction="Jutes"></Culture>
 		<Culture name="Old Saxon" faction="Saxons"></Culture>
         <Culture name="Frisa" faction="Rome"></Culture>
-        <Culture name="Anglo Saxon" faction="Saxons"></Culture>
+        <Culture name="Anglo-Saxons" faction="Saxons"></Culture>
         <Culture name="Saxonian" faction="Saxons"></Culture>
 		<Culture name="Ripurian" faction="Jutes"></Culture>
         <Culture name="Frisian" faction="Jutes"></Culture>
@@ -209,7 +213,7 @@
         <Culture name="Tora" faction="Garamantianss"></Culture>
         <Culture name="Tuareg" faction="Garamantians"></Culture>
         <Culture name="Garamantian" faction="Garamantians"></Culture>
-        <Culture name="Maurian" faction="Garamantians"></Culture>
+        <Culture name="Amazigh" faction="Garamantians"></Culture>
         <Culture name="Gaetulian" faction="Garamantians"></Culture>
         <Culture name="Libian" faction="Garamantians"></Culture>
 		<Culture name="Autoleles" faction="Garamantians"></Culture>
@@ -265,6 +269,7 @@
 		<Culture name="Somali" faction="Aksum"></Culture>
         <Culture name="Beja" faction="Aksum"></Culture>
         <Culture name="Afar" faction="Aksum"></Culture>
+		<Culture name="Harla" faction="Aksum"></Culture>
 	</Heritage>
     <Heritage name="East African" faction="Aksum">
 		<Culture name="Ethiopian" faction="Aksum"></Culture>
@@ -272,6 +277,10 @@
         <Culture name="Welayta" faction="Aksum"></Culture>
         <Culture name="Daju" faction="Aksum"></Culture>
         <Culture name="Aksumite" faction="Aksum"></Culture>
+		<Culture name="Noba" faction="Aksum"></Culture>
+		<Culture name="Nuba" faction="Aksum"></Culture>
+        <Culture name="Meroitic" faction="Aksum"></Culture>
+		<Culture name="Dinka" faction="Aksum"></Culture>
 	</Heritage>
     <Heritage name="Kemet" faction="Aksum">
 		<Culture name="Kemetic" faction="Aksum"></Culture>
@@ -301,7 +310,7 @@
         <Culture name="Selonian" faction="Venedians"></Culture>
         <Culture name="Samogitian" faction="Venedians"></Culture>
         <Culture name="Sudovian" faction="Venedians"></Culture>
-        <Culture name="Galindian" faction="Venedians"></Culture>
+        <Culture name="Goledian" faction="Venedians"></Culture>
         <Culture name="Scalvian" faction="Venedians"></Culture>
         <Culture name="Dnieper" faction="Venedians"></Culture>
 		<Culture name="East Galindian" faction="Venedians"></Culture>
@@ -423,9 +432,11 @@
         <Culture name="Sinhala" faction="White Hun"></Culture>
         <Culture name="Jat" faction="White Hun"></Culture>
         <Culture name="Nuristani" faction="White Hun"></Culture>
-        <Culture name="Burusho" faction="White Hun"></Culture>
+        <Culture name="Burushaski" faction="White Hun"></Culture>
         <Culture name="Vedda" faction="White Hun"></Culture> 
-        <Culture name="Saindhava" faction="White Hun"></Culture>		
+        <Culture name="Saindhava" faction="White Hun"></Culture>	
+        <Culture name="Gurjara" faction="White Hun"></Culture> 
+        <Culture name="Med" faction="White Hun"></Culture>		
     </Heritage>
 	<Heritage name="Austroasiatic" faction="White Hun">
 		<Culture name="Kherwal" faction="White Hun"></Culture>
@@ -454,7 +465,7 @@
     <Heritage name="Celtiberian" faction="Vascones">
     </Heritage>
     <Heritage name="Tibetan" faction="White Hun">
-		<Culture name="Meitei" faction="White Hun"></Culture>
+		<Culture name="Zo" faction="White Hun"></Culture>
 		<Culture name="Kachari" faction="White Hun"></Culture>
 		<Culture name="Newari" faction="White Hun"></Culture>
 		<Culture name="Pyu" faction="White Hun"></Culture>
@@ -471,6 +482,9 @@
     <Heritage name="Serindian" faction="White Hun">
     </Heritage>
 	<Heritage name="Chinese" faction="White Hun">
+    </Heritage>
+	<Heritage name="Siberian" faction="Hun">
+		<Culture name="Evenk" faction="Hun"></Culture>
     </Heritage>
         
 </Cultures>

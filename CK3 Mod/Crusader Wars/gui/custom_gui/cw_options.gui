@@ -36,6 +36,7 @@ window = {
             layoutpolicy_horizontal = expanding
 
             button_tab = {
+                visible = False
                 layoutpolicy_horizontal = expanding
                 text = "cw_op_tab2_title"
                 #raw_text = "Battle Scale"
@@ -46,6 +47,7 @@ window = {
             }
 
             button_tab = {
+            visible = False
                 layoutpolicy_horizontal = expanding
                 text = "cw_op_tab3_title"
                 #raw_text = "Unit Scale"

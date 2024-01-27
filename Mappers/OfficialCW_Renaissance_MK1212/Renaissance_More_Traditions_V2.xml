@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<MenAtArm type="Imported Elephants" key="mk_ghu_t3_hathnal_cannon_elephants" max="INFANTRY" script="imported_elephants_unit_"></MenAtArm>
+		<MenAtArm type="Revered Huntsmen" key="mk_volga_t3_tribal_noble_archers" max="INFANTRY" script="huntsmen_unit_"></MenAtArm>
+		<MenAtArm type="Numidian Cavalry" key="mk_haf_t3_kabyle_tribal_horsemen" max="INFANTRY" script="numdian_unit_"></MenAtArm>
+		<MenAtArm type="Hetairoi" key="mk_epi_t3_stratiotes" max="CAVALRY" script="hetairoi_unit_"></MenAtArm>
+	</Faction>
+	
+</FactionsGroups>

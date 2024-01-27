@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Terrains>
 	
-	<Attila_Map>Terrain/battles/main_attila_map/</Attila_Map> 
+	<Attila_Map>Terrain/battles/rom_third_age_map/</Attila_Map> 
 
 	<Historic_Maps>
 		<Map ck3_building_key="wonder_edoras_01" x="0.443" y="0.525"></Map>

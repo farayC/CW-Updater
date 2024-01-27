@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
 <RequiredMods>
+	<Mod></Mod>
 	<Mod>DLC Longbeard Culture Pack</Mod>
 	<Mod>DLC Celtic Culture Pack</Mod>
-	<Mod>Age of Justinian 555AD version 1.0a Part 1</Mod>
-	<Mod>Age of Justinian AD 555 Part 2 of 4</Mod>
-	<Mod>Age of Justinian AD 555 Part 3 of 4</Mod>
-	<Mod>Age of Justinian AD 555 Part 4 of 4</Mod>
+	<Mod>DLC Empires of Sand Culture Pack</Mod>
+	<Mod></Mod>
+	<Mod>Age of Justinian 555AD version 1.0a Part 1 (Update 17/09/2024)</Mod>
+	<Mod>Age of Justinian AD 555 Part 2 of 4 (update 7/01/2024)</Mod>
+	<Mod>Age of Justinian AD 555 Part 3 of 4 (update 11/01/2024)</Mod>
+	<Mod>Age of Justinian AD 555 Part 4 of 4 (update 6/01/2024)</Mod>
 </RequiredMods>
 
 		

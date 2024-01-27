@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<MenAtArm type="Imported Elephants" key="att_est_armoured_indian_elephants" max="CAVALRY" script="imported_elephants_unit_"></MenAtArm>
+		<MenAtArm type="Revered Huntsmen" key="att_ger_elite_germanic_archers" max="RANGED" script="huntsmen_unit_"></MenAtArm>
+		<MenAtArm type="Numidian Cavalry" key="att_des_noble_numidian_cavalry" max="CAVALRY" script="numdian_unit_"></MenAtArm>
+		<MenAtArm type="Hetairoi" key="att_rom_clibanarii" max="CAVALRY" script="hetairoi_unit_"></MenAtArm>
+	</Faction>
+	
+</FactionsGroups>

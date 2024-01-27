@@ -1,8 +1,8 @@
 ﻿l_english:
 	#
 	### Event/Alert Window button texts ###
-	cwalert.1.title: "Crusader Wars Notification|Pre-Beta|November 2023"
-	cwalert.1.desc: "#high The mod updated to v0.9.9 "Supply your army!", update your Crusader Wars Launcher now if you haven't, to avoid bugs.\n\nThe Crusader Wars launcher is #high separate #! from the Steam Workshop CK3 mod. Steam will automatically update the CK3 mod file, but Steam does #high NOT #! automatically update the Crusader Wars.exe launcher. You need to open CK3 atleast once and then go the the CW Launcher and update, if you don't open it, the launcher will not detect any update!.\n\n#X If you do not download the updated launcher your Attila battles will crash. You have been warned."
+	cwalert.1.title: "Crusader Wars Notification|"Accolades" Pre-Beta|January 2023"
+	cwalert.1.desc: "#high The mod updated to v0.9.10 "Accolade!", update your Crusader Wars Launcher now if you haven't, to avoid bugs.\n\nThe Crusader Wars launcher is #high separate #! from the Steam Workshop CK3 mod. Steam will automatically update the CK3 mod file, but Steam does #high NOT #! automatically update the Crusader Wars.exe launcher. You need to open CK3 atleast once and then go the the CW Launcher and update, if you don't open it, the launcher will not detect any update!.\n\n#X If you do not download the updated launcher your Attila battles will crash. You have been warned."
  	cwalert.1.a: "I will update Crusader Wars Launcher now!"
 	#
 	#
@@ -75,6 +75,8 @@
 	#Extracting Data
 	player_id: "[GetPlayer.MakeScope.Var('left_side_commander').Char.GetID]"
 	enemy_id: "[GetPlayer.MakeScope.Var('right_side_commander').Char.GetID]"
+	player_rank: "[GetPlayer.MakeScope.Var('left_side_commander').Char.GetPrimaryTitle.GetTierFrame]"
+	enemy_rank: "[GetPlayer.MakeScope.Var('right_side_commander').Char.GetPrimaryTitle.GetTierFrame]"
 	player_name: "[GetPlayer.MakeScope.Var('left_side_name').Char.GetFullNameNoTooltip]"
 	enemy_name: "[GetPlayer.MakeScope.Var('right_side_name').Char.GetFullNameNoTooltip]"
 	player_prowess: "[GetPlayer.MakeScope.Var('left_side_prowess').Char.GetProwess]"

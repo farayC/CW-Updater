@@ -3,20 +3,20 @@
 
 	<Faction name="Default">
 
-		<MenAtArm type="Peltast" key="cha_byz_skirm" max="RANGED" script="byzantine_peltast_unit_"></MenAtArm>
+		<MenAtArm type="Peltast" key="att_rom_matiarii" max="RANGED" script="byzantine_peltast_unit_"></MenAtArm>
 		<MenAtArm type="Apelatai" key="cha_byz_skirm" max="RANGED" script="byzantine_apelatai_unit_"></MenAtArm>
 		<MenAtArm type="Toxotai" key="cha_byz_armoured_archers" max="RANGED" script="byzantine_toxotai_unit_"></MenAtArm>
 		<MenAtArm type="Psiloi" key="cha_byz_armoured_archers" max="RANGED" script="byzantine_psiloi_unit_"></MenAtArm>
 		<MenAtArm type="Akontistai" key="cha_byz_skirm" max="RANGED" script="byzantine_akontistai_unit_"></MenAtArm>		
-		<MenAtArm type="Koursores" key="cha_byz_tagmata_cavalry" max="CAVALRY" script="byzantine_koursores_unit_"></MenAtArm>
+		<MenAtArm type="Koursores" key="att_rom_contarii" max="CAVALRY" script="byzantine_koursores_unit_"></MenAtArm>
 		<MenAtArm type="Trapezitai" key="cha_byz_scout_cavalry" max="CAVALRY" script="byzantine_trapezitai_unit_"></MenAtArm>
-		<MenAtArm type="Hippotoxotai" key="cha_avar_noble_archers" max="CAVALRY" script="byzantine_hippotoxotai_unit_"></MenAtArm>
+		<MenAtArm type="Hippotoxotai" key="att_rom_equites_sagittarii" max="CAVALRY" script="byzantine_hippotoxotai_unit_"></MenAtArm>
 		<MenAtArm type="Skythikon" key="cha_avar_noble_archers" max="CAVALRY" script="byzantine_skythikon_unit_"></MenAtArm>
 		<MenAtArm type="Vardariotai" key="cha_avar_horse_masters" max="CAVALRY" script="byzantine_vardariotai_unit_"></MenAtArm>		
 		<MenAtArm type="Menaulatoi" key="cha_byz_skutatoi_spear" max="INFANTRY" script="byzantine_menaulatoi_unit_"></MenAtArm>
-		<MenAtArm type="Skoutatoi" key="cha_byz_skutatoi_spear" max="INFANTRY" script="byzantine_skoutatoi_unit_"></MenAtArm>
-		<MenAtArm type="Kontophoros" key="cha_byz_skutatoi_axemen" max="INFANTRY" script="byzantine_kontophoros_unit_"></MenAtArm>		
-		<MenAtArm type="Klibanophoroi" key="cha_byz_tagmata_cavalry" max="CAVALRY" script="byzantine_klibanophoroi_unit_"></MenAtArm>
+		<MenAtArm type="Skoutatoi" key="att_rom_lanciarii_seniores" max="INFANTRY" script="byzantine_skoutatoi_unit_"></MenAtArm>
+		<MenAtArm type="Kontophoros" key="att_rom_eastern_auxilia_palatina" max="INFANTRY" script="byzantine_kontophoros_unit_"></MenAtArm>		
+		<MenAtArm type="Klibanophoroi" key="att_rom_clibanarii" max="CAVALRY" script="byzantine_klibanophoroi_unit_"></MenAtArm>
 		<MenAtArm type="Latinkon" key="cha_nor_chevalers" max="CAVALRY" script="byzantine_latinkon_unit_"></MenAtArm>		
 
 		<MenAtArm type="Voynik" key="cha_slav_ambushers" max="RANGED" script="bulgarian_voynik_unit_"></MenAtArm>
@@ -37,10 +37,10 @@
 		<MenAtArm type="Rumat" key="cha_mus_armoured_archers" max="RANGED" script="islamic_rumat_unit_"></MenAtArm>
 		<MenAtArm type="Fursan" key="cha_mus_andalusian_cav" max="CAVALRY" script="islamic_fursan_unit_"></MenAtArm>
 		<MenAtArm type="Barbary Corsairs" key="cha_mus_armoured_archers" max="RANGED" script="barbary_corsairs_unit_"></MenAtArm>
-		<MenAtArm type="Naffatun" key="cha_mus_armoured_archers" max="RANGED" script="islamic_naffatun_unit_"></MenAtArm>
-		<MenAtArm type="Khasseki Infantry" key="cha_mus_armoured_archers" max="RANGED" script=" islamic_khasseki_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Naffatun" key="att_est_naft_throwers" max="RANGED" script="islamic_naffatun_unit_"></MenAtArm>
+		<MenAtArm type="Khasseki Infantry" key="att_des_es_zealot_sicarius" max="RANGED" script=" islamic_khasseki_infantry_unit_"></MenAtArm>
 		<MenAtArm type="Abid al-Shira" key="att_des_elite_nubian_archers" max="RANGED" script="abid_alshira_unit_"></MenAtArm>
-		<MenAtArm type="Al-'Ashair Spearmen" key="cha_mus_berber_warriors" max="INFANTRY" script="islamic_alashair_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Al-'Ashair Spearmen" key="att_des_amazigh_spearmen" max="INFANTRY" script="islamic_alashair_infantry_unit_"></MenAtArm>
 		<MenAtArm type="Sibyan al-Khass" key="cha_mus_andalusian_cav" max="CAVALRY" script="sibyan_alkhass_unit_"></MenAtArm>
 		<MenAtArm type="Zanj Ghilman" key="att_des_es_tor_warriors" max="INFANTRY" script="ghilman_nubians_unit_"></MenAtArm>
 		<MenAtArm type="Tabardariyya" key="att_des_es_spice_guard" max="INFANTRY" script="egyptian_tabardariyya_unit_"></MenAtArm>
@@ -79,7 +79,7 @@
 				
 		<MenAtArm type="Woodsmen" key="cha_slav_ambushers" max="RANGED" script="woodsmen_unit_"></MenAtArm>
 		<MenAtArm type="Strzelcy" key="cha_slav_raiders" max="CAVALRY" script="polish_strzelcy_unit_"></MenAtArm>		
-		<MenAtArm type="Giltine's Chosen" key="cha_slav_champions" max="INFANTRY" script="giltines_chosen_unit_"></MenAtArm>		
+		<MenAtArm type="Giltine's Chosen" key="att_slav_chosen_shields" max="INFANTRY" script="giltines_chosen_unit_"></MenAtArm>		
 		<MenAtArm type="Dzukijan Horsemen" key="cha_avar_noble_archers" max="CAVALRY" script="dzukijan_horsemen_unit_"></MenAtArm>
 		<MenAtArm type="Dievas' Guard" key="cha_slav_royal_cav" max="CAVALRY" script="dievas_guard_unit_"></MenAtArm>
 		<MenAtArm type="Bajorija" key="cha_slav_royal_cav" max="CAVALRY" script="lithuanian_bajorija_unit_"></MenAtArm>		

@@ -740,20 +740,20 @@
 	</Faction>
 
 	<Faction name="Syriac">
-		<General key="mk_arm_t1_goundesdapel_and_bodyguards"></General>
-		<Knights key="mk_arm_t1_goundesdapel_and_bodyguards"></Knights>
+		<General key="mk_tre_t1_oikeioi"></General>
+		<Knights key="mk_arm_t1_dziaworner"></Knights>
 
-		<Levies type="Levy Spearmen" key="mk_jer_t1_maronite_spearmen"></Levies>
-		<Levies type="Levy Infantry" key="mk_zen_t1_jazira_infantry"></Levies>
-		<Levies type="Levy Ranged" key="mk_jer_t1_militia_archers"></Levies>
+		<Levies type="Levy Spearmen" key="mk_ayy_t1_ahdath"></Levies>
+		<Levies type="Levy Infantry" key="mk_rum_t1_ecrihor_swordsmen"></Levies>
+		<Levies type="Levy Ranged" key="mk_ayy_t1_ahdath_archers"></Levies>
 
-		<MenAtArm type="Light Footmen" key="mk_jer_t1_maronite_skirmishers"></MenAtArm>
-		<MenAtArm type="Armored Footmen" key="poulain_maceman"></MenAtArm>
-		<MenAtArm type="Pikemen" key="mk_zen_t1_jazira_spearmen"></MenAtArm>
+		<MenAtArm type="Light Footmen" key="mk_arm_t1_bardzravandak_skirmishers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="mk_arm_t1_dismounted_archer_dziaworner"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_rum_t1_ecrihor_spearmen"></MenAtArm>
 		<MenAtArm type="Bowmen" key="mk_merc_arab_t1_syrian_ashir_archers"></MenAtArm>
-		<MenAtArm type="Crossbowmen" key="mk_jer_t1_syriac_crossbowmen"></MenAtArm>
-		<MenAtArm type="Light Horsemen" key="mk_ant_t1_turcopole_scouts"></MenAtArm>
-		<MenAtArm type="Armored Horsemen" key="mk_zen_t1_tawashi_cavalry"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_arm_t1_italian_mercenaries"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="mk_arm_t1_turcopoles"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_rum_t1_ecrihor_cavalry"></MenAtArm>
 		<MenAtArm type="House Guard" key="mk_arm_t1_dismounted_dziaworner"></MenAtArm>
 		<MenAtArm type="Order Knights" key="mk_tre_t1_varangoi"></MenAtArm>
 
@@ -761,14 +761,14 @@
 		<MenAtArm type="Horse Archers" key="mk_ant_t1_turcopoles"></MenAtArm>
 
 		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
-		<MenAtArm type="Retinue Horse Archers" key="mk_ant_t1_turcopoles"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_arm_t1_archer_dziaworner"></MenAtArm>
 		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
-		<MenAtArm type="Retinue Archers" key="mk_merc_arab_t1_syrian_ashir_archers"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_mak_t1_nubian_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="mk_nic_t1_italikon"></MenAtArm>
-		<MenAtArm type="Retinue Lancers" key="mk_zen_t1_tawashi_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_arm_t1_dziaworner"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="mk_arm_t1_serzhantner"></MenAtArm>
-		<MenAtArm type="Retinue Pikemen" key="mk_zen_t1_jazira_spearmen"></MenAtArm>
-		<MenAtArm type="Retinue Skirmishers" key="mk_jer_t1_maronite_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="mk_tre_t1_scoutatoi"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="ayy_nubian_skirmishers"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="mk_tre_t1_varangoi"></MenAtArm>
 	</Faction>
 
@@ -1205,18 +1205,18 @@
 		<General key="mk_tou_t1_count_bodyguard"></General>
 		<Knights key="mk_tou_t1_count_bodyguard"></Knights>
 
-		<Levies type="Levy Spearmen" key="mk_tou_t1_spear_levy"></Levies>
+		<Levies type="Levy Spearmen" key="mk_tou_t1_voulge_militia"></Levies>
 		<Levies type="Levy Infantry" key="mk_tou_t1_sergeants"></Levies>
 		<Levies type="Levy Ranged" key="mk_tou_t1_levy_crossbowmen"></Levies>
 
 		<MenAtArm type="Light Footmen" key="mk_merc_ara_t1_almogavar"></MenAtArm>
-		<MenAtArm type="Armored Footmen" key="mk_tou_t1_chevaliers_dismounted"></MenAtArm>
-		<MenAtArm type="Pikemen" key="mk_tou_t1_communal_spearmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="mk_tou_t1_dismounted_chevaliers"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_tou_t1_spearmen"></MenAtArm>
 		<MenAtArm type="Bowmen" key="mk_tou_t1_archers"></MenAtArm>
 		<MenAtArm type="Crossbowmen" key="mk_tou_t1_arbaletriers"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="mk_bur_t1_scouts"></MenAtArm>
-		<MenAtArm type="Armored Horsemen" key="mk_tou_t1_chevaliers_mounted"></MenAtArm>
-		<MenAtArm type="House Guard" key="mk_tou_t1_chevaliers_dismounted"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_tou_t1_chevaliers"></MenAtArm>
+		<MenAtArm type="House Guard" key="mk_tou_t1_dismounted_chevaliers"></MenAtArm>
 		<MenAtArm type="Order Knights" key="mk_mio_t1_hospitaller_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
@@ -1227,11 +1227,11 @@
 		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Retinue Archers" key="mk_tou_t1_archers"></MenAtArm>
 		<MenAtArm type="Crossbowmen" key="mk_tou_t1_arbaletriers"></MenAtArm>
-		<MenAtArm type="Retinue Lancers" key="mk_tou_t1_chevaliers_mounted"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_tou_t1_chevaliers"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="mk_fre_t1_cliens"></MenAtArm>
-		<MenAtArm type="Retinue Pikemen" key="mk_tou_t1_communal_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="mk_tou_t1_communal_guisarmiers"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="mk_merc_ara_t1_almogavar"></MenAtArm>
-		<MenAtArm type="Retinue Vanguard" key="mk_tou_t1_chevaliers_dismounted"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="mk_tou_t1_dismounted_chevaliers"></MenAtArm>
 	</Faction>
 
 	<Faction name="Goidelic">
@@ -1271,7 +1271,7 @@
 		<General key="mk_zag_t1_dejazmach_guard"></General>
 		<Knights key="mk_zag_t1_dejazmach_guard"></Knights>
 
-		<Levies type="Levy Spearmen" key="mk_alm_t1_abid_infantry"></Levies>
+		<Levies type="Levy Spearmen" key="ayy_nubian_levy"></Levies>
 		<Levies type="Levy Infantry" key="mk_mak_t1_beja_tribesmen"></Levies>
 		<Levies type="Levy Ranged" key="mk_mak_t1_beja_bowmen"></Levies>
 
@@ -1312,7 +1312,7 @@
 		<MenAtArm type="Armored Footmen" key="mk_gran_t1_mozarab_jund"></MenAtArm>
 		<MenAtArm type="Pikemen" key="mk_gran_t1_muwalladun_jund"></MenAtArm>
 		<MenAtArm type="Bowmen" key="mk_gran_t1_hushud_rumat"></MenAtArm>
-		<MenAtArm type="Crossbowmen" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_alm_t1_jund_crossbowmen"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="mk_gran_t1_granadine_spear_cavalry"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="mk_gran_t1_granadine_knights"></MenAtArm>
 		<MenAtArm type="House Guard" key="mk_gran_t1_mozarab_jund"></MenAtArm>
@@ -1325,9 +1325,9 @@
 		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="Retinue Horse Archers" key="mk_gran_t1_andalusian_mounted_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Camel Riders" key="berber_desert_camel_warriors"></MenAtArm>
-		<MenAtArm type="Retinue Archers" key="mk_gran_t1_hushud_rumat"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
-		<MenAtArm type="Retinue Lancers" key="mk_gran_t1_granadine_knights"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_haf_t1_nasara_al_rabat"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="mk_alm_t1_huffaz"></MenAtArm>
 		<MenAtArm type="Retinue Pikemen" key="mk_gran_t1_mozarab_jund"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="mk_gran_t1_thagri_hillmen"></MenAtArm>
@@ -2367,7 +2367,7 @@
 	
 	<Faction name="Vlach">
 		<General key="mk_vlach_t1_voievod_bodyguard"></General>
-		<Knights key="mk_vlach_t1_voievod_bodyguard"></Knights>
+		<Knights key="mk_vlach_t1_boieri"></Knights>
 
 		<Levies type="Levy Spearmen" key="mk_vlach_t1_militia_spearmen"></Levies>
 		<Levies type="Levy Infantry" key="mk_vlach_t1_mosneni"></Levies>
@@ -3258,6 +3258,205 @@
 		<MenAtArm type="Retinue Outriders" key="mk_rum_t1_ghazi_lancers"></MenAtArm>
 		<MenAtArm type="Retinue Pikemen" key="mk_rum_t1_ecrihor_spearmen"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="mk_rum_t1_uc_turkleri"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="mk_ayy_t1_tabardariyya"></MenAtArm>
+	</Faction>
+
+	<Faction name="Gothic">
+		<General key="mk_vlach_t1_voievod_bodyguard"></General>
+		<Knights key="mk_mold_t1_boieri"></Knights>
+		
+		<Levies type="Levy Spearmen" key="mk_vlach_t1_militia_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="mk_merc_rus_t1_ushkuiniki"></Levies>
+		<Levies type="Levy Ranged" key="mk_vlach_t1_militia_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="mk_vlach_t1_plaiesi_javelinmen"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="mk_tre_t1_scoutatoi"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_bulg_t1_hooked_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="mk_bulg_t1_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_tre_t1_italikon"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="vlach_mounted_skirmishers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_merc_rus_t1_bogatyri"></MenAtArm>
+		<MenAtArm type="House Guard" key="mk_tre_t1_varangoi"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_tre_t1_varangoi"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="mk_mold_t1_calarasi_horse_archers"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_bulg_t1_bolyars"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_tre_t1_katapraktos_toxotes"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="mk_merc_gen_t1_genoese_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_tre_t1_oiketai"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="mk_bulg_t1_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="mk_serb_t1_vojnici_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="volga_siberian_axemen"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="mk_tre_t1_varangoi"></MenAtArm>
+	</Faction>
+
+	<Faction name="Mozarab">
+		<General key="mk_gran_t1_granadine_rais"></General>
+		<Knights key="mk_gran_t1_granadine_knights"></Knights>
+
+		<Levies type="Levy Spearmen" key="mk_gran_t1_hushud"></Levies>
+		<Levies type="Levy Infantry" key="mk_gran_t1_andalusian_jund"></Levies>
+		<Levies type="Levy Ranged" key="mk_gran_t1_andalusian_crossbowmen"></Levies>
+
+		<MenAtArm type="Light Footmen" key="mk_ara_t1_almogavars"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="mk_gran_t1_mozarab_jund"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_gran_t1_muwalladun_jund"></MenAtArm>
+		<MenAtArm type="Bowmen" key="mk_gran_t1_hushud_rumat"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_alm_t1_jund_crossbowmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="mk_gran_t1_granadine_spear_cavalry"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_gran_t1_muwalladun_cavalry"></MenAtArm>
+		<MenAtArm type="House Guard" key="andalusian_infantry"></MenAtArm>
+		<MenAtArm type="Order Knights" key="andalusian_infantry"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="berber_desert_camel_warriors"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="mk_gran_t1_andalusian_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="Caballeros" key="mk_gran_t1_andalusian_jinetes"></MenAtArm>
+		
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_gran_t1_andalusian_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="berber_desert_camel_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_gran_t1_granadine_knights"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="mk_alm_t1_huffaz"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="mk_gran_t1_mozarab_jund"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="mk_ara_t1_almogavars"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="andalusian_infantry"></MenAtArm>
+	</Faction>
+
+	<Faction name="Roman African">
+		<General key="mk_epi_t1_oikeioi"></General>
+		<Knights key="mk_epi_t1_pronoiarioi"></Knights>
+
+		<Levies type="Levy Spearmen" key="berber_spears"></Levies>
+		<Levies type="Levy Infantry" key="mk_alm_t1_jund_swordsmen"></Levies>
+		<Levies type="Levy Ranged" key="mk_alm_t1_hushud_rumat"></Levies>
+
+		<MenAtArm type="Light Footmen" key="mk_epi_t1_apelatai"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="mk_epi_t1_mourtatoi"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_epi_t1_menavlatoi"></MenAtArm>
+		<MenAtArm type="Bowmen" key="mk_epi_t1_persikoi"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_epi_t1_tzangratoroi"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="mk_haf_t1_kabyle_tribal_horsemen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_epi_t1_koursores"></MenAtArm>
+		<MenAtArm type="House Guard" key="mk_epi_t1_englinovarangoi"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_epi_t1_vardariotai"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="berber_desert_camel_warriors"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="mk_epi_t1_hippotoxotai"></MenAtArm>
+		
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_gran_t1_andalusian_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="berber_desert_camel_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_epi_t1_hippovardariotai"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="mk_alm_t1_huffaz"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="mk_epi_t1_scoutatoi_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="mk_ara_t1_almogavars"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="mk_epi_t1_vardariotai"></MenAtArm>
+	</Faction>
+
+	<Faction name="Dalmatian">
+		<General key="mk_bos_t1_general_bodyguard"></General>
+		<Knights key="mk_bos_t1_bosnian_vlastela"></Knights>
+
+		<Levies type="Levy Spearmen" key="mk_bos_t1_militia_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="mk_bos_t1_vojnici_axemen"></Levies>
+		<Levies type="Levy Ranged" key="mk_ven_t1_militia_archer"></Levies>
+
+		<MenAtArm type="Light Footmen" key="mk_croat_T1_javelin_sailors"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="mk_ven_t1_excusati_guard"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_bos_t1_vojnici_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="mk_ven_t1_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_ven_t1_crossbowmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="mk_ven_t1_mounted_zaffones"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_croat_T1_knight"></MenAtArm>
+		<MenAtArm type="House Guard" key="mk_ven_t1_foot_knight"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_mio_t1_hospitaller_knights_dismounted"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="mk_ven_t1_mounted_crossbow"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_ven_t1_mounted_crossbow"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_ven_t1_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="mk_merc_gen_t1_genoese_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_ven_t1_knight"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="mk_ven_t1_mounted_serjeants"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="mk_ven_t1_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="mk_croat_T1_javelin_sailors"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="mk_ven_t1_foot_knight"></MenAtArm>
+	</Faction>
+
+	<Faction name="Trebizond">
+		<General key="mk_tre_t1_oikeioi"></General>
+		<Knights key="mk_tre_t1_pronoiarioi"></Knights>
+
+		<Levies type="Levy Spearmen" key="mk_tre_t1_vigla"></Levies>
+		<Levies type="Levy Infantry" key="mk_tre_t1_spathatoi"></Levies>
+		<Levies type="Levy Ranged" key="mk_tre_t1_toxotes"></Levies>
+
+		<MenAtArm type="Light Footmen" key="mk_tre_t1_peltastai"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="mk_tre_t1_spatharioi_tou_vasileos"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_tre_t1_kontaratoi"></MenAtArm>
+		<MenAtArm type="Bowmen" key="mk_tre_t1_tourkoupoloi"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_tre_t1_italikon"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="mk_tre_t1_koursores"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_tre_t1_oiketai"></MenAtArm>
+		<MenAtArm type="House Guard" key="mk_tre_t1_varangoi"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_tre_t1_varangoi"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="mk_tre_t1_hippotourkoupoloi"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_tre_t1_katapraktos_hippotoxotes"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_tre_t1_katapraktos_toxotes"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="mk_merc_gen_t1_genoese_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_tre_t1_hippospatharioi_tou_vasileos"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="mk_tre_t1_massagetoi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="mk_tre_t1_scoutatoi"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="mk_tre_t1_spathatoi"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="mk_tre_t1_varangoi"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Copt">
+		<General key="mk_alm_t1_qaid_bodyguards"></General>
+		<Knights key="mk_alm_t1_nobat_al_djandariya"></Knights>
+
+		<Levies type="Levy Spearmen" key="coptic_warriors"></Levies>
+		<Levies type="Levy Infantry" key="mk_rum_t1_ecrihor_swordsmen"></Levies>
+		<Levies type="Levy Ranged" key="mk_ayy_t1_ahdath_archers"></Levies>
+
+		<MenAtArm type="Light Footmen" key="ayy_nubian_skirmishers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="ayy_nubian_swords"></MenAtArm>
+		<MenAtArm type="Pikemen" key="mk_rum_t1_ecrihor_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="mk_merc_arm_t1_armenian_archers"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="mk_ayy_t1_crossbowmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="abb_arab_horse_skirmishers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="mk_mak_t1_alodian_horsemen"></MenAtArm>
+		<MenAtArm type="House Guard" key="mk_ayy_t1_tabardariyya"></MenAtArm>
+		<MenAtArm type="Order Knights" key="mk_ayy_t1_tabardariyya"></MenAtArm>
+
+		<MenAtArm type="Camel Riders" key="arab_desert_camel_skirmishers"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="mk_ayy_t1_mounted_crossbowmen"></MenAtArm>
+
+		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_arm_t1_archer_dziaworner"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="mk_merc_arab_t1_bedouin_camel_riders"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="mk_arm_t1_dismounted_archer_dziaworner"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="mk_gran_t1_heavy_andalusian_crossbowmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="mk_arm_t1_dziaworner"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="mk_mak_t1_nubian_knights"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="ayy_nubian_spears"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="mk_arm_t1_bardzraharker"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="mk_ayy_t1_tabardariyya"></MenAtArm>
 	</Faction>
 	

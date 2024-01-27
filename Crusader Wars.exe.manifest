@@ -43,33 +43,33 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Crusader Wars.exe" size="30956032">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Crusader Wars.exe" size="33533440">
       <assemblyIdentity name="Crusader Wars" version="0.9.3.1" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3bTdZRtdB2B2lMz2SEUubWDRWvUimtxRclpcYKOxH4c=</dsig:DigestValue>
+        <dsig:DigestValue>W480Ip74oVLz2Htm9P1nDtOZJDNH9Oi4iHNHyYNr1p0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Crusader Wars.exe.config" size="3133">
+  <file name="Crusader Wars.exe.config" size="2253">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Fa2wZhctnnFtXKqUwTH1gq7hvTJFJLoD+OgdxR0+HbU=</dsig:DigestValue>
+      <dsig:DigestValue>K/fsWSuu4tulFteyGwk5wJSqsqWeWGfl/QRZVZ4RluA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Crusader Wars.pdb" size="445952">
+  <file name="Crusader Wars.pdb" size="574976">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>gJKmETmEyV250Dm+HM9DHM2Vk7FxgLHbPtWMEzXUw1g=</dsig:DigestValue>
+      <dsig:DigestValue>3teDCWESBvT9yv6g31Cu3nNyym4eAt8A/gSmqOwkiyE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="logo.ico" size="255614">

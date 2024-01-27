@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
 <RequiredMods>
+	<Mod></Mod>
 	<Mod>DLC Longbeard Culture Pack</Mod>
 	<Mod>DLC Celtic Culture Pack</Mod>
-	<Mod>Fall of the Eagles - Part 1</Mod>
-	<Mod>Fall of the Eagles - Part 2</Mod>
+	<Mod>DLC Empires of Sand Culture Pack</Mod>
+	<Mod></Mod>
+	<Mod>Fall of the Eagles - Part 1 (Update 9/06/2023)</Mod>
+	<Mod>Fall of the Eagles - Part 2 (Update 25/06/2023) </Mod>
 </RequiredMods>
 
 		

@@ -25,12 +25,7 @@
 		<MenAtArm type="Dark Volunteers" key="dun_blood_avengers" max="INFANTRY" script="varangian_veterans_unit_"></MenAtArm>
 		<MenAtArm type="Haradrim Raiders" key="har_harad_glaives" max="INFANTRY" script="jomsviking_pirates_unit_"></MenAtArm>
 
-        <MenAtArm type="Onager" key="gon_onager" max="RANGED" script="onager_unit_"></MenAtArm>
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion" max="RANGED" script="trebuchet_unit_"></MenAtArm>
-        <MenAtArm type="Mangonel" key="gon_onager" max="RANGED" script="mangonel_unit_"></MenAtArm>
-		<MenAtArm type="Siege Towers" key="siege_tower_15m_heavy" max="RANGED" script="siege_tower_unit_"></MenAtArm>
-		
-		
+			
 		
 		<MenAtArm type="Bellakarani Phalanx" key="har_serpent_spearmen" max="INFANTRY" script="bellakarani_phalanx_unit_"></MenAtArm>
         <MenAtArm type="Bellakaze Outriders" key="har_desert_raiders" max="CAVALRY" script="bellakaze_outrider_unit_"></MenAtArm>
@@ -119,13 +114,6 @@
 		<MenAtArm type="Talon Knights" key="gon_citadel_guard" max="INFANTRY" script="talon_knights_unit_"></MenAtArm>
         <MenAtArm type="Haven Guard" key="gon_sword_infantry" max="INFANTRY" script="haven_guard_unit_"></MenAtArm>
 		
-        <MenAtArm type="Soldiers of Númenor" key="arn_arthedain_knights" max="INFANTRY" script="numenorean_soldiers_unit_"></MenAtArm>
-        <MenAtArm type="Steel-bows of Númenor" key="arn_bows" max="RANGED" script="numenorean_archers_unit_"></MenAtArm>
-		<MenAtArm type="Numenorean Crossbowmen" key="arn_bows" max="RANGED" script="numenorean_crossbowmen_unit_"></MenAtArm>
-		<MenAtArm type="Knights of Númenor" key="arn_arnorian_cav" max="CAVALRY" script="numenorean_knights_unit_"></MenAtArm>
-        <MenAtArm type="Numenorean Pikemen" key="arn_high_kings_guard" max="INFANTRY" script="numenorean_pikemen_unit_"></MenAtArm>
-        <MenAtArm type="Tirista n'Tar-Aran" key="arn_blademasters" max="INFANTRY" script="numenorean_elites_unit_"></MenAtArm>
-		
         <MenAtArm type="Dúnedain Rangers" key="gon_ithilien_rangers" max="RANGED" script="dunedain_rangers_unit_"></MenAtArm>
 		
 	    <MenAtArm type="Orthanc Guard" key="gon_citadel_guard" max="INFANTRY" script="orthanc_guard_unit_"></MenAtArm>
@@ -213,7 +201,7 @@
 		
 		
 		<MenAtArm type="Orc Warriors" key="mor_orc_pillagers" max="INFANTRY" script="orc_warriors_unit_"></MenAtArm>
-		<MenAtArm type="Orc Rabble" key="mor_orc_rabble" max="INFANTRY" script="orc_rabble_unit_"></MenAtArm>
+		<MenAtArm type="Orc Rabble" key="mor_orc_warband" max="INFANTRY" script="orc_rabble_unit_"></MenAtArm>
         <MenAtArm type="Orc Archers" key="mor_uruk_archers" max="INFANTRY" script="orc_archers_unit_"></MenAtArm>
         <MenAtArm type="Smakurr" key="mor_orc_rabble_bowmen" max="RANGED" script="orc_trackers_unit_"></MenAtArm>
 		<MenAtArm type="Orc Pikemen" key="mor_orc_rabble" max="INFANTRY" script="orc_pikemen_unit_"></MenAtArm>		
@@ -237,8 +225,8 @@
 		<MenAtArm type="Dush-hai Warband" key="mor_uruk_archers" max="RANGED" script="orc_dush_hai_warband_unit_"></MenAtArm>
 		<MenAtArm type="Gundabad Spearorc Warband" key="tomb_gundabad_stalkers" max="INFANTRY" script="gundabad_orc_spear_warband_unit_"></MenAtArm>
 		<MenAtArm type="Gundabad Berserkers" key="tomb_gundabad_berserker" max="INFANTRY" script="gundabad_orc_berserkers_unit_"></MenAtArm>
-		<MenAtArm type="Hunter Orcs on Fell Wargs" key="mor_servants_of_the_eyes" max="CAVALRY" script="hunter_orcs_on_fell_wargs_unit_"></MenAtArm>
-		<MenAtArm type="Gundabad Blackshields" key="tomb_gundabad_blades" max="INFANTRY" script="gundabad_blackshields_unit_"></MenAtArm>
+		<MenAtArm type="Hunter Orcs on Fell Wargs" key="mor_morgul_wargs" max="CAVALRY" script="hunter_orcs_on_fell_wargs_unit_"></MenAtArm>
+		<MenAtArm type="Gundabad Blackshields" key="tomb_gundabad_berserker" max="INFANTRY" script="gundabad_blackshields_unit_"></MenAtArm>
 		<MenAtArm type="Gundabad War Troll" key="mor_mountain_trolls" max="10" script="gundabad_war_troll_unit_"></MenAtArm>
 		<MenAtArm type="Gundabad Ogres" key="mor_olog_hai" max="10" script="gundabad_ogres_unit_"></MenAtArm>  
 		
@@ -278,10 +266,10 @@
 
 	
 	
-		<MenAtArm type="Steel-bows of Númenor" key="arn_bows" max="RANGED" script="numenorean_steel_archers_unit_"></MenAtArm>
-		<MenAtArm type="Tirista n'Tar-Aran" key="arn_arthedain_knights" max="INFANTRY" script="numenorean_royal_knights_unit_"></MenAtArm>
-        <MenAtArm type="Númenorean Pikemen" key="arn_high_kings_guard" max="INFANTRY" script="numenorean_submod_pikemen_unit_"></MenAtArm>
-        <MenAtArm type="Soldiers of Númenor" key="arn_sword_infantry" max="INFANTRY" script="numenorean_common_soldiers_unit_"></MenAtArm>
+		<MenAtArm type="Steel-bows of Númenor" key="dol_heavyarcher" max="RANGED" script="numenorean_steel_archers_unit_"></MenAtArm>
+		<MenAtArm type="Tirista n'Tar-Aran" key="dol_wardens" max="INFANTRY" script="numenorean_royal_knights_unit_"></MenAtArm>
+        <MenAtArm type="Númenorean Pikemen" key="dol_swanspear" max="INFANTRY" script="numenorean_submod_pikemen_unit_"></MenAtArm>
+        <MenAtArm type="Soldiers of Númenor" key="dol_swansword" max="INFANTRY" script="numenorean_common_soldiers_unit_"></MenAtArm>
 		
 	
 	
@@ -313,7 +301,7 @@
 	</Faction>
 	
 <Faction name="Gondor">
-		<General key="gon_silver_swan_knights"></General>
+		<General key="stan_citadel"></General>
 		<Knights key="gon_citadel_guard"></Knights>
 		
 		<Levies type="Levy Spearmen" key="gon_spear_militia"></Levies>
@@ -329,11 +317,7 @@
 		<MenAtArm type="Armored Horsemen" key="gon_cavalry"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="gon_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="gon_onager"></MenAtArm>
-                
+      
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -345,40 +329,64 @@
 	</Faction>
 	
 	<Faction name="Dol Amroth">
-		<General key="gon_silver_swan_knights"></General>
-		<Knights key="dol_swancav"></Knights>
+		<General key="gon_imrahil"></General>
+		<Knights key="gon_silver_swan_knights"></Knights>
 		
 		<Levies type="Levy Spearmen" key="dol_levyspear"></Levies>
 		<Levies type="Levy Infantry" key="dol_levysword"></Levies>
 		<Levies type="Levy Ranged" key="dol_skirm"></Levies>
 		
-		<MenAtArm type="Light Footmen" key="dol_mediumsword"></MenAtArm>
-		<MenAtArm type="Armored Footmen" key="dol_heavysword"></MenAtArm>
+		<MenAtArm type="Light Footmen" key="dol_heavysword"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="dol_swansword"></MenAtArm>
 		<MenAtArm type="Pikemen" key="dol_heavyspear"></MenAtArm>
-		<MenAtArm type="Bowmen" key="dol_archer"></MenAtArm>
-		<MenAtArm type="Crossbowmen" key="dol_marinearcher"></MenAtArm>
-		<MenAtArm type="Light Horsemen" key="gon_princes_sergeants"></MenAtArm>
+		<MenAtArm type="Bowmen" key="dol_marinearcher"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="dol_heavyarcher"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="dol_sergeantcav"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="dol_cav"></MenAtArm>
 		
-		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="dol_treb"></MenAtArm>
-        <MenAtArm type="Onager" key="dol_treb"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>       
                 
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="hor_horsearcher"></MenAtArm>
-		<MenAtArm type="Retinue Pikemen" key="gon_fountain_guard"></MenAtArm>
-		<MenAtArm type="Retinue Skirmishers" key="gon_lebennin_marines"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="dol_swanpike"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="dol_marineskirm"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="dol_wardens"></MenAtArm>
+		<MenAtArm type="House Guard" key="dol_swanspear"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Anorien">
+		<General key="stan_citadel"></General>
+		<Knights key="stan_cav"></Knights>
+		
+		<Levies type="Levy Spearmen" key="stan_levyspear"></Levies>
+		<Levies type="Levy Infantry" key="stan_levysword"></Levies>
+		<Levies type="Levy Ranged" key="gon_bow_militia"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="stan_mediumsword"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="stan_heavysword"></MenAtArm>
+		<MenAtArm type="Pikemen" key="stan_heavyspear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="stan_mediumarcher"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="los_archer"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="stan_sergeantcav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="stan_cav"></MenAtArm>
+		
+		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
+                
+		<MenAtArm type="Retinue Archers" key="stan_ranger"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="hor_horsearcher"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="stan_veteranspear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="stan_skirm"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="stan_mace"></MenAtArm>
 		<MenAtArm type="House Guard" key="gon_fountain_guard"></MenAtArm>
 	</Faction>
 	
 	<Faction name="Harondor">
-		<General key="gon_silver_swan_knights"></General>
-		<Knights key="hor_cav"></Knights>
+		<General key="hor_guardsword"></General> 
+		<Knights key="hor_heavycav"></Knights>
 		
 		<Levies type="Levy Spearmen" key="hor_levyspear"></Levies>
 		<Levies type="Levy Infantry" key="hor_levysword"></Levies>
@@ -393,11 +401,7 @@
 		<MenAtArm type="Armored Horsemen" key="hor_cav"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="hor_cat"></MenAtArm>
-        <MenAtArm type="Onager" key="hor_cat"></MenAtArm>
-                
+     
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -409,8 +413,8 @@
 	</Faction>
 	
 	<Faction name="Anfalas">
-		<General key="gon_silver_swan_knights"></General>
-		<Knights key="gon_citadel_guard"></Knights>
+		<General key="anf_golasgil"></General>
+		<Knights key="anf_marshals"></Knights>
 		
 		<Levies type="Levy Spearmen" key="anf_levyspear"></Levies>
 		<Levies type="Levy Infantry" key="anf_levysword"></Levies>
@@ -425,11 +429,7 @@
 		<MenAtArm type="Armored Horsemen" key="gon_cavalry"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="anf_cat"></MenAtArm>
-        <MenAtArm type="Onager" key="anf_cat"></MenAtArm>
-                
+   
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -457,11 +457,7 @@
 		<MenAtArm type="Armored Horsemen" key="lam_cav"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="lam_treb"></MenAtArm>
-        <MenAtArm type="Onager" key="lam_treb"></MenAtArm>
-                
+   
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -490,10 +486,6 @@
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="pin_treb"></MenAtArm>
-        <MenAtArm type="Onager" key="pin_treb"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -505,8 +497,8 @@
 	</Faction>
 	
 	<Faction name="Blackroot Vale">
-		<General key="gon_silver_swan_knights"></General>
-		<Knights key="gon_citadel_guard"></Knights>
+		<General key="brv_heavyarcher"></General>
+		<Knights key="gon_cavalry"></Knights>
 		
 		<Levies type="Levy Spearmen" key="brv_mediumspear"></Levies>
 		<Levies type="Levy Infantry" key="brv_levysword"></Levies>
@@ -521,11 +513,7 @@
 		<MenAtArm type="Armored Horsemen" key="gon_cavalry"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="gon_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="gon_onager"></MenAtArm>
-                
+      
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -537,8 +525,8 @@
 	</Faction>
 	
 	<Faction name="Lebennin">
-		<General key="gon_silver_swan_knights"></General>
-		<Knights key="gon_citadel_guard"></Knights>
+		<General key="leb_guardsword"></General>
+		<Knights key="leb_retainercav"></Knights>
 		
 		<Levies type="Levy Spearmen" key="leb_levyspear"></Levies>
 		<Levies type="Levy Infantry" key="leb_levysword"></Levies>
@@ -550,14 +538,10 @@
 		<MenAtArm type="Bowmen" key="leb_marinearcher"></MenAtArm>
 		<MenAtArm type="Crossbowmen" key="leb_archer"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="leb_mediumcav"></MenAtArm>
-		<MenAtArm type="Armored Horsemen" key="gon_cavalry"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="leb_retainercav"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="leb_treb"></MenAtArm>
-        <MenAtArm type="Onager" key="leb_treb"></MenAtArm>
-                
+
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -569,8 +553,8 @@
 	</Faction>
 	
 	<Faction name="Lossarnach">
-		<General key="gon_silver_swan_knights"></General>
-		<Knights key="los_forlong"></Knights>
+		<General key="los_forlong"></General>
+		<Knights key="gon_cavalry"></Knights>
 		
 		<Levies type="Levy Spearmen" key="gon_spear_militia"></Levies>
 		<Levies type="Levy Infantry" key="los_levyaxe"></Levies>
@@ -585,11 +569,7 @@
 		<MenAtArm type="Armored Horsemen" key="gon_cavalry"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="los_cat"></MenAtArm>
-        <MenAtArm type="Onager" key="los_cat"></MenAtArm>
-                
+
 		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -601,7 +581,7 @@
 	</Faction>
 	
 	<Faction name="Ringló Vale">
-		<General key="gon_silver_swan_knights"></General>
+		<General key="rv_sentinalsword"></General> 
 		<Knights key="rv_cav"></Knights>
 		
 		<Levies type="Levy Spearmen" key="rv_levyspear"></Levies>
@@ -617,11 +597,7 @@
 		<MenAtArm type="Armored Horsemen" key="rv_cav"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
-           
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="rv_treb"></MenAtArm>
-        <MenAtArm type="Onager" key="rv_treb"></MenAtArm>
-                
+
 		<MenAtArm type="Retinue Archers" key="brv_heavyarcher"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
@@ -650,10 +626,6 @@
 		
 		<MenAtArm type="Horse Archers" key="roh_eored_gap"></MenAtArm>
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="roh_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="roh_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="roh_helmingas"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="roh_yeomen_of_the_mark"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="roh_riders_of_rohan"></MenAtArm>
@@ -669,7 +641,7 @@
 		<Knights key="mor_servants_of_the_eyes"></Knights>
 		
 		<Levies type="Levy Spearmen" key="mor_orc_rabble"></Levies>
-		<Levies type="Levy Infantry" key="mor_orc_rabble"></Levies>
+		<Levies type="Levy Infantry" key="mor_orc_warband"></Levies>
 		<Levies type="Levy Ranged" key="mor_orc_rabble_bowmen"></Levies>   
 
         <MenAtArm type="Light Footmen" key="mor_orc_warriors"></MenAtArm>
@@ -681,11 +653,7 @@
 		<MenAtArm type="Armored Horsemen" key="mor_servants_of_the_eyes"></MenAtArm>
 
         <MenAtArm type="Horse Archers" key="ise_dunland_horse_raider"></MenAtArm>	
-        
-		<MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="mor_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="mor_onager"></MenAtArm>
-                
+         
 		<MenAtArm type="Retinue Archers" key="mor_uruk_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="gob_scavenged_crossbows"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="mor_nazgul"></MenAtArm>
@@ -701,7 +669,7 @@
 		<Knights key="mor_servants_of_the_eyes"></Knights>
 		
 		<Levies type="Levy Spearmen" key="mor_orc_rabble"></Levies>
-		<Levies type="Levy Infantry" key="mor_orc_rabble"></Levies>
+		<Levies type="Levy Infantry" key="mor_orc_warband"></Levies>
 		<Levies type="Levy Ranged" key="mor_orc_rabble_bowmen"></Levies>   
 
         <MenAtArm type="Light Footmen" key="mor_orc_warriors"></MenAtArm>
@@ -714,10 +682,6 @@
 
         <MenAtArm type="Horse Archers" key="ise_dunland_horse_raider"></MenAtArm>	
         
-		<MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="mor_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="mor_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="mor_uruk_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="gob_scavenged_crossbows"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="mor_nazgul"></MenAtArm>
@@ -729,11 +693,11 @@
 	</Faction>
 	
 	<Faction name="Orc">
-		<General key="mor_servants_of_the_eyes"></General>
-		<Knights key="mor_guards_of_the_teeth"></Knights>
+		<General key="mor_othrod"></General>
+		<Knights key="mor_uruk_bodyguards"></Knights>
 		
 		<Levies type="Levy Spearmen" key="mor_orc_rabble"></Levies>
-		<Levies type="Levy Infantry" key="mor_orc_rabble"></Levies>
+		<Levies type="Levy Infantry" key="mor_orc_warband"></Levies>
 		<Levies type="Levy Ranged" key="mor_orc_rabble_bowmen"></Levies>   
 
         <MenAtArm type="Light Footmen" key="mor_orc_warriors"></MenAtArm>
@@ -745,18 +709,14 @@
 		<MenAtArm type="Armored Horsemen" key="mor_servants_of_the_eyes"></MenAtArm>
 
         <MenAtArm type="Horse Archers" key="ise_dunland_horse_raider"></MenAtArm>	
-        
-		<MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="mor_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="mor_onager"></MenAtArm>
-                
+      
 		<MenAtArm type="Retinue Archers" key="mor_uruk_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="gob_scavenged_crossbows"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="mor_nazgul"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="mor_servants_of_the_eyes"></MenAtArm>
 		<MenAtArm type="Retinue Pikemen" key="mor_guards_of_the_teeth"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="mor_uruk_archers"></MenAtArm>
-		<MenAtArm type="Retinue Vanguard" key="mor_orc_pillagers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="mor_morgul_raiders"></MenAtArm>
 		<MenAtArm type="House Guard" key="mor_guards_of_the_teeth"></MenAtArm>
 	</Faction>
 	
@@ -765,7 +725,7 @@
 		<Knights key="dg_chieftain"></Knights>
 		
 		<Levies type="Levy Spearmen" key="dg_phantoms"></Levies>
-		<Levies type="Levy Infantry" key="mor_orc_rabble"></Levies>
+		<Levies type="Levy Infantry" key="mor_orc_warband"></Levies>
 		<Levies type="Levy Ranged" key="dg_mirkwood_trackers"></Levies> 
 		
 		<MenAtArm type="Light Footmen" key="dg_guldur_blades"></MenAtArm>
@@ -778,10 +738,6 @@
 		
 		<MenAtArm type="Horse Archers" key="ise_dunland_horse_raider"></MenAtArm> 
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="dg_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="dg_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="ise_uruk_hai_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="gob_scavenged_crossbows"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="dg_servants_of_the_eyes"></MenAtArm>
@@ -797,7 +753,7 @@
 		<Knights key="dg_servants_of_the_eyes"></Knights>
 		
 		<Levies type="Levy Spearmen" key="dg_phantoms"></Levies>
-		<Levies type="Levy Infantry" key="mor_orc_rabble"></Levies>
+		<Levies type="Levy Infantry" key="mor_orc_warband"></Levies>
 		<Levies type="Levy Ranged" key="dg_mirkwood_trackers"></Levies> 
 		
 		<MenAtArm type="Light Footmen" key="dg_guldur_blades"></MenAtArm>
@@ -810,10 +766,6 @@
 		
 		<MenAtArm type="Horse Archers" key="ise_dunland_horse_raider"></MenAtArm> 
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="dg_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="dg_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="ise_uruk_hai_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="gob_scavenged_crossbows"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="dg_servants_of_the_eyes"></MenAtArm>
@@ -828,9 +780,9 @@
 		<General key="ise_lurtz"></General>
 		<Knights key="ise_white_hand_stormer"></Knights>
 		
-		<Levies type="Levy Spearmen" key="mor_orc_rabble"></Levies>
-		<Levies type="Levy Infantry" key="gob_goblin_light_inf"></Levies>
-		<Levies type="Levy Ranged" key="gob_snaga_javelin"></Levies> 
+		<Levies type="Levy Spearmen" key="ise_mordor_rabble"></Levies>
+		<Levies type="Levy Infantry" key="ise_goblinmen_ruffians"></Levies>
+		<Levies type="Levy Ranged" key="ise_goblinmen_bows"></Levies> 
 		
 		<MenAtArm type="Light Footmen" key="ise_uruk_hai_raiders"></MenAtArm>
 		<MenAtArm type="Armored Footmen" key="ise_uruk_hai_infantry"></MenAtArm>
@@ -842,10 +794,6 @@
 		
 		<MenAtArm type="Horse Archers" key="ise_dunland_horse_raider"></MenAtArm>
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="ise_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="ise_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="ise_uruk_hai_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="ise_uruk_hai_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="mor_servants_of_the_eyes"></MenAtArm>
@@ -853,7 +801,7 @@
 		<MenAtArm type="Retinue Pikemen" key="ise_uruk_hai_pikemen"></MenAtArm>
 		<MenAtArm type="Retinue Skirmishers" key="ise_dunland_horse_raider"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="ise_berserker"></MenAtArm>
-		<MenAtArm type="House Guard" key="ise_uruk_hai_pikemen"></MenAtArm>
+		<MenAtArm type="House Guard" key="ise_white_hand_stormer"></MenAtArm>
 	</Faction>
 	
 	<Faction name="Isengard Good">
@@ -873,11 +821,7 @@
 		<MenAtArm type="Armored Horsemen" key="dun_champions"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="dun_horsed_raiders"></MenAtArm>
-        
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="dun_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="dun_onager"></MenAtArm>
-                
+     
 		<MenAtArm type="Retinue Archers" key="dun_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="dun_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="dun_champions"></MenAtArm>
@@ -910,11 +854,7 @@
 		<MenAtArm type="Smakurr" key="gob_marauders"></MenAtArm>
 		<MenAtArm type="Orc Warriors" key="tomb_gundabad_blades"></MenAtArm>
 		<MenAtArm type="Orc Pikemen" key="tomb_gundabad_halberd"></MenAtArm>
-		
-		<MenAtArm type="Trebuchet" key="gundabad_onager"></MenAtArm>
-		<MenAtArm type="Mangonel" key="gundabad_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="gundabad_onager"></MenAtArm>
-                
+	   
 		<MenAtArm type="Retinue Archers" key="tomb_gundabad_traversers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="gob_scavenged_crossbows"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="mor_servants_of_the_eyes"></MenAtArm>
@@ -948,10 +888,6 @@
 		<MenAtArm type="Orc Archers" key="gob_goblin_heavy_archers"></MenAtArm>
 		<MenAtArm type="Orc Pikemen" key="gob_goblin_spear_warriors"></MenAtArm>
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="gob_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="gob_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="ise_uruk_hai_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="gob_scavenged_crossbows"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="dg_servants_of_the_eyes"></MenAtArm>
@@ -964,7 +900,7 @@
 	
 	<Faction name="Dunlending">
 		<General key="dun_champions"></General>
-		<Knights key="dun_champions"></Knights>
+		<Knights key="dun_pillagers"></Knights>
 		
 		<Levies type="Levy Spearmen" key="dun_tribal_levies"></Levies>
 		<Levies type="Levy Infantry" key="dun_tribal_warriors"></Levies>
@@ -979,11 +915,7 @@
 		<MenAtArm type="Armored Horsemen" key="dun_champions"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="dun_horsed_raiders"></MenAtArm>
-        
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="dun_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="dun_onager"></MenAtArm>
-                
+     
 		<MenAtArm type="Retinue Archers" key="dun_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="dun_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="dun_champions"></MenAtArm>
@@ -1011,11 +943,7 @@
 		<MenAtArm type="Armored Horsemen" key="har_harad_camel_riders"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="har_harad_horse_archers"></MenAtArm>
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="har_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="har_onager"></MenAtArm>
-                
+  
 		<MenAtArm type="Retinue Archers" key="har_black_serpent"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="har_black_serpent"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="har_mumakil"></MenAtArm>
@@ -1028,7 +956,7 @@
 	
 	<Faction name="Easterlings">
 		<General key="bal_bane_of_the_steppes"></General>
-		<Knights key="bal_variag_lancers"></Knights>
+		<Knights key="bal_loke-rim_cataphracts"></Knights>
 		
 		<Levies type="Levy Spearmen" key="bal_clan_spearmen"></Levies>
 		<Levies type="Levy Infantry" key="bal_clan_axemen"></Levies>
@@ -1044,10 +972,6 @@
 		
 		<MenAtArm type="Horse Archers" key="bal_khandish_horse_archers"></MenAtArm> 
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="bal_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="bal_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="bal_variag_bowmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="bal_loke-rim_archers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="bal_wainrider_chiefs"></MenAtArm>
@@ -1077,10 +1001,6 @@
 		<MenAtArm type="Horse Archers" key="har_harad_horse_archers"></MenAtArm> 
 		<MenAtArm type="Shieldwall Arbalests" key="umb_lb_corsair_archers"></MenAtArm>
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="umb_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="umb_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="umb_black_haven_marksmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="umb_black_haven_marksmen"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="har_harad_camel_riders"></MenAtArm>
@@ -1109,10 +1029,6 @@
 		
 		<MenAtArm type="Horse Archers" key="kha_variag_horse_archers"></MenAtArm> 
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="kha_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="kha_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="kha_variag_bowmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="kha_variag_bowmen"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="kha_khandish_cataphracts"></MenAtArm>
@@ -1141,10 +1057,6 @@
 		
 		<MenAtArm type="Horse Archers" key="roh_horse_archers"></MenAtArm> 	
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="dale_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="dale_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="dale_bardings"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="dale_rhovanion_rangers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="dale_cavalry_regiment"></MenAtArm>
@@ -1173,10 +1085,6 @@
 		
 		<MenAtArm type="Horse Archers" key="roh_horse_archers"></MenAtArm> 
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="ere_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="ere_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="ere_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="ere_crossbowmen"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="ere_merc_cav"></MenAtArm>
@@ -1204,11 +1112,7 @@
 		<MenAtArm type="Armored Horsemen" key="dor_merchant_escorts"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="roh_horse_archers"></MenAtArm> 
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="dor_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="dor_onager"></MenAtArm>
-                
+ 
 		<MenAtArm type="Retinue Archers" key="dor_avari_wanderers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="dor_dorwinion_crossbow"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="dor_merchant_escorts"></MenAtArm>
@@ -1236,11 +1140,7 @@
 		<MenAtArm type="Armored Horsemen" key="exe_wr_lasgalen_riders"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="loth_nimrodel_patrollers"></MenAtArm> 
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="loth_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="loth_onager"></MenAtArm>
-                
+   
 		<MenAtArm type="Retinue Archers" key="Marchwarden"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="loth_twilight_guard"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="exe_wr_lasgalen_riders"></MenAtArm>
@@ -1252,8 +1152,8 @@
 	</Faction>
 	
 	<Faction name="Woodland Realm">
-		<General key="exe_wr_elvenking_riders_elk"></General>
-		<Knights key="exe_wr_lasgalen_riders"></Knights>
+		<General key="wr_thranduil"></General>
+		<Knights key="wr_elvenking_riders"></Knights>
 		
 		<Levies type="Levy Spearmen" key="wr_forest_spears"></Levies>
 		<Levies type="Levy Infantry" key="wr_forest_sentinels"></Levies>
@@ -1268,12 +1168,8 @@
 		<MenAtArm type="Armored Horsemen" key="wr_elvenking_riders"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="loth_nimrodel_patrollers"></MenAtArm> 
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="wr_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="wr_onager"></MenAtArm>
-                
-		<MenAtArm type="Retinue Archers" key="wr_lasgalen_bows"></MenAtArm>
+     
+		<MenAtArm type="Retinue Archers" key="wr_legolas"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="wr_lasgalen_lords"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="exe_wr_lasgalen_riders"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="exe_wr_lasgalen_riders"></MenAtArm>
@@ -1300,11 +1196,7 @@
 		<MenAtArm type="Armored Horsemen" key="iml_cavalry"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="loth_nimrodel_patrollers"></MenAtArm> 
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="iml_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="iml_onager"></MenAtArm>
-                
+      
 		<MenAtArm type="Retinue Archers" key="iml_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="iml_archers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="iml_cavalry"></MenAtArm>
@@ -1333,10 +1225,6 @@
 		
 		<MenAtArm type="Horse Archers" key="lin_lindon_scouts"></MenAtArm> 
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="lin_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="lin_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="lin_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="lin_archers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="lin_cavalry"></MenAtArm>
@@ -1348,35 +1236,31 @@
 	</Faction>
 	
 	<Faction name="Numenorean">
-		<General key="arn_mounted_knights_of_arthedein"></General>
-		<Knights key="arn_arnorian_cav"></Knights>
+		<General key="gon_silver_swan_knights"></General>
+		<Knights key="dol_adrahil"></Knights>
 		
-		<Levies type="Levy Spearmen" key="arn_spear_militia"></Levies>
-		<Levies type="Levy Infantry" key="arn_sword_militia"></Levies>
-		<Levies type="Levy Ranged" key="arn_bow_militia"></Levies> 
+		<Levies type="Levy Spearmen" key="dol_levyspear"></Levies>
+		<Levies type="Levy Infantry" key="dol_levysword"></Levies>
+		<Levies type="Levy Ranged" key="dol_skirm"></Levies>
 		
-		<MenAtArm type="Light Footmen" key="arn_blademasters"></MenAtArm>
-		<MenAtArm type="Armored Footmen" key="arn_sword_infantry"></MenAtArm>
-		<MenAtArm type="Pikemen" key="arn_spear_infantry"></MenAtArm>
-		<MenAtArm type="Bowmen" key="arn_t2_bows"></MenAtArm>
-		<MenAtArm type="Crossbowmen" key="arn_t2_bows"></MenAtArm>
-		<MenAtArm type="Light Horsemen" key="arn_arnorian_cav"></MenAtArm>
-		<MenAtArm type="Armored Horsemen" key="arn_mounted_knights_of_arthedein"></MenAtArm>
+		<MenAtArm type="Light Footmen" key="dol_heavysword"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="dol_swansword"></MenAtArm>
+		<MenAtArm type="Pikemen" key="dol_heavyspear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="dol_marinearcher"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="dol_heavyarcher"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="dol_sergeantcav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="dol_cav"></MenAtArm>
 		
-		<MenAtArm type="Horse Archers" key="car_mounted_hunters"></MenAtArm> 
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="arn_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="arn_onager"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>       
                 
-		<MenAtArm type="Retinue Archers" key="arn_dunedain_rangers"></MenAtArm>
-		<MenAtArm type="Retinue Crossbowmen" key="arn_t2_bows"></MenAtArm>
-		<MenAtArm type="Retinue Lancers" key="arn_mounted_knights_of_arthedein"></MenAtArm>
-		<MenAtArm type="Retinue Outriders" key="car_mounted_hunters"></MenAtArm>
-		<MenAtArm type="Retinue Pikemen" key="arn_high_kings_guard"></MenAtArm>
-		<MenAtArm type="Retinue Skirmishers" key="car_skirmisher_militia"></MenAtArm>
-		<MenAtArm type="Retinue Vanguard" key="arn_blademasters"></MenAtArm>
-		<MenAtArm type="House Guard" key="arn_high_kings_guard"></MenAtArm>	
+		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="hor_horsearcher"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="dol_swanpike"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="dol_marineskirm"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="dol_wardens"></MenAtArm>
+		<MenAtArm type="House Guard" key="dol_swanspear"></MenAtArm>	
 	</Faction>
 	
 	<Faction name="Bree Land">
@@ -1396,11 +1280,7 @@
 		<MenAtArm type="Armored Horsemen" key="bre_knights_mounted"></MenAtArm>
 		
 		<MenAtArm type="Horse Archers" key="roh_eored_gap"></MenAtArm> 
-
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="arn_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="arn_onager"></MenAtArm>
-                
+ 
 		<MenAtArm type="Retinue Archers" key="bre_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="bre_gate_watch"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="bre_knights_mounted"></MenAtArm>
@@ -1429,10 +1309,6 @@
 		
 		<MenAtArm type="Horse Archers" key="ise_dunland_horse_raider"></MenAtArm> 
 
-        <MenAtArm type="Trebuchet" key="gon_trebuchet_bastion"></MenAtArm>
-		<MenAtArm type="Mangonel" key="ang_onager"></MenAtArm>
-        <MenAtArm type="Onager" key="ang_onager"></MenAtArm>
-                
 		<MenAtArm type="Retinue Archers" key="ang_gob_merc_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="ang_gob_merc_archers"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="mor_servants_of_the_eyes"></MenAtArm>
@@ -1441,6 +1317,34 @@
 		<MenAtArm type="Retinue Skirmishers" key="mor_uruk_archers"></MenAtArm>
 		<MenAtArm type="Retinue Vanguard" key="ang_acolytes_of_the_witchking"></MenAtArm>
 		<MenAtArm type="House Guard" key="ang_orc_spears"></MenAtArm>	
+	</Faction>
+	
+	<Faction name="Rhudaur">
+		<General key="rhu_trev_duvardain_reavers"></General>
+		<Knights key="rhu_crrothean_hill_riders"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rhu_bondi_spears"></Levies>
+		<Levies type="Levy Infantry" key="rhu_bondi_axes"></Levies>
+		<Levies type="Levy Ranged" key="rhu_hillman_hunters"></Levies> 
+		
+		<MenAtArm type="Light Footmen" key="rhu_corcurian_axe_hird"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rhu_creothean_raiders"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rhu_coldfell_spearband"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rhu_ettenmoor_marksmen"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rhu_ettenmoor_marksmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rhu_corcurian_raiders"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rhu_crrothean_hill_riders"></MenAtArm>
+		
+		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm> 
+
+		<MenAtArm type="Retinue Archers" key="rhu_ettenmoor_marksmen"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rhu_ettenmoor_marksmen"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rhu_crrothean_hill_riders"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="hor_horsearcher"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rhu_trev_gallorg_wardens"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rhu_trev_duvardain_packmasters"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rhu_creothean_raiders"></MenAtArm>
+		<MenAtArm type="House Guard" key="rhu_trev_gallorg_wardens"></MenAtArm>
 	</Faction>
 	
 	<Faction name="Northern Dunedain">

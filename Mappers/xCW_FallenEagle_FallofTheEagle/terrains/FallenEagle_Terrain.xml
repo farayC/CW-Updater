@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Terrains>
+	
+	<Attila_Map>Terrain/battles/main_attila_map/</Attila_Map> 
+
+	<Historic_Maps>		
+		<Map ck3_building_key="the_pyramids_01" x="0.525" y="0.737"></Map>
+		
+        <Map ck3_building_key="stonehenge_01" x="0.139" y="0.233"></Map>
+
+        <Map ck3_building_key="hadrians_wall_01" x="0.125" y="0.137"></Map>	
+
+        <Map ck3_building_key="real_hadrians_wall_01" x="0.125" y="0.137"></Map>		
+	</Historic_Maps>
+	
+</Terrains>

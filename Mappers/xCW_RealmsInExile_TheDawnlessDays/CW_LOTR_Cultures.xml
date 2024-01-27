@@ -63,6 +63,7 @@
 		<Culture name="Belfalathrim" faction="Dol Amroth"></Culture>
         <Culture name="Gondorian" faction="Gondor"></Culture>
         <Culture name="Arnorian" faction="Gondor"></Culture>
+		<Culture name="Anorien" faction="Anorien"></Culture>
 		<Culture name="Dunedain Ranger" faction="Northern Dunedain"></Culture>
 		<Culture name="Amronost" faction="Gondor"></Culture>
         <Culture name="Harondorim" faction="Harondor"></Culture>
@@ -217,6 +218,7 @@
 	</Heritage>
     <Heritage name="Undead" faction="Mordor">
         <Culture name="Úlairi" faction="Mordor"></Culture>
+		<Culture name="ringwraith" faction="Mordor"></Culture>
 		<Culture name="Úlairi-Witchking" faction="Witch King"></Culture>
 		<Culture name="Úlairi-Khamûl" faction="Khamûl"></Culture>
         <Culture name="Morgul-wight" faction="Dol Guldur"></Culture>
