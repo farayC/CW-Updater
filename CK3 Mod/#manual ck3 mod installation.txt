@@ -1,7 +1,7 @@
 #####################################################
 #		            Crusader Wars		         #
 #####################################################
-
+IMPORTANT!! YOU HAVE TO REINSTALL THIS FOR EVERY CRUSADER WARS UPDATE!
 
 if you don't have steam workshop Crusader Wars mod, use this one.
 
