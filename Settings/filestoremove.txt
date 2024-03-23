@@ -1,1 +1,1 @@
-\\.\\Mappers\\OfficialCW_EarlyMedieval_919Mod\\byz to change.txt
+.\\battle files\\db\\videos_tables\\

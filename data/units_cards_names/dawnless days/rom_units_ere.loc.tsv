@@ -1,0 +1,30 @@
+key	text	tooltip
+#Loc;1;text/db/rom_units_ere.loc		
+land_units_onscreen_name_ere_merc_cav	Escort Mercenaries	false
+land_units_onscreen_name_ere_iron_guardians	Iron Guards	false
+land_units_onscreen_name_ere_tomb_wardens	Tomb Wardens	false
+land_units_onscreen_name_ere_sons_of_mountain	King Dain Ironfoot (Sons of the Mountain)	false
+land_units_onscreen_name_ere_sons_of_mountain_alt_officer	Dain Ironfoot (Sons of the Mountain)	false
+land_units_onscreen_name_ere_mansion_reclaimers	Mansion Reclaimers	false
+land_units_onscreen_name_ere_ered_mithrin_veterans	Ered Mithrin Veterans	false
+land_units_onscreen_name_ere_baruk_guard	Dwarven Baruk Guard	false
+land_units_onscreen_name_ere_spearguards	Erebor Spear Guards	false
+land_units_onscreen_name_ere_orocarni_hammers	Warriors of the Red Mountains	false
+land_units_onscreen_name_ere_crossbowmen	Erebor Crossbows	false
+land_units_onscreen_name_ere_axe_warriors	Erebor Axe Warriors	false
+land_units_onscreen_name_ere_orocarni_archers	Archers of the Red Mountains	false
+land_units_onscreen_name_ere_mattock_warriors	Mattock Warriors	false
+land_units_onscreen_name_ere_dwarven_warriors	Dwarven Warriors	false
+land_units_onscreen_name_ere_halberdiers	Erebor Halberdiers	false
+land_units_onscreen_name_ere_axemen	Erebor Axes	false
+land_units_onscreen_name_ere_miners	Dwarven Miners	false
+land_units_onscreen_name_ere_dwarven_ranged_travellers	Dwarven Ranged Travellers	false
+land_units_onscreen_name_ere_dwarven_company	Dwarven Company	false
+land_units_onscreen_name_ere_axe_throwers	Erebor Axe Throwers	false
+land_units_onscreen_name_ere_dwarven_spearmen	Erebor Spears	false
+land_units_onscreen_name_ere_iron_hill_crossbow	Iron Hill Crossbows	false
+land_units_onscreen_name_ere_gimli	Gimli (Dwarven Baruk Guard)	false
+land_units_onscreen_name_ere_balin	Balin (Mansion Reclaimers)	false
+land_units_onscreen_name_ere_axe_guards	Erebor Axe Guards	false
+land_units_onscreen_name_ere_gloin	Glóin (Dwarven Baruk Guard)	false
+land_units_onscreen_name_ere_thorin	Thorin III Stonehelm (Dwarven Baruk Guard)	false

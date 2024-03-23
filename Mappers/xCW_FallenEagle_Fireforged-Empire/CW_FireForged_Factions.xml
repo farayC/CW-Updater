@@ -1,0 +1,1237 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FactionsGroups>
+
+	<Faction name="Default">
+		<General key="rex_candidati" max="CAVALRY" script="general_unit_"></General>
+		<Knights key="rex_rom_schola_armaturarum" max="CAVALRY" script="general_knights_unit_"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_praeventores" max="LEVY" script="levy_spearmen_unit_"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_romanenses" max="LEVY" script="levy_infantry_unit_"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_legionis_sagittarii" max="LEVY" script="levy_ranged_unit_"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_auxiliarii_bructeri" max="INFANTRY" script="light_footmen_unit_"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_valentinianenses" max="INFANTRY" script="armored_footmen_unit_"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_armigeri_defensores_seniores" max="INFANTRY" script="pikemen_unit_"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_millites_ball" max="RANGED" script="bowmen_unit_"></MenAtArm>
+		
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball" max="RANGED" script="crossbowmen_unit_"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_scutarii" max="CAVALRY" script="light_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_catafractarii_bucellarii_iuniores" max="CAVALRY" script="armored_horsemen_unit_"></MenAtArm>
+        <MenAtArm type="House Guard" key="rex_protector_domesticus_pedites" max="INFANTRY" script="house_guard_unit_"></MenAtArm>   		
+
+		<MenAtArm type="Abudrar" key="rex_des_desert_levy" max="INFANTRY" script="abudrar_unit_"></MenAtArm>			
+        <MenAtArm type="African Horse Archers" key="rex_des_desert_imazighen" max="CAVALRY" script="african_horse_archers_unit_"></MenAtArm>
+		<MenAtArm type="African Pikemen" key="rex_des_axum_masqal_sentinels" max="INFANTRY" script="african_pikemen_unit_"></MenAtArm>
+		<MenAtArm type="Argyraspides" key="rex_rom_legionis_armigeri_defensores_seniores" max="INFANTRY" script="ufp_argyraspides_unit_"></MenAtArm>
+		<MenAtArm type="Asawira" key="rex_east_armenian_ayrudzi_archers" max="CAVALRY" script="asawira_unit_"></MenAtArm>
+		<MenAtArm type="Athenian Epilektoi" key="rex_rom_millites_mena" max="INFANTRY" script="ufp_athenian_epilektoi_unit_"></MenAtArm>
+		<MenAtArm type="Bondí" key="rex_slav_ant_squad_levy" max="INFANTRY" script="bondi_unit_"></MenAtArm>
+		<MenAtArm type="Bush Hunters" key="rex_arab_skirmishers_watlai" max="RANGED" script="bush_hunter_unit_"></MenAtArm>
+        <MenAtArm type="Byzantin Archers" key="rex_rom_auxiliarii_sagittarii_orientales" max="RANGED" script="tfe_maa_byz_archers_unit_"></MenAtArm>
+		<MenAtArm type="Camel Horse Archers" key="rex_arab_badyia_camel" max="CAVALRY" script="camel_horse_archers_unit_"></MenAtArm>
+	    <MenAtArm type="Camel Riders" key="rex_des_axum_caravan_sentinels" max="CAVALRY" script="camel_rider_unit_"></MenAtArm>
+	    <MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores" max="CAVALRY" script="cataphract_unit_"></MenAtArm>
+		<MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores" max="CAVALRY" script="legion_cataphract_unit_"></MenAtArm>
+		<MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores" max="CAVALRY" script="prae_cataphract_unit_"></MenAtArm>
+	    <MenAtArm type="Chakar" key="rex_east_segestani" max="INFANTRY" script="chakar_unit_"></MenAtArm>
+	    <MenAtArm type="Churls" key="rex_germ_band_spearmen" max="INFANTRY" script="churls_unit_"></MenAtArm>
+        <MenAtArm type="Cichiciquitzo" key="att_des_es_rumha_skirmishers" max="RANGED" script="cichiciquitzo_unit_"></MenAtArm>
+	    <MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com" max="CAVALRY" script="clibanarii_unit_"></MenAtArm>
+	    <MenAtArm type="Comitatenses" key="rex_rom_legionis_italica" max="INFANTRY" script="comitatenses_unit_"></MenAtArm>
+      	<MenAtArm type="Cretan Archers" key="rex_east_arm_archers" max="RANGED" script="ufp_cretan_archer_unit_"></MenAtArm>
+        <MenAtArm type="Cymbrogi" key="rex_celt_scot_band_skirmishers" max="INFANTRY" script="cymbrogi_unit_"></MenAtArm>
+	   	<MenAtArm type="Daylami" key="rex_east_daylamites_infantry" max="INFANTRY" script="daylami_unit_"></MenAtArm>
+        <MenAtArm type="Ethopian War Elephant" key="att_est_armoured_indian_elephants" max="CAVALRY" script="ufp_ethopian_war_elephant_unit_"></MenAtArm>
+		<MenAtArm type="Guanche Warrior" key="rex_des_desert_fast_javelins" max="RANGED" script="guanche_warrior_unit_"></MenAtArm>
+        <MenAtArm type="Guinean Uplanders" key="rex_des_axum_levy" max="RANGED" script="guinea_warrior_unit_"></MenAtArm>
+        <MenAtArm type="Hippo Toxotai" key="rex_rom_equites_sagittarii_parthi" max="CAVALRY" script="tfe_maa_hippo_toxotai_unit_"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="rex_rom_equites_sagittarii_com" max="CAVALRY" script="horse_archers_unit_"></MenAtArm>
+        <MenAtArm type="Horn Warriors" key="rex_des_axum_levy" max="RANGED" script="horn_warrior_unit_"></MenAtArm>
+		<MenAtArm type="Huscarls" key="rex_germ_ulfhednar" max="INFANTRY" script="huscarl_unit_"></MenAtArm>
+		<MenAtArm type="Illyrian Pirates" key="rex_exculcatores" max="INFANTRY" script="illyrian_pirates_"></MenAtArm>
+	    <MenAtArm type="Kamandaran" key="rex_east_arm_archers" max="RANGED" script="kamandaran_unit_"></MenAtArm>	
+        <MenAtArm type="Khandayat" key="rex_hun_band_gadrauhteis_gepids" max="INFANTRY" script="khandayat_unit_"></MenAtArm>
+	    <MenAtArm type="Konni" key="rex_arab_himyar_cavalry" max="CAVALRY" script="desert_hussar_unit_"></MenAtArm>
+		<MenAtArm type="landsknecht" key="rex_germ_band_spearmen_duget" max="CAVALRY" script="landsknecht_unit_"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_ioviani_iuniores" max="INFANTRY" script="legionaries_unit_"></MenAtArm> 
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_ioviani_iuniores" max="INFANTRY" script="prae_legions_unit_"></MenAtArm>		
+		<MenAtArm type="Lenkas" key="rex_slav_ven_band_ferocious" max="INFANTRY" script="garudas_unit_"></MenAtArm>
+        <MenAtArm type="Longbowmen" key="rex_germ_band_archers" max="RANGED" script="longbowmen_unit_"></MenAtArm>
+	    <MenAtArm type="Marc'hegion" key="rex_germ_brachiati_horsemen_franc" max="CAVALRY" script="marc_hegion_unit_"></MenAtArm>
+	    <MenAtArm type="Metsänvartija" key="rex_slav_squad_hunters" max="RANGED" script="metsanvartija_unit_"></MenAtArm>
+	    <MenAtArm type="Mountaineer" key="rex_germ_band_wigman" max="INFANTRY" script="mountaineer_unit_"></MenAtArm>
+        <MenAtArm type="Mubarizun" key="rex_east_segestani" max="INFANTRY" script="mubarizun_unit_"></MenAtArm>
+        <MenAtArm type="Nile Archers" key="rex_des_axum_elite_kushite_archers" max="RANGED" script="archers_of_the_nile_unit_"></MenAtArm>
+        <MenAtArm type="Norman Cavalry" key="rex_sarm_nobles_warband" max="CAVALRY" script="norman_cavalry_unit_"></MenAtArm>
+        <MenAtArm type="Palatinae" key="rex_rom_legionis_ioviani_seniores" max="INFANTRY" script="palatinae_unit_"></MenAtArm>
+        <MenAtArm type="Pamir Tribesmen" key="rex_rom_legionis_palaestinorum" max="RANGED" script="pamir_tribesmen_unit_"></MenAtArm>		
+        <MenAtArm type="Protostates" key="rex_rom_legionis_lanciarii_seniores" max="INFANTRY" script="tfe_maa_protostates_unit_"></MenAtArm>	
+        <MenAtArm type="Sacred Band Carthage" key="rex_des_desert_garama_sentinels" max="INFANTRY" script="ufp_sacred_band_carthage_unit_"></MenAtArm>
+	    <MenAtArm type="Sahara Horsemen" key="rex_arab_arabic_cavalry" max="CAVALRY" script="hussar_unit_"></MenAtArm>
+		<MenAtArm type="Sahel Horsemen" key="rex_arab_arabic_cavalry" max="CAVALRY" script="sahel_horsemen_unit_"></MenAtArm>
+		<MenAtArm type="Savran" key="rex_east_sas_savaran_archers" max="CAVALRY" script="savran_unit_"></MenAtArm> 
+		<MenAtArm type="Servile Soldiers" key="rex_townsfolks_des" max="INFANTRY" script="servile_soldiers_unit_"></MenAtArm>
+	    <MenAtArm type="Siberian Hunters" key="rex_slav_ant_band_archers" max="RANGED" script="siberian_hunters_unit_"></MenAtArm>
+		<MenAtArm type="Spartan Hoplites" key="rex_rom_legionis_lanciarii_honoriani_gallicani" max="INFANTRY" script="ufp_spartan_unit_"></MenAtArm>
+        <MenAtArm type="Swahili Sailors" key="rex_des_axum_allied_defenders" max="INFANTRY" script="swahili_sailors_unit_"></MenAtArm>
+        <MenAtArm type="Tennataerion" key="rex_ost_barb_bowmen_ishoda" max="RANGED" script="tennataerion_unit_"></MenAtArm>
+		<MenAtArm type="Varangian Veterans" key="rex_slav_warlords_braves" max="RANGED" script="varangian_veterans_unit_"></MenAtArm>
+	    <MenAtArm type="Vigmen" key="rex_slav_ant_band_archers" max="RANGED" script="vigmen_unit_"></MenAtArm>     
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs" max="RANGED" script="war_dogs_unit_"></MenAtArm>
+		<MenAtArm type="War Elephant" key="att_est_indian_elephants" max="CAVALRY" script="war_elephant_unit_"></MenAtArm>
+		<MenAtArm type="Zupin Warrior" key="rex_east_daylamites" max="INFANTRY" script="zupin_warrior_unit_"></MenAtArm>	      
+		    
+		<MenAtArm type="Retinue War Elephants" key="att_est_armoured_indian_elephants" max="CAVALRY" script="accolade_maa_elephantiers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="rex_sarm_long_arrows_arcaragantes" max="CAVALRY" script="accolade_maa_horse_archers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Camel Riders" key="att_est_camel_clibanarii" max="CAVALRY" script="accolade_maa_camel_riders_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="rex_rom_sagittarii_lecti" max="RANGED" script="accolade_maa_archers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii" max="RANGED" script="accolade_maa_crossbowers "></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_catafractarii_bucellarii_seniores" max="CAVALRY" script="accolade_maa_lancers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_com" max="CAVALRY" script="accolade_maa_outriders_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_seniores" max="INFANTRY" script="accolade_maa_pikes_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_legionis_mattiarii_seniores" max="RANGED" script="accolade_maa_skirmishers_unit_"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_ioviani_seniores" max="INFANTRY" script="accolade_maa_vanguard_unit_"></MenAtArm>
+	</Faction>
+	
+<Faction name="Rome WRE">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_praeventores"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_romanenses"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_legionis_mattiarii_iuniores"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_auxiliarii_bructeri"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_valentinianenses"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_armigeri_defensores_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_scutarii"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_catafractarii_bucellarii_iuniores"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_italica"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_legionis_mattiarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="att_rom_magister_militum"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome RHAETIO">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_praeventores"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_raetorum"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_legionis_mattiarii_iuniores"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_auxiliarii_marcomanni_iuniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_flavia_constantia"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_armigeri_defensores_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_brachiati_iuniores"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_catafractarii_bucellarii_iuniores"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_auxiliarii_raetobarii"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_legionis_mattiarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="att_rom_magister_militum"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome AFRO">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_legionis_aegyptiorum"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_carthaginensis"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_legionis_gaetulorum"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_armigeri_propugnatores_seniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_martii"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_iuniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_mauri_seniores"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_arab_arabic_dromedaries"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_des_desert_guard"></MenAtArm> 
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_iulia_alpina"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_mauri"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_legionis_mattiarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="att_rom_magister_militum"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome HISPANO">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_praeventores"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_hispanorum"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_millites_maur"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_auxiliarii_brisigavi_iuniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_auxiliarii_brachiati_seniores"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_armigeri_defensores_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_stablesiani"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_catafractarii_bucellarii_iuniores"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_germaniciani_seniores"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_legionis_mattiarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="att_rom_magister_militum"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome GALLO">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_praeventores"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_gallorum"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_legionis_mattiarii_iuniores"></Levies> 
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_germaniciani_iuniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_gemina"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_armigeri_defensores_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_cuneus_scutariorum"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_catafractarii_bucellarii_iuniores"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_auxiliarii_marcomanni_seniores"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_rom_sagittarii_lecti"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_legionis_mattiarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="att_rom_magister_militum"></MenAtArm>
+	</Faction>
+
+<Faction name="Rome EST">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_millites_daci"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_scutata_civium_romanorum"></Levies>
+		<Levies type="Levy Ranged" key="rex_exculcatores"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_gothorum"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_flavia_victrix_constantina"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_stablesiani_italiciani"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_equites_scutarii_orientales"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_diocletiana"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="att_rom_clibanarii"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome AEGYPTIAN">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_legionis_aegyptiorum"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_carthaginensis"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_legionis_gaetulorum"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_moesiaci_seniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_scythae"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_mauri_seniores"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_arab_arabic_dromedaries"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_sagittarii_armenii"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_flavia_constantia_thebaeorum"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_mauri"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="att_rom_clibanarii"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome SYRIAN">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_legionis_palaestinorum"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_euphratensis"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_millites_scyt"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_moesiaci_seniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_scythae"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_cuneus_catafractariorum"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_sagittarii_armenii"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_scythica"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="att_rom_clibanarii"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome CAPPADOCIA">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_east_caucasians"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_transtigritani"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_millites_scyt"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_moesiaci_seniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_scythae"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_cuneus_catafractariorum"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_sagittarii_armenii"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_armeniaca"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="att_rom_clibanarii"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome ILLYRO">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_millites_dalm"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_dalmatarum"></Levies>
+		<Levies type="Levy Ranged" key="rex_exculcatores"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_pannoniciani_iuniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_daci"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_scutarii_illyriciani"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_rom_scholae_palatinae"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_macedonica"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_taifali"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome THRACIO">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_millites_daci"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_thracorum"></Levies>
+		<Levies type="Levy Ranged" key="rex_exculcatores"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_dacorum"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_daci"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_stablesiani_italiciani"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="att_rom_scholae_palatinae"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_macedonica"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_sagittarii_armenii"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome GALATIAN">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_millites_moes"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_galatarum"></Levies>
+		<Levies type="Levy Ranged" key="rex_exculcatores"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_auxiliarii_tervingi"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_honoriani_felices_gallicani"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_batavi_iuniores"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_equites_batavi_seniores"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_scythica"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_taifali"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Rome PONTIC">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_millites_daci"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_pontinenses"></Levies>
+		<Levies type="Levy Ranged" key="rex_exculcatores"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_auxiliarii_visi"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_minervii"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_stablesiani_africani"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_sagittarii_armenii"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_legionis_parthica"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_sagittarii_armenii"></MenAtArm>
+   
+		<MenAtArm type="Retinue Archers" key="rex_rom_auxiliarii_sagittarii_orientales"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="rex_rom_legionis_balistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_comites_alani"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_parthi"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_auxiliarii_mattiarii_honoriani_gallicani"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
+	</Faction>
+	
+<Faction name="Rome BRITANO">
+		<General key="att_rom_protectores_domestici"></General>
+		<Knights key="att_rom_comes"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_rom_millites_tung"></Levies>
+		<Levies type="Levy Infantry" key="rex_rom_legionis_britonum"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_sagittarii_nervii"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_rom_legionis_britones_seniores"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_rom_auxiliarii_cornuti_iuniores"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_rom_legionis_armigeri_defensores_seniores"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_sagittarii_tungri"></MenAtArm>
+		<MenAtArm type="Crossbowmen" key="att_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_rom_equites_cornuti_iuniores"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_equites_cornuti_seniores"></MenAtArm>
+        <MenAtArm type="Comitatenses" key="rex_rom_auxiliarii_celtae_seniores"></MenAtArm>
+		<MenAtArm type="Palatinae" key="rex_rom_auxiliarii_victores_seniores"></MenAtArm>
+        <MenAtArm type="Legionaries" key="rex_rom_auxiliarii_victores_seniores"></MenAtArm>
+		<MenAtArm type="Clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_celt_pict_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Cataphracts" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_rom_sagittarii_tungri"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_schola_scutariorum_clibanariorum"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_rom_legionis_mattiarii_seniores"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_rom_auxiliarii_victores_seniores"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>
+	</Faction>
+	
+<Faction name="Franks">
+		<General key="rex_germ_gileibo"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_germ_band_spearmen_franc"></Levies>
+		<Levies type="Levy Infantry" key="rex_germ_band_swordsmen_franc"></Levies>
+		<Levies type="Levy Ranged" key="rex_germ_band_archers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_brachiati_franc"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_spearmen_duget_franc"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_choice_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_shield_bearers_franc"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_brachiati_horsemen_franc"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_choice_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_goth_band_aihvamanne_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_spearmen_duget_franc"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_germ_band_wigman_franc"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+	
+<Faction name="Saxons">
+		<General key="rex_germ_gileibo_g"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_germ_band_defenders"></Levies>
+		<Levies type="Levy Infantry" key="rex_germ_band_raiders_sax"></Levies>
+		<Levies type="Levy Ranged" key="rex_germ_hansa_bow"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_brachiati_saxons"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_shield_bearers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_gisind"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+               
+        <MenAtArm type="Churls" key="rex_germ_band_defenders_fris"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_spearmen_duget"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_germ_hansa_bow"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_germ_band_crushers"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+	
+<Faction name="Langobards">
+		<General key="rex_germ_gileibo_g"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_germ_band_defenders"></Levies>
+		<Levies type="Levy Infantry" key="rex_germ_band_wigman_sueb"></Levies>
+		<Levies type="Levy Ranged" key="rex_germ_hansa_bow"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_band_swordsmen_marc"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_shield_bearers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_brachiati_horsemen"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_spearmen_duget"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_germ_hansa_bow"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_germ_band_raiders_lang"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+	
+<Faction name="Suebians">
+		<General key="rex_germ_gileibo_g"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_germ_band_defenders_sueb"></Levies>
+		<Levies type="Levy Infantry" key="rex_slav_ven_band_svinfylkings"></Levies>
+		<Levies type="Levy Ranged" key="rex_germ_hansa_bow"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_einherjar"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_shield_bearers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_brachiati_horsemen"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_spearmen_duget"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_germ_hansa_bow"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_slav_ven_band_svinfylkings"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+	
+<Faction name="Alamans">
+		<General key="rex_germ_gileibo_g"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_germ_band_defenders_sueb"></Levies>
+		<Levies type="Levy Infantry" key="rex_germ_band_raiders_sueb"></Levies>
+		<Levies type="Levy Ranged" key="rex_germ_hansa_bow"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_band_wigman_sueb"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_spearmen_sueb"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_shield_bearers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_brachiati_horsemen"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_spearmen_duget"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_germ_hansa_bow"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_slav_ven_band_svinfylkings"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+	
+<Faction name="Burgonde">
+		<General key="rex_germ_gileibo_g"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_germ_band_defenders_iuti"></Levies>
+		<Levies type="Levy Infantry" key="rex_germ_band_raiders_burg"></Levies>
+		<Levies type="Levy Ranged" key="rex_germ_hansa_bow"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_band_swordsmen_duget"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_shield_bearers_franc"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_brachiati_horsemen"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_spearmen_duget"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_germ_hansa_bow"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_germ_band_wigman_sig"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+	
+<Faction name="Alans">
+		<General key="rex_sarm_convex_headed"></General>
+		<Knights key="rex_sarm_comrades"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_sarm_foot_tribesmen"></Levies>
+		<Levies type="Levy Infantry" key="rex_sarm_swords_limicantes"></Levies>
+		<Levies type="Levy Ranged" key="rex_sarm_foot_bows"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_sarm_swords_limicantes"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_sarm_gothish_infantry"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_sarm_spears_limicantes"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_sarm_allan_bal"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_sarm_regal_warband_g"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+      
+		<MenAtArm type="Horse Archers" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_sarm_comrades"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="att_merc_rom_comitatensis_spears"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_sarm_foot_bows"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_sarm_gothish_infantry"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_sarm_gothish_infantry"></MenAtArm>
+	</Faction>
+	
+<Faction name="Goth">
+		<General key="rex_goth_gahlaibans"></General>
+		<Knights key="rex_goth_sagjans"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_goth_band_militon"></Levies>     
+		<Levies type="Levy Infantry" key="rex_goth_band_analaugnjai_gadrauhteis"></Levies>
+		<Levies type="Levy Ranged" key="rex_goth_hansa_hunters"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_goth_band_gadrauhteis_gepids"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_goth_ingardjans"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_goth_band_gaizjane"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_goth_skildjane_sarmatian"></MenAtArm>    
+		<MenAtArm type="Armored Horsemen" key="rex_goth_gahlaibans_contofors"></MenAtArm>   
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_goth_sagjans"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_goth_band_aihvamanne_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_goth_band_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_goth_hansa_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_goth_ingardjans"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_goth_ingardjans"></MenAtArm>
+	</Faction>
+	
+<Faction name="Vandal">
+		<General key="rex_goth_gahlaibans"></General>
+		<Knights key="rex_goth_gahlaibans_contofors"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_goth_band_militon_vandals"></Levies>
+		<Levies type="Levy Infantry" key="rex_goth_band_hairjane_vandals"></Levies>
+		<Levies type="Levy Ranged" key="rex_goth_hansa_hunters"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_goth_band_gadrauhteis_vandals"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_goth_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_goth_shield_bearers_warband_arcaragantes"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_goth_comites"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_goth_gahlaibans_contofors"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_goth_band_aihvamanne_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_goth_band_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_goth_hansa_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_slav_ven_band_svinfylkings"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+	
+<Faction name="Visigoths">
+		<General key="rex_goth_gahlaibans"></General>
+		<Knights key="rex_goth_sagjans"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_goth_band_militon"></Levies>     
+		<Levies type="Levy Infantry" key="rex_goth_band_analaugnjai_gadrauhteis"></Levies>
+		<Levies type="Levy Ranged" key="rex_goth_hansa_hunters"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_goth_band_gadrauhteis_gepids"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_goth_ingardjans"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_goth_band_gaizjane"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_goth_skildjane_sarmatian"></MenAtArm>    
+		<MenAtArm type="Armored Horsemen" key="rex_goth_gahlaibans_contofors"></MenAtArm>   
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_goth_band_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_goth_sagjans"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_goth_band_aihvamanne_bugjane"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_goth_band_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_goth_hansa_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_goth_ingardjans"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_goth_ingardjans"></MenAtArm>
+	</Faction>
+
+<Faction name="Sassanids">
+		<General key="rex_east_sas_vuzurgan"></General>
+		<Knights key="rex_east_sas_clibanarius"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_east_sas_paygan"></Levies>
+		<Levies type="Levy Infantry" key="rex_arab_badyia_ambushers"></Levies>
+		<Levies type="Levy Ranged" key="rex_east_albanians"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_east_daylamites_infantry"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_east_segestani"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_east_sas_paygan_gond"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_east_sas_vastrioshan_bow"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_east_kadisins"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_east_sas_pushtigban"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+                
+        <MenAtArm type="Kamandaran" key="rex_east_arm_archers"></MenAtArm>
+		<MenAtArm type="Savran" key="rex_east_sas_savaran_archers"></MenAtArm>
+        <MenAtArm type="Cataphracts" key="rex_east_sas_gyan_avspar"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="rex_east_armenian_ayrudzi_archers"></MenAtArm> 
+    
+		<MenAtArm type="Retinue Archers" key="rex_east_arm_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_east_sas_clibanarius"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_east_sas_savaran_camel"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_east_sas_paygan_gond"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_east_arm_archers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_east_hillman"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_east_segestani"></MenAtArm>
+	</Faction>
+	
+<Faction name="Armenia">
+		<General key="rex_east_armenian_ishkhan_g"></General>
+		<Knights key="rex_east_armenian_malkhaz"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_east_daylamites"></Levies>
+		<Levies type="Levy Infantry" key="rex_east_arm_roman_infantry"></Levies>
+		<Levies type="Levy Ranged" key="rex_east_albanians"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_east_daylamites_infantry"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_east_segestani"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_east_sas_paygan_gond"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_east_arm_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_east_huns_sabirs"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_east_sas_clibanarius"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>		
+		
+		<MenAtArm type="Retinue Archers" key="rex_east_arm_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_east_armenian_malkhaz"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_east_armenian_ayrudzi_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_east_sas_paygan_gond"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_east_albanians"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_east_hillman"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_east_segestani"></MenAtArm>
+	</Faction>
+	
+<Faction name="Picts">
+		<General key="rex_celt_warlord_g"></General>
+		<Knights key="rex_celt_brit_chariot"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_celt_pict_squad_levy"></Levies>
+		<Levies type="Levy Infantry" key="rex_celt_pict_band_raiders"></Levies>
+		<Levies type="Levy Ranged" key="rex_celt_scot_squad_bow"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_celt_scot_women_warriors"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_celt_pict_swordsmen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_celt_pict_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_alan_barb_bowmen_ishoda"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_celt_brit_horseman"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_celt_warlord"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_celt_pict_hunting_dogs"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="rex_alan_barb_bowmen_ishoda"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_celt_brit_chariot"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_slav_ant_band_horse_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_celt_pict_band_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_celt_pict_band_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_celt_brit_infantry"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_celt_pict_swordsmen"></MenAtArm>
+	</Faction>
+
+<Faction name="Ebdanians">
+		<General key="rex_celt_warlord_g"></General>
+		<Knights key="rex_celt_brit_chariot"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_celt_scot_band_defenders"></Levies>
+		<Levies type="Levy Infantry" key="rex_celt_scot_band_raiders"></Levies>
+		<Levies type="Levy Ranged" key="rex_ost_barb_bowmen_ishoda"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_celt_scot_women_warriors"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_celt_scot_swordsmen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_celt_caled_band_defenders"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_celt_scot_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_celt_brit_horseman"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_celt_warlord"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_celt_pict_hunting_dogs"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="rex_celt_scot_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_celt_brit_chariot"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_slav_ant_band_horse_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_celt_caled_band_defenders"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_celt_scot_band_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_celt_brit_infantry"></MenAtArm>
+		<MenAtArm type="House Guard" key="att_cel_celtic_spearmen"></MenAtArm>
+	</Faction>
+	
+<Faction name="Caledonians">
+		<General key="rex_celt_warlord_g"></General>
+		<Knights key="rex_celt_brit_chariot"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_celt_caled_band_defenders"></Levies>
+		<Levies type="Levy Infantry" key="rex_celt_caled_band_raiders"></Levies>
+		<Levies type="Levy Ranged" key="rex_pict_slinger_ishoda"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_celt_scot_women_warriors"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_celt_caled_swordsmen"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_celt_pict_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_ost_barb_bowmen_ishoda"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_celt_pict_band_horseman"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_celt_warlord"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_celt_pict_hunting_dogs"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="rex_ost_barb_bowmen_ishoda"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_celt_brit_chariot"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_slav_ant_band_horse_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_celt_pict_band_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_pict_slinger_ishoda"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_celt_caled_band_raiders"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_celt_caled_swordsmen"></MenAtArm>
+	</Faction>
+	
+<Faction name="Venedians">
+		<General key="rex_slav_warlords_braves_g"></General>
+		<Knights key="rex_slav_germ_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_slav_ven_band_defenders"></Levies>
+		<Levies type="Levy Infantry" key="rex_slav_ven_band_warsword"></Levies>
+		<Levies type="Levy Ranged" key="rex_slav_ven_band_skirmishers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_slav_ven_band_svinfylkings"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_slav_warlords_braves"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_slav_ven_band_warspear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_slav_squad_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_pict_horsemen_ishoda"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_slav_germ_cavalry"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_celt_pict_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_ost_barb_bowmen_ishoda"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_slav_warlords_braves_g"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_slav_ant_band_horse_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_slav_ven_band_warspear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_slav_ven_band_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_slav_ven_band_ferocious"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_slav_warlords_braves_g"></MenAtArm>
+	</Faction>
+	
+<Faction name="Anteans">
+		<General key="rex_slav_ant_oathbounds_g"></General>
+		<Knights key="rex_slav_ant_shield_bearers"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_slav_ant_band_defenders"></Levies>
+		<Levies type="Levy Infantry" key="rex_ost_instigator_ishoda"></Levies>
+		<Levies type="Levy Ranged" key="rex_slav_ant_squad_bow"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_slav_ant_band_warsword"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_slav_warlords_braves"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_slav_ant_band_warspear"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_slav_ant_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_slav_ant_contofors"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_slav_ant_shield_bearers"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_celt_pict_hunting_dogs"></MenAtArm>		
+		
+		<MenAtArm type="Retinue Archers" key="rex_slav_ant_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_slav_ant_shield_bearers"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_slav_ant_band_horse_archers"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_slav_ant_band_warspear"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_pict_slinger_ishoda"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_germ_band_wigman_sig"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+
+<Faction name="Jutes">
+		<General key="rex_germ_gileibo_g"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_germ_band_defenders_iuti"></Levies>
+		<Levies type="Levy Infantry" key="rex_germ_band_wigman_nord"></Levies>
+		<Levies type="Levy Ranged" key="rex_pict_slinger_ishoda"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_berserker"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_brachiati"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_shield_bearers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_brachiati_horsemen"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_pict_slinger_ishoda"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_germ_band_wigman_sig"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_ulfhednar"></MenAtArm>
+	</Faction>
+
+<Faction name="Geats">
+		<General key="rex_germ_gisind"></General>
+		<Knights key="rex_germ_gisind"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_slav_spear_braves_geats"></Levies>
+		<Levies type="Levy Infantry" key="rex_germ_band_wigman_nord"></Levies>
+		<Levies type="Levy Ranged" key="rex_germ_hansa_hunters"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_germ_band_swordsmen_duget"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_germ_ulfhednar"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_germ_band_mounted"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_gisind"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
+		
+		<MenAtArm type="Retinue Archers" key="rex_germ_band_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_germ_gisind"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_sarm_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_pikemen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_germ_hansa_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_germ_band_svinfylkings"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_berserker"></MenAtArm>
+	</Faction>
+	
+<Faction name="Saracenians">
+		<General key="rex_arab_mavias_radif_g"></General>
+		<Knights key="rex_rom_cuneus_clibanariorum_palmirenorum"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_arab_militia"></Levies>
+		<Levies type="Levy Infantry" key="rex_arab_badyia_ambushers"></Levies>
+		<Levies type="Levy Ranged" key="rex_east_kurds"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_arab_badyia_ambushers"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_arab_romanish_rumha"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_des_axum_elite_kushite_archers1"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_arab_mavias_chosen"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_cuneus_clibanariorum_palmirenorum"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+		
+        <MenAtArm type="Mubarizun" key="GHAS_mubarizun"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_des_axum_elite_kushite_archers1"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_cuneus_clibanariorum_palmirenorum"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_arab_badyia_camel"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_arab_romanish_rumha"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_east_kurds"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_arab_romanish_rumha"></MenAtArm>
+	</Faction>
+
+<Faction name="Garamantians">         
+		<General key="rex_des_desert_guard_g"></General>
+		<Knights key="rex_des_desert_guard_g"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_des_axum_allied_defenders"></Levies>
+		<Levies type="Levy Infantry" key="rex_des_axum_shotelai"></Levies>
+		<Levies type="Levy Ranged" key="rex_des_desert_fast_javelins"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_des_axum_maher_warriors"></MenAtArm>       
+		<MenAtArm type="Pikemen" key="rex_des_desert_garama_sentinels"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_des_desert_bowmen"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_des_desert_shield_bearers"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_des_desert_guard"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+		
+		<MenAtArm type="Horse Archers" key="att_des_es_zodiac_archers"></MenAtArm>
+        <MenAtArm type="Servile Soldiers" key="GARAM_amazigh_swords"></MenAtArm>
+        <MenAtArm type="Guinean Uplanders" key="att_des_es_badyia_skirmishers"></MenAtArm>
+        <MenAtArm type="African Pikemen" key="att_des_es_sons_of_the_invincible_mahrem"></MenAtArm>
+        <MenAtArm type="Bush Hunters" key="att_des_es_rumha_warriors"></MenAtArm>
+        <MenAtArm type="Sahel Horseman" key="att_des_desert_raiders"></MenAtArm>
+		<MenAtArm type="Camel Riders" key="att_est_camel_clibanarii"></MenAtArm>
+		<MenAtArm type="Sahara Horsemen" key="att_des_es_bet_giorgis_cavalry"></MenAtArm>
+
+        <MenAtArm type="Retinue Camel Riders" key="att_est_camel_clibanarii"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="rex_des_desert_bowmen"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_des_desert_guard_g"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_des_desert_warrior_cavalry"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_des_desert_garama_sentinels"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_des_desert_fast_javelins"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_des_axum_maher_warriors"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_des_desert_garama_sentinels"></MenAtArm>
+	</Faction>
+
+<Faction name="Aksum">
+		<General key="rex_des_axum_ras_g"></General>
+		<Knights key="rex_des_axum_bet_giorgis_cavalry"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_des_axum_spears"></Levies>
+		<Levies type="Levy Infantry" key="rex_des_axum_shotelai"></Levies>
+		<Levies type="Levy Ranged" key="rex_des_axum_levy"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_des_axum_shotelai"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_des_axum_maher_warriors"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_des_axum_masqal_sentinels"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_des_axum_elite_kushite_archers"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_des_axum_bet_giorgis_cavalry"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_des_axum_ras"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+		
+        <MenAtArm type="Horn Warriors" key="att_des_kushite_shotelai"></MenAtArm>
+        <MenAtArm type="Nile Archers" key="att_des_garamantian_hunters"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_des_axum_elite_kushite_archers"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_des_axum_ras_g"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_arab_badyia_camel"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_des_axum_masqal_sentinels"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_des_axum_levy"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_des_axum_maher_warriors"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_des_axum_masqal_sentinels"></MenAtArm>
+	</Faction>
+
+<Faction name="Himyar">
+		<General key="rex_arab_radif_g"></General>
+		<Knights key="rex_rom_cuneus_clibanariorum_palmirenorum"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_arab_zafar_sentinels"></Levies>
+		<Levies type="Levy Infantry" key="rex_arab_badyia_ambushers"></Levies>
+		<Levies type="Levy Ranged" key="rex_des_axum_kushite_archers1"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_arab_himyarite_shotelai"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_arab_athars_chosen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_des_axum_elite_kushite_archers1"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_arab_himyar_cavalry"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_cuneus_clibanariorum_palmirenorum"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+		
+        <MenAtArm type="Abudrar" key="att_des_es_zealot_sicarius"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_des_axum_elite_kushite_archers1"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_rom_cuneus_clibanariorum_palmirenorum"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_arab_badyia_camel"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_arab_athars_chosen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_east_kurds"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_arab_athars_chosen"></MenAtArm>
+	</Faction>
+
+<Faction name="Lakhmids">
+		<General key="rex_arab_radif_g"></General>
+		<Knights key="rex_arab_wadai"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_arab_rumha_watlai"></Levies>
+		<Levies type="Levy Infantry" key="rex_arab_badyia_ambushers"></Levies>
+		<Levies type="Levy Ranged" key="rex_arab_badyia_skirmishers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_arab_rahain"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_arab_bowmen_watlai"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_arab_mallia"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_rom_cuneus_clibanariorum_palmirenorum"></MenAtArm>
+        <MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+
+		<MenAtArm type="Retinue Archers" key="rex_arab_bowmen_watlai"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_arab_wadai"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_arab_badyia_camel"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_arab_rahain"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_arab_skirmishers_watlai"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_arab_sanai"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_arab_sanai"></MenAtArm>
+	</Faction>
+	
+<Faction name="Hun">
+		<General key="rex_hun_retinue"></General>
+		<Knights key="rex_hun_sarm_comrades"></Knights>
+		
+		<Levies type="Levy Spearmen" key="rex_hun_spears_limicantes"></Levies>
+		<Levies type="Levy Infantry" key="rex_hun_swords_limicantes"></Levies>
+		<Levies type="Levy Ranged" key="rex_slav_ant_band_skirmishers"></Levies>
+		
+		<MenAtArm type="Light Footmen" key="rex_slav_warlords_braves_geats"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="rex_goth_band_gadrauhteis_gepids"></MenAtArm>
+		<MenAtArm type="Pikemen" key="rex_germ_band_spearmen"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_goth_hansa_hunters"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="rex_hun_sabirs"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="rex_germ_gileibo"></MenAtArm>
+		<MenAtArm type="War Dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
+		
+		<MenAtArm type="Horse Archers" key="rex_hun_long_arrows_arcaragantes"></MenAtArm>
+                
+		<MenAtArm type="Retinue Archers" key="rex_goth_hansa_hunters"></MenAtArm>
+		<MenAtArm type="Retinue Crossbowmen" key="att_merc_rom_ballistarii"></MenAtArm>
+		<MenAtArm type="Retinue Lancers" key="rex_hun_sarm_comrades"></MenAtArm>
+		<MenAtArm type="Retinue Outriders" key="rex_hun_long_arrows_arcaragantes"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="rex_germ_band_spearmen"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="rex_slav_ant_band_skirmishers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="rex_slav_ven_band_ferocious"></MenAtArm>
+		<MenAtArm type="House Guard" key="rex_germ_gileibo"></MenAtArm>
+	</Faction>
+	
+	
+</FactionsGroups>

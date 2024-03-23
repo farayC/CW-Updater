@@ -50,7 +50,7 @@
 		<MenAtArm type="Paighan" key="att_est_paighan_band" max="RANGED" script="persian_paighan_unit_"></MenAtArm>
 		<MenAtArm type="Kamandaran" key="att_est_persian_bowmen" max="RANGED" script="persian_kamandaran_unit_"></MenAtArm>
 		<MenAtArm type="Neyze-daran" key="att_est_immortals" max="INFANTRY" script="persian_neyzedaran_unit_"></MenAtArm>
-		<MenAtArm type="Persian War Elephants" key="att_est_indian_elephants" max="CAVALRY" script="persian_war_elephant_unit_"></MenAtArm>
+		<MenAtArm type="Persian War Elephants" key="att_est_armoured_indian_elephants" max="CAVALRY" script="persian_war_elephant_unit_"></MenAtArm>
 		<MenAtArm type="Aswārān" key="att_est_gyan_avspar" max="CAVALRY" script="persian_cataphract_unit_"></MenAtArm>
 		<MenAtArm type="Gond-i Shahanshah" key="att_est_elite_immortals" max="INFANTRY" script="gondi_shahanshah_unit_"></MenAtArm>
 		<MenAtArm type="Shotelai" key="att_des_kushite_shotelai" max="RANGED" script="shotel_warriors_unit_"></MenAtArm>

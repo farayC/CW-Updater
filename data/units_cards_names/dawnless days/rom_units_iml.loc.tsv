@@ -1,0 +1,9 @@
+key	text	tooltip
+#Loc;1;text/db/rom_units_iml.loc		
+land_units_onscreen_name_iml_swordsmen	Noldorin Swordsmen	false
+land_units_onscreen_name_iml_guards	Guards of Imladris	false
+land_units_onscreen_name_iml_elrond	Elrond (Guards of Imladris)	false
+land_units_onscreen_name_iml_archers	Noldorin Archers	false
+land_units_onscreen_name_iml_horse_rangers	Noldorin Rangers	false
+land_units_onscreen_name_iml_cavalry	Noldorin Horsemen	false
+land_units_onscreen_name_iml_pikemen	Noldorin Pikemen	false

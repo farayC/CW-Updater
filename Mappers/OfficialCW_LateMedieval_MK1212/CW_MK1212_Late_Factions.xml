@@ -2974,7 +2974,7 @@
 
 		<Levies type="Levy Spearmen" key="mk_pis_t2_militia_spearmen"></Levies>
 		<Levies type="Levy Infantry" key="mk_pis_t2_swordsmen"></Levies>
-		<Levies type="Levy Ranged" key="mk_pis_t2_light_archers"></Levies>
+		<Levies type="Levy Ranged" key="mk_pis_t2_militia_archers"></Levies>
 
 		<MenAtArm type="Light Footmen" key="mk_pis_t2_militia_swordsmen"></MenAtArm>
 		<MenAtArm type="Armored Footmen" key="mk_pis_t2_foot_knights"></MenAtArm>

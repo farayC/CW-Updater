@@ -1,0 +1,15 @@
+key	text	tooltip
+#Loc;1;text/db/rom_units_lin.loc		
+land_units_onscreen_name_lin_swordsmen	Noldorin Swords	false
+land_units_onscreen_name_lin_archers	Noldorin Archers	false
+land_units_onscreen_name_lin_spearmen	Noldorin Spears	false
+land_units_onscreen_name_lin_cavalry	Noldorin Equestrians	false
+land_units_onscreen_name_lin_nobles	Shipwright's Nobles	false
+land_units_onscreen_name_lin_noldor_nobles	Noldorin Nobles	false
+land_units_onscreen_name_lin_falathrim_seafarers	Falathrim Seafarers	false
+land_units_onscreen_name_lin_haven_watchers	Haven Watchers	false
+land_units_onscreen_name_lin_lindon_scouts	Lindon Scouts	false
+land_units_onscreen_name_lin_haven_wardens	Haven Wardens	false
+land_units_onscreen_name_lin_haven_sentinels	Haven Sentinels	false
+land_units_onscreen_name_lin_noldor_longspear	Noldorin Longspears	false
+land_units_onscreen_name_lin_guardians	Guardians of the Straight Road	false

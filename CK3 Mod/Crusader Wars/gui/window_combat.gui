@@ -996,7 +996,7 @@ window = {
 		###      Not touching this - Beans                       ### 
 		############################################################
 		button = { name = Debug
-			visible = no
+			visible = yes
 			tooltip = "debug button"
 			parentanchor = center
 			position = { 100 20 }
@@ -1107,7 +1107,7 @@ window = {
 				name = "log_battle_name"
 				duration = 0.01
 				next = "log_player_realm"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetCombat.GetName)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('BattleName:', CombatWindow.GetCombat.GetName))]"
 			}
 			
 			state = {
@@ -1412,7 +1412,7 @@ window = {
 				name = "log_battle_name"
 				duration = 0.01
 				next = "log_player_realm"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetCombat.GetName)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('BattleName:', CombatWindow.GetCombat.GetName))]"
 			}
 			
 			state = {
@@ -1714,7 +1714,7 @@ window = {
 				name = "log_battle_name"
 				duration = 0.01
 				next = "log_player_realm"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetCombat.GetName)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('BattleName:', CombatWindow.GetCombat.GetName))]"
 			}
 			
 			state = {
@@ -2015,7 +2015,7 @@ window = {
 				name = "log_battle_name"
 				duration = 0.01
 				next = "log_player_realm"
-				on_finish = "[ExecuteConsoleCommand(CombatWindow.GetCombat.GetName)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('BattleName:', CombatWindow.GetCombat.GetName))]"
 			}
 			
 			state = {

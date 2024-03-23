@@ -1,0 +1,13 @@
+key	text	tooltip
+#Loc;1;text/db/rom_units_dg.loc		
+land_units_onscreen_name_dg_guldur_blades	Guldur Blades	false
+land_units_onscreen_name_dg_guldur_pikes	Guldur Pikes	false
+land_units_onscreen_name_dg_guldur_glaives	Guldur Glaives	false
+land_units_onscreen_name_dg_chieftain	Champions of Dol Guldur	false
+land_units_onscreen_name_dg_mirkwood_trackers	Mirkwood Trackers	false
+land_units_onscreen_name_dg_mirkwood_raiders	Mirkwood Raiders	false
+land_units_onscreen_name_dg_wraiths	Wraiths	false
+land_units_onscreen_name_dg_phantoms	Phantoms	false
+land_units_onscreen_name_dg_servants_of_the_eyes	Servants of the Eye	false
+land_units_onscreen_name_dg_khamul	Khamûl (Black Easterling's Retinue)	false
+land_units_onscreen_name_dg_nazgul	Nazgûl (Servants of the Eye)	false

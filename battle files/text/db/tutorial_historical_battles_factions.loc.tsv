@@ -1,0 +1,8 @@
+key	text	tooltip
+#Loc;1;text/db/tutorial_historical_battles_factions.loc		
+factions_screen_name_historical_vale	Knights of the Vale	true
+factions_screen_adjective_historical_vale	Knights of the Vale	true
+factions_screen_name_historical_house_bolton	defender	true
+factions_screen_adjective_historical_house_bolton	Enemy Army	true
+factions_screen_name_historical_house_stark	attacker	true
+factions_screen_adjective_historical_house_stark	Player Army	true

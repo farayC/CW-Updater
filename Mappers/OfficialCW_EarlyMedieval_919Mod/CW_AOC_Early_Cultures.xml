@@ -88,7 +88,7 @@
 		<Culture name="Georgian" faction="Georgian"></Culture>
 		<Culture name="Greek" faction="Byzantine"></Culture>
 		<Culture name="Romaios" faction="Byzantine"></Culture>
-		<Culture name="Syriac" faction="Arabic"></Culture>
+		<Culture name="Syriac" faction="Armenian"></Culture>
 		<Culture name="Siculo-Norman" faction="Norman"></Culture>
 	</Heritage>
 	<Heritage name="Central African" faction="West African">
@@ -418,6 +418,7 @@
 	</Heritage>
 	<Heritage name="Egyptian" faction="Copt">
 		<Culture name="Copt" faction="Copt"></Culture>
+		<Culture name="Ancient Egyptian" faction="Himyarite"></Culture>
 	</Heritage>
 	<Heritage name="Gurma" faction="West African"></Heritage>
 	<Heritage name="Peristani" faction="Persian"></Heritage>
@@ -425,7 +426,7 @@
 		<Culture name="Gothic" faction="Gothic"></Culture>
 	</Heritage>
 	<Heritage name="Arberian" faction="Slavic"></Heritage>
-	<Heritage name="Aramean" faction="Arabic"></Heritage>
+	<Heritage name="Aramean" faction="Armenian"></Heritage>
 	<Heritage name="Serindian" faction="Hephthalite"></Heritage>
 	<Heritage name="Armenian" faction="Armenian"></Heritage>
 	<Heritage name="Rus" faction="Kievan"></Heritage>
@@ -447,4 +448,8 @@
 	<Heritage name="Seaxon" faction="Anglo Saxon"></Heritage>
 	<Heritage name="West Sahelian" faction="Sahelian"></Heritage>
 	<Heritage name="Lower Niger" faction="Sahelian"></Heritage>	
+	<Heritage name="Hellenic" faction="Byzantine"></Heritage>
+	<Heritage name="Hunnic" faction="Eastern Steppe"></Heritage>
+	<Heritage name="Gothic" faction="Gothic"></Heritage>	
+	<Heritage name="Roman" faction="Roman"></Heritage>
 </Cultures>

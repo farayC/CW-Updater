@@ -77,6 +77,8 @@ scripting.AddEventCallBack("ComponentLClickUp", EndBattle);
 --Crusader Wars Get Winner
 function file_debug()
 
+	bm:callback(function() bm:end_battle() end, 1000);
+
 	if is_routing_or_dead(Alliance_Stark) then	
 		bm:out("Player has lost, army is routing");
         dev.log("Defeat")
@@ -87,8 +89,8 @@ function file_debug()
 
     commander_system();
 	remaining_soldiers();
+	kills();
 	
-	bm:callback(function() bm:end_battle() end, 1000);
 
 end;
 

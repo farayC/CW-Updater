@@ -1,0 +1,28 @@
+key	text	tooltip
+#Loc;1;text/db/rom_units_gon.loc		
+land_units_onscreen_name_gon_anfalas_coastlevies	Anfalas Coast Levies	false
+land_units_onscreen_name_gon_archers	Gondor Archers	false
+land_units_onscreen_name_gon_blackroot_archers	Blackroot Vale Archers	false
+land_units_onscreen_name_gon_bow_militia	Gondor Bow Militia	false
+land_units_onscreen_name_gon_cavalry	Gondor Cavalry	false
+land_units_onscreen_name_gon_citadel_guard	Citadel Guards	false
+land_units_onscreen_name_gon_fountain_guard	Fountain Guards	false
+land_units_onscreen_name_gon_ithilien_rangers	Ithilien Rangers	false
+land_units_onscreen_name_gon_hillmen_of_lamedon	Hillmen of Lamedon	false
+land_units_onscreen_name_gon_pelargir_marines	Pelargir Marines	false
+land_units_onscreen_name_gon_lossarnach_warriors	Warriors of Lossarnach	false
+land_units_onscreen_name_gon_pinnath_gelin	Pinnath-Gelin Spearmen	false
+land_units_onscreen_name_gon_ringlo_vale_footmen	Ringló Vale Men-at-arms	false
+land_units_onscreen_name_gon_silver_swan_knights	Knights of the Silver Swan	false
+land_units_onscreen_name_gon_spear_infantry	Gondor Spear Infantry	false
+land_units_onscreen_name_gon_spear_militia	Gondor Spear Militia	false
+land_units_onscreen_name_gon_star_city_guards	Guards of the Star City	false
+land_units_onscreen_name_gon_sword_infantry	Gondor Sword Infantry	false
+land_units_onscreen_name_gon_sword_militia	Gondor Sword Militia	false
+land_units_onscreen_name_gon_princes_coastguard	Prince's Coast Guards	false
+land_units_onscreen_name_gon_princes_sergeants	Prince's Sergeants	false
+land_units_onscreen_name_gon_wardens_ithilien	Wardens of Ithilien	false
+land_units_onscreen_name_gon_imrahil	Prince Imrahil (Knights of the Silver Swan)	false
+land_units_onscreen_name_gon_denethor	Steward Denethor II (Citadel Guards)	false
+land_units_onscreen_name_gon_boromir	Boromir (Osgiliath Veterans)	false
+land_units_onscreen_name_gon_faramir	Faramir (Ithilien Rangers)	false

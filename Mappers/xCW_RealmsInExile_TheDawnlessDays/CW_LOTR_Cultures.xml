@@ -6,11 +6,11 @@
 		<Culture name="Old Umbarean" faction="Umbar"></Culture>
 		<Culture name="Umbaredain" faction="Umbar"></Culture>
         <Culture name="Umbarean" faction="Umbar"></Culture>
-		<Culture name="Mardrukan" faction="Umbar"></Culture>
-		<Culture name="Adûnâim" faction="Numenorean"></Culture>
+		<Culture name="Adûnâim" faction="Umbar"></Culture>
 	</Heritage>
     <Heritage name="Southern Adûnai" faction="Umbar">
 		<Culture name="Kharat Ephalâim" faction="Umbar"></Culture>
+		<Culture name="Anbalûkkhôri" faction="Umbar"></Culture>
 		<Culture name="Ârûwânai" faction="Umbar"></Culture>
 		<Culture name="Anbalûkkhôri" faction="Umbar"></Culture>
 		<Culture name="Aruwanai" faction="Umbar"></Culture>
@@ -30,41 +30,54 @@
 		<Culture name="Umaiar" faction="Mordor"></Culture>
 		<Culture name="Fallen Istari" faction="Isengard"></Culture>
 	</Heritage>
+	<Heritage name="Baradhrim" faction="Dunlending">
+		<Culture name="Baradhrim" faction="Dunlending"></Culture>
+		<Culture name="Borim" faction="Dunlending"></Culture>
+		<Culture name="Lossoth" faction="Dunlending"></Culture>
+		<Culture name="Balsharim" faction="Dunlending"></Culture>
+		<Culture name="Balsharim" faction="Dunlending"></Culture>
+		<Culture name="Angmarrim" faction="Dunlending"></Culture>
+	</Heritage>
     <Heritage name="Bellakari" faction="Umbar">
 		<Culture name="Bellakarani" faction="Umbar"></Culture>
 		<Culture name="Bellakaze" faction="Umbar"></Culture>
 		<Culture name="Felayan" faction="Umbar"></Culture>
 		<Culture name="Bellazan" faction="Umbar"></Culture>
         <Culture name="Bellanarûd" faction="Umbar"></Culture>
+		<Culture name="Mardrukan" faction="Umbar"></Culture>
 	</Heritage>
-    <Heritage name="Gwathuirim" faction="Dunlending">
-	    <Culture name="Eredrim" faction="Pinnath Gelin"></Culture>
-		<Culture name="Andrastrim" faction="Pinnath Gelin"></Culture>
-		<Culture name="Daen" faction="Bree Land"></Culture>
-		<Culture name="Daen Coentis" faction="Bree Land"></Culture>
-		<Culture name="Enedhwaith Gwathuirim" faction="Dunlending"></Culture>
-		<Culture name="Gwathló Gwathuirim" faction="Dunlending"></Culture>
+	<Heritage name="Daen" faction="Dunlending">
+		<Culture name="Daen" faction="Dunlending"></Culture>
+		<Culture name="Daen Lintis" faction="Dunlending"></Culture>
+		<Culture name="Enedhwaithrim" faction="Dunlending"></Culture>
 		<Culture name="Saralain" faction="Dunlending"></Culture>
-        <Culture name="Calenardhon Gwathuirim" faction="Dunlending"></Culture>
-        <Culture name="Herd-folk Dunlending" faction="Dunlending"></Culture>
-		<Culture name="Hill Dunlending" faction="Dunlending"></Culture>
-		<Culture name="Enedhwaith Gwathuirim" faction="Dunlending"></Culture>
-        <Culture name="Isengard Dunlending" faction="Dunlending"></Culture>
-        <Culture name="Dônan" faction="Dunlending"></Culture>
+        <Culture name="Dunmen" faction="Dunlending"></Culture>
+		<Culture name="Dunlending" faction="Dunlending"></Culture>
+		<Culture name="Adornaen" faction="Dunlending"></Culture>
+		<Culture name="Isengard Dunlending" faction="Dunlending"></Culture>
+		<Culture name="Daen Coentis" faction="Dunlending"></Culture>
+		<Culture name="Coenfir" faction="Dunlending"></Culture>
+        <Culture name="Coenmor" faction="Dunlending"></Culture>
+		<Culture name="Eredrim" faction="Pinnath Gelin"></Culture>
+		<Culture name="Andrastrim" faction="Pinnath Gelin"></Culture>
+		<Culture name="Danan Lin" faction="Dunlending"></Culture>
+		<Culture name="Dônan" faction="Dunlending"></Culture>
+		<Culture name="Danaíne" faction="Dunlending"></Culture>
         <Culture name="Núrnoth" faction="Dunlending"></Culture>
-		<Culture name="Coastal Gwathuirim" faction="Dunlending"></Culture>
 	</Heritage>
 	<Heritage name="Drúedain" faction="Dunlending">
+		<Culture name="Drúedain" faction="Dunlending"></Culture>
 		<Culture name="Honnin" faction="Dunlending"></Culture>
+		<Culture name="Beffraen" faction="Dunlending"></Culture>
 	</Heritage>
     <Heritage name="Dúnedain" faction="Gondor">
 		<Culture name="Númenórean" faction="Numenorean"></Culture>
 		<Culture name="Dúnedain" faction="Gondor"></Culture>
 		<Culture name="Belfalathrim" faction="Dol Amroth"></Culture>
         <Culture name="Gondorian" faction="Gondor"></Culture>
-        <Culture name="Arnorian" faction="Gondor"></Culture>
+        <Culture name="Arnorian" faction="Northern Dunedain"></Culture>
 		<Culture name="Anorien" faction="Anorien"></Culture>
-		<Culture name="Dunedain Ranger" faction="Northern Dunedain"></Culture>
+		<Culture name="Northern Dúnedain" faction="Northern Dunedain"></Culture>
 		<Culture name="Amronost" faction="Gondor"></Culture>
         <Culture name="Harondorim" faction="Harondor"></Culture>
         <Culture name="Orodbedhrim" faction="Lamedon"></Culture>
@@ -77,15 +90,18 @@
 		<Culture name="Blackroot-Vale" faction="Blackroot Vale"></Culture>
 		<Culture name="Ithilien" faction="Gondor"></Culture>
 		<Culture name="Northern Dúnedain" faction="Northern Dunedain"></Culture>
-		<Culture name="Uialdain" faction="Gondor"></Culture>
+		<Culture name="Uialdain" faction="Northern Dunedain"></Culture>
 	</Heritage>
     <Heritage name="Dwarves" faction="Erebor">
 		<Culture name="Longbeard" faction="Erebor"></Culture>
-		<Culture name="Firebeard" faction="Erebor"></Culture>
-		<Culture name="Broadbeam" faction="Erebor"></Culture>
+		<Culture name="Longbeard Balin expedition" faction="Khazad"></Culture>
+		<Culture name="Iron Hill" faction="Iron Hill"></Culture>
+		<Culture name="Firebeard" faction="Ered"></Culture>
+		<Culture name="Broadbeam" faction="Ered"></Culture>
         <Culture name="Ironfist" faction="Erebor"></Culture>
-        <Culture name="Stiffbeard" faction="Erebor"></Culture>
-		<Culture name="Blacklock" faction="Erebor"></Culture> 
+        <Culture name="Stiffbeard" faction="Iron Hill"></Culture>
+		<Culture name="Blacklock" faction="Khazad"></Culture> 
+		<Culture name="Blacklocks Nargubraz" faction="Khazad"></Culture> 
 		<Culture name="Stonefoot" faction="Erebor"></Culture>
 	</Heritage>
     <Heritage name="Iorag" faction="Easterlings">
@@ -110,6 +126,7 @@
 		<Culture name="Bëorian" faction="Dale"></Culture>
 		<Culture name="Hadorim" faction="Dale"></Culture>
 		<Culture name="Haladin" faction="Dale"></Culture>
+		<Culture name="Eriadorim" faction="Dale"></Culture>
         <Culture name="Bórim" faction="Dale"></Culture>
 	</Heritage>
     <Heritage name="Elves" faction="Lindon">
@@ -128,37 +145,63 @@
 		<Culture name="Eglath" faction="Lindon"></Culture>
         <Culture name="Mithrim" faction="Lindon"></Culture>
         <Culture name="Nandor" faction="Lindon"></Culture>
-		<Culture name="Laiquendi" faction="Lothlorien"></Culture>
+		<Culture name="Laiquendi" faction="Eregion"></Culture>
+		<Culture name="Sîrrandrai" faction="Lindon"></Culture>
 		<Culture name="Quendi" faction="Lothlorien"></Culture>
-		<Culture name="Sîrrandrai" faction="Lothlorien"></Culture>
 		<Culture name="Silvan" faction="Lindon"></Culture>
         <Culture name="Lasgalendrim" faction="Woodland Realm"></Culture>
-		<Culture name="Vanyar" faction="Woodland Realm"></Culture>
+		<Culture name="Vanyar" faction="Lindon"></Culture>
         <Culture name="Galadhrim" faction="Lothlorien"></Culture>
         <Culture name="Avari" faction="Lindon"></Culture>
         <Culture name="Penni" faction="Woodland Realm"></Culture>
+	    <Culture name="Cuind" faction="Woodland Realm"></Culture>
 	</Heritage>
     <Heritage name="Eriadorim" faction="Dale">
+	    <Culture name="Eriadorim" faction="Dale"></Culture>
+		<Culture name="Breemen" faction="Dale"></Culture>
     </Heritage>
+	<Heritage name="Goblin" faction="Goblins">
+		<Culture name="Goblin" faction="Goblins"></Culture>
+		<Culture name="Town-Dweller" faction="Goblins"></Culture>
+		<Culture name="Bone-Snapper" faction="Goblins"></Culture>
+        <Culture name="Hall-Roamer" faction="Goblins"></Culture>
+        <Culture name="Deep-Walker" faction="Goblins"></Culture>
+        <Culture name="Drum-Striker" faction="Goblins"></Culture>
+		<Culture name="Fang-Stealer" faction="Goblins"></Culture>
+		<Culture name="Gloom-Drinker" faction="Goblins"></Culture>
+		<Culture name="Bell-Breaker" faction="Goblins"></Culture>
+        <Culture name="Roof-Sleeper" faction="Goblins"></Culture>
+        <Culture name="Shroom-Brewer" faction="Goblins"></Culture>
+        <Culture name="Ridge-Lurker" faction="Goblins"></Culture>
+		<Culture name="Mask-Bearer" faction="Goblins"></Culture>
+		<Culture name="Claw-Scorcher" faction="Goblins"></Culture>
+		<Culture name="Lake-Stalker" faction="Goblins"></Culture>
+        <Culture name="Hide-Sprouter" faction="Goblins"></Culture>
+        <Culture name="Nape-Kindler" faction="Goblins"></Culture>
+	</Heritage>
     <Heritage name="Middle Apysaic" faction="Haradrim">
 		<Culture name="Apysaic" faction="Haradrim"></Culture>
 		<Culture name="Sand_people" faction="Haradrim"></Culture>
+		<Culture name="Jelut" faction="Haradrim"></Culture>
 		<Culture name="Arysisani" faction="Haradrim"></Culture>
         <Culture name="Qarsag" faction="Haradrim"></Culture>
         <Culture name="Aukuag" faction="Haradrim"></Culture>
-        <Culture name="Pust" faction="Haradrim"></Culture>
+        <Culture name="Pûstic" faction="Haradrim"></Culture>
 	</Heritage>
     <Heritage name="Northern Apysaic" faction="Haradrim">
 		<Culture name="Haruze" faction="Haradrim"></Culture>
+		<Culture name="Umbaruz" faction="Umbar"></Culture>
 		<Culture name="Sakalai" faction="Haradrim"></Culture>
+		<Culture name="Karrani" faction="Haradrim"></Culture>
 		<Culture name="Chelkari" faction="Haradrim"></Culture>
 		<Culture name="Lurmsakar" faction="Haradrim"></Culture>
+		<Culture name="Pezarsani" faction="Haradrim"></Culture>
         <Culture name="Arysor" faction="Haradrim"></Culture>
 	    <Culture name="Arani" faction="Haradrim"></Culture>
 		<Culture name="Siaken" faction="Haradrim"></Culture>
-        <Culture name="Pûstic" faction="Haradrim"></Culture>
-        <Culture name="Jelut" faction="Haradrim"></Culture>
-		<Culture name="Pezarsani" faction="Haradrim"></Culture>
+	</Heritage>
+	<Heritage name="Noi Trevan" faction="Dunlending">
+		<Culture name="Noi Trevan" faction="Dunlending"></Culture>
 	</Heritage>
     <Heritage name="Southern Apysaic" faction="Haradrim">
 		<Culture name="Bôzishnarûd" faction="Haradrim"></Culture>
@@ -166,8 +209,14 @@
 		<Culture name="Gúsar" faction="Haradrim"></Culture>
         <Culture name="Gái" faction="Haradrim"></Culture>
 	</Heritage>
-    <Heritage name="Hobbits" faction="Bree Land">
-	    <Culture name="Shirefolk" faction="Bree Land"></Culture>
+    <Heritage name="Hobbit" faction="Northern Dunedain">
+	    <Culture name="Shirefolk" faction="Northern Dunedain"></Culture>
+		<Culture name="Fallohides" faction="Northern Dunedain"></Culture>
+		<Culture name="Harfoots" faction="Northern Dunedain"></Culture>
+	    <Culture name="Stoors" faction="Northern Dunedain"></Culture>
+		<Culture name="Breelander" faction="Northern Dunedain"></Culture>
+		<Culture name="Hobbit" faction="Northern Dunedain"></Culture>
+		<Culture name="Bucklander" faction="Northern Dunedain"></Culture>
 	</Heritage>
     <Heritage name="Nâfarati" faction="Haradrim">
 		<Culture name="Nâfarati" faction="Haradrim"></Culture>
@@ -181,6 +230,7 @@
     <Heritage name="Northmen" faction="Dale">
 	    <Culture name="Northron" faction="Dale"></Culture>
         <Culture name="Rhovanorim" faction="Dale"></Culture>
+		<Culture name="Estarewas" faction="Dale"></Culture>
         <Culture name="Woodmen" faction="Dale"></Culture>
         <Culture name="Valemen" faction="Dale"></Culture>
         <Culture name="Dálringi" faction="Dale"></Culture>
@@ -188,6 +238,7 @@
 	</Heritage>
 	<Heritage name="Orcish" faction="Orc">
 		<Culture name="Utumno Orcs" faction="Orc"></Culture>
+		<Culture name="Uruk-Ongmair" faction="Orc"></Culture>
         <Culture name="Murdur-hai" faction="Orc"></Culture>
         <Culture name="Morlûg-hai" faction="Orc"></Culture>
         <Culture name="Ungur-hai" faction="Orc"></Culture>
@@ -195,7 +246,7 @@
         <Culture name="Luftutaumhai" faction="Orc"></Culture>
         <Culture name="Ghâsh-hai" faction="Orc"></Culture>
         <Culture name="Rû-hai" faction="Orc"></Culture>
-        <Culture name="Burgûl-hai" faction="Goblins"></Culture>
+        <Culture name="Burgûl-hai" faction="Orc"></Culture>
         <Culture name="Gurgur-hai" faction="Orc"></Culture>
         <Culture name="Maraud-hai" faction="Orc"></Culture>
         <Culture name="Kû-hai" faction="Orc"></Culture>
@@ -203,11 +254,14 @@
         <Culture name="Kazgûmhoth" faction="Dol Guldur"></Culture>
         <Culture name="Uruk-hai" faction="Isengard"></Culture>
         <Culture name="Worauthai Madûr" faction="Orc"></Culture>
-        <Culture name="Uruk-Ongmair" faction="Angmar"></Culture>
         <Culture name="Ghrazîm" faction="Gundabad"></Culture>
-		<Culture name="Mountain Orcs" faction="Goblins"></Culture>
+		<Culture name="Mountain Orcs" faction="Orc"></Culture>
 		<Culture name="Orcs of Isengard" faction="Isengard"></Culture>
 		<Culture name="White Mountain Orcs" faction="Isengard"></Culture>
+	</Heritage>
+	<Heritage name="Khyans" faction="Haradrim">
+		<Culture name="Khailûza" faction="Haradrim"></Culture>
+        <Culture name="Khyan" faction="Haradrim"></Culture>
 	</Heritage>
     <Heritage name="Tûlwangi" faction="Haradrim">
 		<Culture name="Tûladen" faction="Haradrim"></Culture>
@@ -224,7 +278,7 @@
         <Culture name="Morgul-wight" faction="Dol Guldur"></Culture>
         <Culture name="Barrow-wight" faction="Dol Guldur"></Culture>
 	</Heritage>
-    <Heritage name="Wilderness" faction="Mordor">
-		<Culture name="Wilderness" faction="Mordor"></Culture>
+    <Heritage name="wastelands" faction="Mordor">
+		<Culture name="wastelands" faction="Mordor"></Culture>
 	</Heritage>
 </Cultures>

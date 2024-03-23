@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Crusader Wars.exe.manifest" size="5500">
+    <dependentAssembly dependencyType="install" codebase="Crusader Wars.exe.manifest" size="5502">
       <assemblyIdentity name="Crusader Wars.exe" version="0.9.3.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>wRM4mWKs/l7GanYRjRyMBFsSUXrqKiAJLUnXMiDxDGs=</dsig:DigestValue>
+        <dsig:DigestValue>7v+JV8ui9J0N3tgQ1IUtJmKcjJkG9jnjJlg46trz+0w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

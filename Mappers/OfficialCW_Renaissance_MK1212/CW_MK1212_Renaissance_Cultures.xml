@@ -420,6 +420,7 @@
 	</Heritage>
 	<Heritage name="Egyptian" faction="Copt">
 		<Culture name="Copt" faction="Copt"></Culture>
+		<Culture name="Ancient Egyptian" faction="Egyptian"></Culture>
 	</Heritage>
 	<Heritage name="Gurma" faction="West African"></Heritage>
 	<Heritage name="Peristani" faction="Afghan"></Heritage>
@@ -451,4 +452,8 @@
 	<Heritage name="Seaxon" faction="English"></Heritage>
 	<Heritage name="West Sahelian" faction="Sahelian"></Heritage>
 	<Heritage name="Lower Niger" faction="Sahelian"></Heritage>
+	<Heritage name="Hellenic" faction="Byzantine"></Heritage>
+	<Heritage name="Hunnic" faction="Mongol"></Heritage>
+	<Heritage name="Gothic" faction="Trebizond"></Heritage>	
+	<Heritage name="Roman" faction="Roman"></Heritage>
 </Cultures>

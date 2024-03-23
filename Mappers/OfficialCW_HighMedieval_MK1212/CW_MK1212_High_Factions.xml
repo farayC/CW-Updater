@@ -2321,7 +2321,7 @@
 		<MenAtArm type="Horse Archers" key="mk_rum_t1_junior_ghulams"></MenAtArm>
 
 		<MenAtArm type="Retinue War Elephants" key="DEFAULT"></MenAtArm>
-		<MenAtArm type="Retinue Horse Archers" key="mk_rum_t1_junior_ghulams"></MenAtArm>
+		<MenAtArm type="Retinue Horse Archers" key="mk_rum_t1_senior_ghulams"></MenAtArm>
 		<MenAtArm type="Retinue Camel Riders" key="mk_khw_t1_camel_cavalry"></MenAtArm>
 		<MenAtArm type="Retinue Archers" key="mk_rum_t1_ghazi_archers"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="mk_merc_gen_t1_genoese_crossbowmen"></MenAtArm>
