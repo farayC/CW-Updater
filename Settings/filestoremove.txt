@@ -1,1 +1,1 @@
-.\\battle files\\db\\videos_tables\\
+.\\battle files\\db\\videos_tables
