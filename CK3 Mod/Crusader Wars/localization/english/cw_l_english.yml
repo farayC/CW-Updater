@@ -1,8 +1,8 @@
 ﻿l_english:
 	#
 	### Event/Alert Window button texts ###
-	cwalert.1.title: "Crusader Wars Notification|"Accolades" Pre-Beta|January 2023"
-	cwalert.1.desc: "#high The mod updated to v0.9.10 "Accolade!", update your Crusader Wars Launcher now if you haven't, to avoid bugs.\n\nThe Crusader Wars launcher is #high separate #! from the Steam Workshop CK3 mod. Steam will automatically update the CK3 mod file, but Steam does #high NOT #! automatically update the Crusader Wars.exe launcher. You need to open CK3 atleast once and then go the the CW Launcher and update, if you don't open it, the launcher will not detect any update!.\n\n#X If you do not download the updated launcher your Attila battles will crash. You have been warned."
+	cwalert.1.title: "Crusader Wars Notification|"Quality of Life" Pre-Beta|March 2024"
+	cwalert.1.desc: "#high The mod updated to v0.9.11 "Qaulity of Life!", update your Crusader Wars Launcher now if you haven't, to avoid bugs.\n\nThe Crusader Wars launcher is #high separate #! from the Steam Workshop CK3 mod. Steam will automatically update the CK3 mod file, but Steam does #high NOT #! automatically update the Crusader Wars.exe launcher. You need to open CK3 atleast once and then go the the CW Launcher and update, if you don't open it, the launcher will not detect any update!.\n\n#X If you do not download the updated launcher your Attila battles will crash. You have been warned."
  	cwalert.1.a: "I will update Crusader Wars Launcher now!"
 	#
 	#
@@ -83,6 +83,8 @@
 	enemy_prowess: "[GetPlayer.MakeScope.Var('right_side_prowess').Char.GetProwess]"
 	region_type: "[CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')]"
 	building: "[GetPlayer.MakeScope.Var('unique_map').GetProvince.GetHolding.GetSpecialBuildingType.GetKey]"
+
+	province_id: "[GetPlayer.MakeScope.Var('combat_var').Combat.GetProvince.GetID]"
 
 	player_knight_effectiveness: "[GetPlayer.MakeScope.Var('left_side_warleader').Char.GetKnightEffectivenessBreakdown]"
 

@@ -69,3 +69,10 @@ right_name = {
     }
 }
 
+combat_data = {
+    effect = {
+        debug_log_scopes = yes
+        set_variable = {name = combat_var value = scope:combat_data}
+    }
+}
+

@@ -996,7 +996,7 @@ window = {
 		###      Not touching this - Beans                       ### 
 		############################################################
 		button = { name = Debug
-			visible = yes
+			visible = no
 			tooltip = "debug button"
 			parentanchor = center
 			position = { 100 20 }
@@ -1282,9 +1282,17 @@ window = {
 			state = {	
 				name = "print_region"
 				duration = 0.01	
-				next = "log_winter"
+				next = "print_province_id"
 				on_finish = "[ExecuteConsoleCommand(Concatenate('Region:',CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')))]"
-			}		
+			}
+
+			state = {	
+				name = "print_province_id"
+				duration = 0.01	
+				next = "log_winter"
+				on_start = "[GetScriptedGui('combat_data').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('combat_data',CombatWindow.GetCombat.MakeScope).End)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('ProvinceID:',Localize('province_id')))]"
+			}				
 				
 			state = {
 				name = "log_winter"
@@ -1587,9 +1595,17 @@ window = {
 			state = {	
 				name = "print_region"
 				duration = 0.01	
-				next = "log_winter"
+				next = "print_province_id"
 				on_finish = "[ExecuteConsoleCommand(Concatenate('Region:',CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')))]"
-			}	
+			}
+
+			state = {	
+				name = "print_province_id"
+				duration = 0.01	
+				next = "log_winter"
+				on_start = "[GetScriptedGui('combat_data').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('combat_data',CombatWindow.GetCombat.MakeScope).End)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('ProvinceID:',Localize('province_id')))]"
+			}		
 
 			state = {
 				name = "log_winter"
@@ -1889,9 +1905,18 @@ window = {
 			state = {	
 				name = "print_region"
 				duration = 0.01	
-				next = "log_winter"
+				next = "print_province_id"
 				on_finish = "[ExecuteConsoleCommand(Concatenate('Region:',CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')))]"
-			}		
+			}
+
+			state = {	
+				name = "print_province_id"
+				duration = 0.01	
+				next = "log_winter"
+				on_start = "[GetScriptedGui('combat_data').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('combat_data',CombatWindow.GetCombat.MakeScope).End)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('ProvinceID:',Localize('province_id')))]"
+			}			
+			
 			state = {
 				name = "log_winter"
 				duration = 0.01
@@ -2190,9 +2215,17 @@ window = {
 			state = {	
 				name = "print_region"
 				duration = 0.01	
-				next = "log_winter"
+				next = "print_province_id"
 				on_finish = "[ExecuteConsoleCommand(Concatenate('Region:',CombatWindow.GetCombat.GetProvince.Custom('GetProvinceRegion')))]"
-			}		
+			}
+
+			state = {	
+				name = "print_province_id"
+				duration = 0.01	
+				next = "log_winter"
+				on_start = "[GetScriptedGui('combat_data').Execute(GuiScope.SetRoot(GetPlayer.MakeScope).AddScope('combat_data',CombatWindow.GetCombat.MakeScope).End)]"
+				on_finish = "[ExecuteConsoleCommand(Concatenate('ProvinceID:',Localize('province_id')))]"
+			}			
 			state = {
 				name = "log_winter"
 				duration = 0.01
