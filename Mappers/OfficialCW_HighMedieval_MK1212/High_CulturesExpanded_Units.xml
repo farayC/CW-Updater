@@ -19,9 +19,9 @@
 		<MenAtArm type="Klibanophoroi" key="mk_tre_t1_hippospatharioi_tou_vasileos" max="CAVALRY" script="byzantine_klibanophoroi_unit_"></MenAtArm>
 		<MenAtArm type="Latinkon" key="mk_merc_eur_t1_knights" max="CAVALRY" script="byzantine_latinkon_unit_"></MenAtArm>	
 		
-		<MenAtArm type="Voynik" key="bulgarian_brigands" max="RANGED" script="bulgarian_voynik_unit_"></MenAtArm>
+		<MenAtArm type="Voynik" key="mk_bulg_t1_slav_aux_javelinmen" max="RANGED" script="bulgarian_voynik_unit_"></MenAtArm>
 		<MenAtArm type="Ciobani" key="mk_bulg_t1_militia_spearmen" max="RANGED" script="bulgarian_ciobani_unit_"></MenAtArm>
-		<MenAtArm type="Oklopnitsi" key="voynik_swordsmen" max="INFANTRY" script="bulgarian_oklopnitsi_unit_"></MenAtArm>
+		<MenAtArm type="Oklopnitsi" key="mk_bulg_t1_voivods" max="INFANTRY" script="bulgarian_oklopnitsi_unit_"></MenAtArm>
 		<MenAtArm type="Konnik" key="mk_bulg_t1_heavy_cavalry" max="CAVALRY" script="bulgarian_konnik_unit_"></MenAtArm>		
 		
 		<MenAtArm type="Azabs" key="mk_rum_t3_azab_archers" max="RANGED" script="turkish_azabs_unit_"></MenAtArm>
@@ -52,7 +52,7 @@
 		<MenAtArm type="Neyze-daran" key="mk_khw_t1_piyadegan" max="INFANTRY" script="persian_neyzedaran_unit_"></MenAtArm>
 		<MenAtArm type="Persian War Elephants" key="mk_ghu_t1_war_elephants" max="CAVALRY" script="persian_war_elephant_unit_"></MenAtArm>
 		<MenAtArm type="Aswārān" key="mk_khw_t1_savaran" max="CAVALRY" script="persian_cataphract_unit_"></MenAtArm>
-		<MenAtArm type="Gond-i Shahanshah" key="daylami_infantry" max="INFANTRY" script="gondi_shahanshah_unit_"></MenAtArm>
+		<MenAtArm type="Gond-i Shahanshah" key="mk_merc_iran_t1_daylami_infantry" max="INFANTRY" script="gondi_shahanshah_unit_"></MenAtArm>
 		<MenAtArm type="Shotelai" key="mk_zag_t3_shotelai" max="RANGED" script="shotel_warriors_unit_"></MenAtArm>
 		<MenAtArm type="Mongol Lancers" key="mk_mon_t1_ilkhan_heavy_lancers" max="CAVALRY" script="mongol_cataphract_unit_"></MenAtArm>
 		
@@ -90,7 +90,7 @@
 		
 		<MenAtArm type="Berdiche Axemen" key="mk_rus_t1_guard_axemen" max="INFANTRY" script="berdiche_axemen_unit_"></MenAtArm>
 		<MenAtArm type="Druzhina Cavalry" key="mk_rus_t1_senior_druzina" max="CAVALRY" script="druzhina_cavalry_unit_"></MenAtArm>
-		<MenAtArm type="Dvor cavalry" key="rus_boyar_cavalry" max="CAVALRY" script="dvor_cavalry_unit_"></MenAtArm>
+		<MenAtArm type="Dvor cavalry" key="mk_merc_rus_t1_bogatyri" max="CAVALRY" script="dvor_cavalry_unit_"></MenAtArm>
 		<MenAtArm type="Cossack cavalry" key="mk_merc_steppe_t1_bulgar_horse_archers" max="CAVALRY" script="cossack_cavalry_unit_"></MenAtArm>			
 		
 		<MenAtArm type="Balestrieri Genovesi" key="mk_merc_gen_t1_genoese_crossbowmen" max="RANGED" script="genoese_crossbowmen_unit_"></MenAtArm>		
@@ -107,7 +107,7 @@
 		<MenAtArm type="Caballarii" key="mk_fre_t1_cliens" max="CAVALRY" script="french_caballarii_unit_"></MenAtArm>
 		<MenAtArm type="Norman Knights" key="mk_lat_t1_chevaliers" max="CAVALRY" script="norman_knights_unit_"></MenAtArm>
 		<MenAtArm type="Verlorene Haufe" key="mk_swi_t3_auszug_swordsmen" max="INFANTRY" script="germanic_verlorene_haufe_unit_"></MenAtArm>
-		<MenAtArm type="Obudshaer" key="nor_armoured_halberdiers" max="INFANTRY" script="danish_obudshaer_unit_"></MenAtArm>
+		<MenAtArm type="Obudshaer" key="mk_nor_t1_candle_men" max="INFANTRY" script="danish_obudshaer_unit_"></MenAtArm>
 		<MenAtArm type="Svenner" key="mk_merc_bra_t1_brabanzonen_cavalry" max="CAVALRY" script="danish_svenner_unit_"></MenAtArm>		
 		<MenAtArm type="Turcopoles" key="mk_jer_t1_turcopoles" max="CAVALRY" script="outremer_turcopoles_unit_"></MenAtArm>		
 		<MenAtArm type="Sodeer Archers" key="mk_merc_arm_t1_armenian_archers" max="RANGED" script="outremer_bowmen_unit_"></MenAtArm>

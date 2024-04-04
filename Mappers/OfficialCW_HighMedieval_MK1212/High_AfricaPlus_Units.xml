@@ -3,7 +3,7 @@
 
 	<Faction name="Default">
 		<MenAtArm type="Mande Hunter" key="mk_ayy_t1_sudanese_archers" max="RANGED" script="mande_hunter_unit_"></MenAtArm>
-		<MenAtArm type="Al-'Ashair Infantry" key="ayy_nubian_spears" max="INFANTRY" script="islamic_alashair_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Al-'Ashair Infantry" key="mk_alm_t1_abid_al_makhzan" max="INFANTRY" script="islamic_alashair_infantry_unit_"></MenAtArm>
 		<MenAtArm type="Khasseki Infantry" key="mk_ayy_t1_ashair_infantry" max="INFANTRY" script="islamic_khasseki_infantry_unit_"></MenAtArm>
 		<MenAtArm type="Barbary Corsairs " key="mk_sal_t3_hormuz_pirates" max="INFANTRY" script="barbary_corsairs_unit_"></MenAtArm>
 		<MenAtArm type="Shotel Warriors" key="mk_zag_t3_shotelai" max="INFANTRY" script="shotel_warriors_unit_"></MenAtArm>

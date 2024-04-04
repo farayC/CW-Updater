@@ -2,7 +2,7 @@
 <FactionsGroups>
 
 	<Faction name="Default">
-		<MenAtArm type="Hindu Recruits" key="hindu_levy_spearmen" max="INFANTRY" script="hindu_recruits_unit_"></MenAtArm>
+		<MenAtArm type="Hindu Recruits" key="mk_ghu_t2_paiks" max="INFANTRY" script="hindu_recruits_unit_"></MenAtArm>
 		<MenAtArm type="Macemen" key="mk_haf_t1_irban" max="INFANTRY" script="macemen_unit_"></MenAtArm>
 		<MenAtArm type="Hashashin" key="mk_alm_t1_ghuzat" max="INFANTRY" script="hashashin_unit_"></MenAtArm>
 		<MenAtArm type="Bedouin Tribesmen" key="mk_abb_t1_bedouin_camel_riders" max="CAVALRY" script="bedouin_tribesmen_unit_"></MenAtArm>

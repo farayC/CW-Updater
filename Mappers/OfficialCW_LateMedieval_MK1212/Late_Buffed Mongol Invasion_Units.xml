@@ -2,7 +2,7 @@
 <FactionsGroups>
 
 	<Faction name="Default">
-		<MenAtArm type="Mongolian Horse Archers" key="mk_mon_t2_ilkhan_heavy_horse_archers" max="CAVALRY" script="mongolian_horse_archers_unit_"></MenAtArm>
+		<MenAtArm type="Mongolian Horse Archers" key="mk_gold_t2_khorchi_khisigten" max="CAVALRY" script="mongolian_horse_archers_unit_"></MenAtArm>
 		<MenAtArm type="Turkish Horse Archers" key="mk_rum_t2_anatolian_timarli_sipahi" max="CAVALRY" script="turkish_horse_archers_unit_"></MenAtArm>
 	</Faction>
 	

@@ -2,7 +2,7 @@
 <FactionsGroups>
 
 	<Faction name="Default">
-		<MenAtArm type="Pamir Tribesmen" key="mk_aor_per_t1_daylami_skirmishers" max="RANGED" script="pamir_tribesmen_unit_"></MenAtArm>
+		<MenAtArm type="Pamir Tribesmen" key="mk_ghu_t1_zupin_javelinmen" max="RANGED" script="pamir_tribesmen_unit_"></MenAtArm>
 		<MenAtArm type="Cichiciquitzo" key="mk_gran_t2_thagri_hillmen" max="RANGED" script="cichiciquitzo_unit_"></MenAtArm>
 		<MenAtArm type="Marc'hegion" key="mk_wel_t1_uchelwyr" max="CAVALRY" script="marc_hegion_unit_"></MenAtArm>
 		<MenAtArm type="Norman Cavalry" key="mk_lat_t1_chevaliers" max="CAVALRY" script="norman_cavalry_unit_"></MenAtArm>

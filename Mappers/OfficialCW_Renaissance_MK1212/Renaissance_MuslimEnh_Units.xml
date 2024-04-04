@@ -3,9 +3,9 @@
 
 	<Faction name="Default">
 		<MenAtArm type="Hindu Recruits" key="mk_ghu_t3_paik_spearmen" max="INFANTRY" script="hindu_recruits_unit_"></MenAtArm>
-		<MenAtArm type="Macemen" key="calips_humat_maces" max="INFANTRY" script="macemen_unit_"></MenAtArm>
+		<MenAtArm type="Macemen" key="mk_abb_t3_futuwwa_jund" max="INFANTRY" script="macemen_unit_"></MenAtArm>
 		<MenAtArm type="Hashashin" key="mk_mar_t3_iburadren" max="INFANTRY" script="hashashin_unit_"></MenAtArm>
-		<MenAtArm type="Bedouin Tribesmen" key="arab_elite_cavalry" max="CAVALRY" script="bedouin_tribesmen_unit_"></MenAtArm>
+		<MenAtArm type="Bedouin Tribesmen" key="mk_abb_t3_bedouin_lancers" max="CAVALRY" script="bedouin_tribesmen_unit_"></MenAtArm>
 
 	</Faction>
 	

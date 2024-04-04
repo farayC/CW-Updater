@@ -2,7 +2,7 @@
 <FactionsGroups>
 
 	<Faction name="Default">
-		<MenAtArm type="Halberdiers" key="mk_ger_t2_halberdiers" max="INFANTRY" script="halberdiers_unit_unit_"></MenAtArm>
+		<MenAtArm type="Halberdiers" key="mk_hre_t2_fussknecht" max="INFANTRY" script="halberdiers_unit_unit_"></MenAtArm>
 
 	</Faction>
 	

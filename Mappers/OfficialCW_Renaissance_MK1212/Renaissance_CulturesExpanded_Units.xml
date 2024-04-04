@@ -19,7 +19,7 @@
 		<MenAtArm type="Klibanophoroi" key="mk_nic_t3_stratiotes" max="CAVALRY" script="byzantine_klibanophoroi_unit_"></MenAtArm>
 		<MenAtArm type="Latinkon" key="mk_nic_t3_kavallarioi" max="CAVALRY" script="byzantine_latinkon_unit_"></MenAtArm>		
 
-		<MenAtArm type="Voynik" key="bulg_axemen_mercenary" max="RANGED" script="bulgarian_voynik_unit_"></MenAtArm>
+		<MenAtArm type="Voynik" key="mk_bulg_t3_macemen" max="RANGED" script="bulgarian_voynik_unit_"></MenAtArm>
 		<MenAtArm type="Ciobani" key="mk_bulg_t2_hooked_pikemen" max="RANGED" script="bulgarian_ciobani_unit_"></MenAtArm>
 		<MenAtArm type="Oklopnitsi" key="mk_bulg_t3_voivods" max="INFANTRY" script="bulgarian_oklopnitsi_unit_"></MenAtArm>
 		<MenAtArm type="Konnik" key="mk_bulg_t3_heavy_cavalry" max="CAVALRY" script="bulgarian_konnik_unit_"></MenAtArm>		
@@ -79,7 +79,7 @@
 				
 		<MenAtArm type="Woodsmen" key="mk_merc_boh_t3_flailmen" max="RANGED" script="woodsmen_unit_"></MenAtArm>
 		<MenAtArm type="Strzelcy" key="mk_pol_t3_mounted_crossbowmen" max="CAVALRY" script="polish_strzelcy_unit_"></MenAtArm>		
-		<MenAtArm type="Giltine's Chosen" key="lit_ducal_axemen" max="INFANTRY" script="giltines_chosen_unit_"></MenAtArm>		
+		<MenAtArm type="Giltine's Chosen" key="mk_rus_t3_guard_axemen" max="INFANTRY" script="giltines_chosen_unit_"></MenAtArm>		
 		<MenAtArm type="Dzukijan Horsemen" key="mk_lit_t3_light_horse_archers" max="CAVALRY" script="dzukijan_horsemen_unit_"></MenAtArm>
 		<MenAtArm type="Dievas' Guard" key="mk_lit_t3_ducal_heavy_cavalry" max="CAVALRY" script="dievas_guard_unit_"></MenAtArm>
 		<MenAtArm type="Bajorija" key="mk_lit_t3_knights" max="CAVALRY" script="lithuanian_bajorija_unit_"></MenAtArm>		
@@ -88,7 +88,7 @@
 		<MenAtArm type="Tízlándzsások" key="mk_merc_ger_t3_knights" max="CAVALRY" script="hungarian_tizlandzsasok_unit_"></MenAtArm>
 		<MenAtArm type="Royal Banderium" key="mk_merc_ita_t3_condottieri" max="CAVALRY" script="hungarian_banderium_unit_"></MenAtArm>		
 		
-		<MenAtArm type="Berdiche Axemen" key="russian_guard_heavy_axemen" max="INFANTRY" script="berdiche_axemen_unit_"></MenAtArm>
+		<MenAtArm type="Berdiche Axemen" key="mk_rus_t3_guard_axemen" max="INFANTRY" script="berdiche_axemen_unit_"></MenAtArm>
 		<MenAtArm type="Druzhina Cavalry" key="mk_rus_t3_vitjaz" max="CAVALRY" script="druzhina_cavalry_unit_"></MenAtArm>
 		<MenAtArm type="Dvor cavalry" key="mk_rus_t3_dvor" max="CAVALRY" script="dvor_cavalry_unit_"></MenAtArm>
 		<MenAtArm type="Cossack cavalry" key="mk_rus_t3_horse_archers" max="CAVALRY" script="cossack_cavalry_unit_"></MenAtArm>			
