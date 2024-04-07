@@ -135,9 +135,9 @@
 		
 		
 		
-		<MenAtArm type="Ñoldor Swordsmen" key="lin_nobles" max="INFANTRY" script="noldor_swordsmen_guards_unit_"></MenAtArm>
+		<MenAtArm type="Ñoldor Swordsmen" key="lin_nobles" max="INFANTRY" script="noldor_swordsmen_unit_"></MenAtArm>
         <MenAtArm type="Ñoldor Glaivesmen" key="lin_noldor_nobles" max="INFANTRY" script="noldor_glaivesmen_unit_"></MenAtArm>
-        <MenAtArm type="Ñoldor Cavalry" key="lin_cavalry" max="CAVALRY" script="noldor_cavalry_unit_"></MenAtArm>
+        <MenAtArm type="Ñoldor Cavalry" key="iml_horse_rangers" max="CAVALRY" script="noldor_cavalry_unit_"></MenAtArm>
         <MenAtArm type="Ñoldor Archers" key="lin_archers" max="RANGED" script="noldor_archers_unit_"></MenAtArm>
 		<MenAtArm type="Ñoldor Veterans" key="lin_nobles" max="INFANTRY" script="noldor_veterans_unit_"></MenAtArm>
         <MenAtArm type="Song Smiths" key="lin_nobles" max="INFANTRY" script="song_smiths_unit_"></MenAtArm>
@@ -160,12 +160,49 @@
         <MenAtArm type="Royal Elk Riders" key="exe_wr_elvenking_riders_elk" max="CAVALRY" script="royal_elk_riders_unit_"></MenAtArm>
 		<MenAtArm type="Theladagnyr" key="exe_wr_greenwood_glaives" max="INFANTRY" script="theladagnyr_unit_"></MenAtArm>
 		
-		<MenAtArm type="Nelyarin Pikemen" key="iml_pikemen" max="INFANTRY" script="nelyarin_pikemen_unit_"></MenAtArm>
-        <MenAtArm type="Nelyarin Swordsmen" key="iml_guards" max="INFANTRY" script="nelyarin_swordsmen_unit_"></MenAtArm>
-        <MenAtArm type="Nelyarin Bowmen" key="iml_archers" max="RANGED" script="nelyarin_archers_unit_"></MenAtArm>
-        <MenAtArm type="Neldoreth Borderwardens" key="loth_nimrodel_patrollers" max="RANGED" script="neldoreth_borderwardens_unit_"></MenAtArm>
+		<MenAtArm type="Nelyarin Pikemen" key="wr_lasgalen_spears" max="INFANTRY" script="nelyarin_pikemen_unit_"></MenAtArm>
+        <MenAtArm type="Nelyarin Swordsmen" key="exe_wr_border_guards" max="INFANTRY" script="nelyarin_swordsmen_unit_"></MenAtArm>
+        <MenAtArm type="Nelyarin Bowmen" key="wr_forest_rangers" max="RANGED" script="nelyarin_archers_unit_"></MenAtArm>
+        <MenAtArm type="Neldoreth Borderwardens" key="wr_gurthlagor" max="CAVALRY" script="neldoreth_borderwardens_unit_"></MenAtArm>
 	    <MenAtArm type="Nuïnevari" key="loth_haldirs_bodyguards" max="INFANTRY" script="nuinevari_unit_"></MenAtArm>
 		
+		<MenAtArm type="Calaquendi Skirmishers" key="lin_nobles" max="INFANTRY" script="high_elven_skirmishers_unit_"></MenAtArm>
+        <MenAtArm type="Calaquendi Heavy Infantry" key="exe_lin_remnants_golden_flower" max="INFANTRY" script="high_elven_heavy_infantry_unit_"></MenAtArm>
+        <MenAtArm type="Calaquendi Light Cavalry" key="lin_cavalry" max="CAVALRY" script="high_elven_light_cavalry_unit_"></MenAtArm>
+        <MenAtArm type="Calaquendi Heavy Cavalry" key="iml_horse_rangers" max="CAVALRY" script="high_elven_heavy_cavalry_unit_"></MenAtArm>
+		<MenAtArm type="Calaquendi Archers" key="lin_archers" max="RANGED" script="high_elven_archers_unit_"></MenAtArm>
+        <MenAtArm type="Calaquendi Pikemen" key="lin_spearmen" max="INFANTRY" script="high_elven_pikemen_unit_"></MenAtArm>
+		
+		<MenAtArm type="Lomiquendi Pikemen" key="lin_spearmen" max="INFANTRY" script="grey_elven_pikemen_unit_"></MenAtArm>
+        <MenAtArm type="Lomiquendi Archers" key="lin_archers" max="RANGED" script="grey_elven_archers_unit_"></MenAtArm>
+        <MenAtArm type="Lomiquendi Heavy Cavalry" key="iml_horse_rangers" max="CAVALRY" script="grey_elven_heavy_cavalry_unit_"></MenAtArm>
+        <MenAtArm type="Lomiquendi Heavy Infantry" key="exe_lin_remnants_golden_flower" max="INFANTRY" script="grey_elven_heavy_infantry_unit_"></MenAtArm>
+		<MenAtArm type="Lomiquendi Skirmishers" key="lin_nobles" max="INFANTRY" script="grey_elven_skirmishers_unit_"></MenAtArm>
+        <MenAtArm type="Lomiquendi Light Cavalry" key="lin_cavalry" max="CAVALRY" script="grey_elven_light_cavalry_unit_"></MenAtArm>
+		
+		<MenAtArm type="Moriquendi Skirmishers" key="exe_wr_forest_assassins" max="INFANTRY" script="avarin_skirmishers_unit_"></MenAtArm>
+        <MenAtArm type="Moriquendi Light Cavalry" key="wr_forest_riders" max="CAVALRY" script="avarin_light_cavalry_unit_"></MenAtArm>
+        <MenAtArm type="Moriquendi Archers" key="wr_forest_rangers" max="RANGED" script="avarin_archers_unit_"></MenAtArm>
+        <MenAtArm type="Moriquendi Pikemen" key="wr_lasgalen_spears" max="INFANTRY" script="avarin_pikemen_unit_"></MenAtArm>
+		<MenAtArm type="Moriquendi Heavy Infantry" key="exe_wr_border_guards" max="INFANTRY" script="avarin_heavy_infantry_unit_"></MenAtArm>
+        <MenAtArm type="Moriquendi Heavy Cavalry" key="wr_elvenking_riders" max="CAVALRY" script="avarin_heavy_cavalry_unit_"></MenAtArm>
+		
+		<MenAtArm type="Tatyarin Harriers" key="exe_wr_forest_assassins" max="INFANTRY" script="tatyarin_harriers_unit_"></MenAtArm>
+	    <MenAtArm type="Tatyarin Rangers" key="wr_lasgalen_lords" max="RANGED" script="tatyarin_rangers_unit_"></MenAtArm>
+		<MenAtArm type="Tatyarin Guardians" key="exe_wr_greenwood_glaives" max="INFANTRY" script="tatyarin_guardians_unit_"></MenAtArm>
+	    <MenAtArm type="Cuind Wanderers" key="wr_forest_riders" max="CAVALRY" script="cuind_wanderers_unit_"></MenAtArm>
+		
+		<MenAtArm type="Sîrrandrai Defenders" key="lin_swordsmen" max="INFANTRY" script="sirrandrai_defenders_unit_"></MenAtArm>	
+	    <MenAtArm type="Sîrrandrai Sentinels" key="lin_archers" max="RANGED" script="sirrandrai_sentinels_unit_"></MenAtArm>
+		<MenAtArm type="Sîrrandrai Veterans" key="lin_nobles" max="INFANTRY" script="sirrandrai_veterans_unit_"></MenAtArm>	
+		<MenAtArm type="Sîrrandrai Riders" key="lin_cavalry" max="CAVALRY" script="sirrandrai_riders_unit_"></MenAtArm>
+	    <MenAtArm type="Wardens of Sîrgala" key="lin_spearmen" max="INFANTRY" script="wardens_of_sirgala_unit_"></MenAtArm>
+		<MenAtArm type="Tatyarin Guardians" key="..." max="INFANTRY" script="tatyarin_guardians_unit_"></MenAtArm>
+		
+		<MenAtArm type="Laiquendi Ambushers" key="ler_eregion_archers" max="RANGED" script="laiquendi_ambushers_unit_"></MenAtArm>	
+		<MenAtArm type="Laiquendi Spearmen" key="ler_ost-in-edhil_defenders" max="INFANTRY" script="laiquendi_spearmen_unit_"></MenAtArm>
+	    <MenAtArm type="Laiquendi Scouts" key="ler_celebrimbor_guard_vestige" max="RANGED" script="laiquendi_scouts_unit_"></MenAtArm>
+		<MenAtArm type="Rangers of Ossiriand" key="ler_mirdain_remnants" max="RANGED" script="ossiriand_rangers_unit_"></MenAtArm>
 		
 		
 		<MenAtArm type="War Mûmakil" key="har_mumakil" max="20" script="war_mumak_unit_"></MenAtArm>
@@ -310,22 +347,7 @@
 	    <MenAtArm type="Rhudaur Footmen" key="dun_swordmen" max="INFANTRY" script="hillmen_heavy_infantry_unlock_unit_"></MenAtArm>
 		<MenAtArm type="Troll Hunters" key="dun_elder_spears" max="INFANTRY" script="hillmen_pikemen_unit_"></MenAtArm>
 	
-		<MenAtArm type="Tatyarin Harriers" key="exe_wr_forest_assassins" max="INFANTRY" script="tatyarin_harriers_unit_"></MenAtArm>
-	    <MenAtArm type="Tatyarin Rangers" key="wr_lasgalen_lords" max="RANGED" script="tatyarin_rangers_unit_"></MenAtArm>
-		<MenAtArm type="Tatyarin Guardians" key="exe_wr_greenwood_glaives" max="INFANTRY" script="tatyarin_guardians_unit_"></MenAtArm>
-	    <MenAtArm type="Cuind Wanderers" key="wr_forest_riders" max="CAVALRY" script="cuind_wanderers_unit_"></MenAtArm>
-		
-		<MenAtArm type="Sîrrandrai Defenders" key="lin_swordsmen" max="INFANTRY" script="sirrandrai_defenders_unit_"></MenAtArm>	
-	    <MenAtArm type="Sîrrandrai Sentinels" key="lin_archers" max="RANGED" script="sirrandrai_sentinels_unit_"></MenAtArm>
-		<MenAtArm type="Sîrrandrai Veterans" key="lin_nobles" max="INFANTRY" script="sirrandrai_veterans_unit_"></MenAtArm>	
-		<MenAtArm type="Sîrrandrai Riders" key="lin_cavalry" max="CAVALRY" script="sirrandrai_riders_unit_"></MenAtArm>
-	    <MenAtArm type="Wardens of Sîrgala" key="lin_spearmen" max="INFANTRY" script="wardens_of_sirgala_unit_"></MenAtArm>
-		<MenAtArm type="Tatyarin Guardians" key="..." max="INFANTRY" script="tatyarin_guardians_unit_"></MenAtArm>
-		
-		<MenAtArm type="Laiquendi Ambushers" key="ler_eregion_archers" max="RANGED" script="laiquendi_ambushers_unit_"></MenAtArm>	
-		<MenAtArm type="Laiquendi Spearmen" key="ler_ost-in-edhil_defenders" max="INFANTRY" script="laiquendi_spearmen_unit_"></MenAtArm>
-	    <MenAtArm type="Laiquendi Scouts" key="ler_celebrimbor_guard_vestige" max="RANGED" script="laiquendi_scouts_unit_"></MenAtArm>
-		<MenAtArm type="Rangers of Ossiriand" key="ler_mirdain_remnants" max="RANGED" script="ossiriand_rangers_unit_"></MenAtArm>
+	
 		
 		<MenAtArm type="Snaga Stalkers" key="gob_goblin_scrappers" max="INFANTRY" script="goblin_skirmishers_unit_"></MenAtArm>
 		<MenAtArm type="Warg Riders" key="mor_servants_of_the_eyes" max="CAVALRY" script="goblin_warg_riders_unit_"></MenAtArm>
@@ -635,30 +657,30 @@
 	
 	<Faction name="Lossarnach">
 		<General key="los_forlong"></General>
-		<Knights key="gon_cavalry"></Knights>
+		<Knights key="los_flowercav"></Knights>
 		
-		<Levies type="Levy Spearmen" key="gon_spear_militia"></Levies>
-		<Levies type="Levy Infantry" key="los_levyaxe"></Levies>
-		<Levies type="Levy Ranged" key="gon_bow_militia"></Levies>
+		<Levies type="Levy Spearmen" key="los_levyspear"></Levies>
+		<Levies type="Levy Infantry" key="los_skirm"></Levies>
+		<Levies type="Levy Ranged" key="los_bowmen"></Levies>
 		
-		<MenAtArm type="Light Footmen" key="los_heavy2axe"></MenAtArm>
-		<MenAtArm type="Armored Footmen" key="los_heavyaxe"></MenAtArm>
-		<MenAtArm type="Pikemen" key="los_pike"></MenAtArm>
-		<MenAtArm type="Bowmen" key="gon_archers"></MenAtArm>   
+		<MenAtArm type="Light Footmen" key="los_poleaxe"></MenAtArm>
+		<MenAtArm type="Armored Footmen" key="los_lords"></MenAtArm>
+		<MenAtArm type="Pikemen" key="los_spears"></MenAtArm>
+		<MenAtArm type="Bowmen" key="los_refugearcher"></MenAtArm>   
 		<MenAtArm type="Crossbowmen" key="los_archer"></MenAtArm>
-		<MenAtArm type="Light Horsemen" key="gon_princes_sergeants"></MenAtArm>
-		<MenAtArm type="Armored Horsemen" key="gon_cavalry"></MenAtArm>
+		<MenAtArm type="Light Horsemen" key="los_axecav"></MenAtArm>
+		<MenAtArm type="Armored Horsemen" key="los_flowercav"></MenAtArm>
 		
-		<MenAtArm type="Gondorian Footmen" key="los_heavyaxe"></MenAtArm>
-		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm>
+		<MenAtArm type="Gondorian Footmen" key="los_swords"></MenAtArm>
+		<MenAtArm type="Horse Archers" key="hor_horsearcher"></MenAtArm> 
 
-		<MenAtArm type="Retinue Archers" key="gon_ithilien_rangers"></MenAtArm>
+		<MenAtArm type="Retinue Archers" key="los_refugearcher"></MenAtArm>
 		<MenAtArm type="Retinue Crossbowmen" key="los_archer"></MenAtArm>
 		<MenAtArm type="Retinue Lancers" key="gon_silver_swan_knights"></MenAtArm>
 		<MenAtArm type="Retinue Outriders" key="hor_horsearcher"></MenAtArm>
-		<MenAtArm type="Retinue Pikemen" key="gon_fountain_guard"></MenAtArm>
-		<MenAtArm type="Retinue Skirmishers" key="gon_lebennin_marines"></MenAtArm>
-		<MenAtArm type="Retinue Vanguard" key="gon_lossarnach_warriors"></MenAtArm>
+		<MenAtArm type="Retinue Pikemen" key="los_pike"></MenAtArm>
+		<MenAtArm type="Retinue Skirmishers" key="los_axethrowers"></MenAtArm>
+		<MenAtArm type="Retinue Vanguard" key="los_heavyaxe"></MenAtArm>
 		<MenAtArm type="House Guard" key="gon_fountain_guard"></MenAtArm>
 	</Faction>
 	
@@ -1357,8 +1379,8 @@
 		<General key="iml_guards"></General>
 		<Knights key="iml_horse_rangers"></Knights>
 		
-		<Levies type="Levy Spearmen" key="exe_iml_sword_infantry"></Levies>
-		<Levies type="Levy Infantry" key="exe_iml_sword_infantry"></Levies>
+		<Levies type="Levy Spearmen" key="exe_iml_spearmen"></Levies>
+		<Levies type="Levy Infantry" key="iml_swordsmen"></Levies>
 		<Levies type="Levy Ranged" key="exe_iml_warriors"></Levies> 
 		
 		<MenAtArm type="Light Footmen" key="iml_swordsmen"></MenAtArm>

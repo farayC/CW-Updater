@@ -9,7 +9,7 @@
 		<Culture name="Gallo-Roman" faction="Rome GALLO"></Culture>
         <Culture name="Afro-Roman" faction="Rome AFRO"></Culture>
 		<Culture name="Mauro-Roman" faction="Rome AFRO"></Culture>
-		<Culture name="Britano-Roman" faction="Rome BRITANORome BRITANO"></Culture>
+		<Culture name="Britano-Roman" faction="Rome BRITANO"></Culture>
 		<Culture name="Thracio-Roman" faction="Rome THRACIO"></Culture>
         <Culture name="Dacio-Roman" faction="Rome THRACIO"></Culture>
 		<Culture name="Hispano-Roman" faction="Rome HISPANO"></Culture>

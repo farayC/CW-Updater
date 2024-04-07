@@ -54,7 +54,8 @@
         <Culture name="Dunmen" faction="Dunlending"></Culture>
 		<Culture name="Dunlending" faction="Dunlending"></Culture>
 		<Culture name="Adornaen" faction="Dunlending"></Culture>
-		<Culture name="Isengard Dunlending" faction="Dunlending"></Culture>
+		<Culture name="Isengard Dunlending" faction="Dunlending"></Culture> 
+		<Culture name="Isengarder" faction="Isengard"></Culture>
 		<Culture name="Daen Coentis" faction="Dunlending"></Culture>
 		<Culture name="Coenfir" faction="Dunlending"></Culture>
         <Culture name="Coenmor" faction="Dunlending"></Culture>

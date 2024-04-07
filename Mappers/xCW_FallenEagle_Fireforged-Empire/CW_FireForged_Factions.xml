@@ -2,22 +2,22 @@
 <FactionsGroups>
 
 	<Faction name="Default">
-		<General key="rex_candidati" max="CAVALRY" script="general_unit_"></General>
-		<Knights key="rex_rom_schola_armaturarum" max="CAVALRY" script="general_knights_unit_"></Knights>
+		<General key="att_rom_protectores_domestici" max="CAVALRY" script="general_unit_"></General>
+		<Knights key="att_rom_comes" max="CAVALRY" script="general_knights_unit_"></Knights>
 		
 		<Levies type="Levy Spearmen" key="rex_praeventores" max="LEVY" script="levy_spearmen_unit_"></Levies>
 		<Levies type="Levy Infantry" key="rex_rom_legionis_romanenses" max="LEVY" script="levy_infantry_unit_"></Levies>
-		<Levies type="Levy Ranged" key="rex_rom_legionis_sagittarii" max="LEVY" script="levy_ranged_unit_"></Levies>
+		<Levies type="Levy Ranged" key="rex_rom_legionis_mattiarii_iuniores" max="LEVY" script="levy_ranged_unit_"></Levies>
 		
 		<MenAtArm type="Light Footmen" key="rex_rom_auxiliarii_bructeri" max="INFANTRY" script="light_footmen_unit_"></MenAtArm>
 		<MenAtArm type="Armored Footmen" key="rex_rom_legionis_valentinianenses" max="INFANTRY" script="armored_footmen_unit_"></MenAtArm>
 		<MenAtArm type="Pikemen" key="rex_rom_legionis_armigeri_defensores_seniores" max="INFANTRY" script="pikemen_unit_"></MenAtArm>
-		<MenAtArm type="Bowmen" key="rex_rom_millites_ball" max="RANGED" script="bowmen_unit_"></MenAtArm>
+		<MenAtArm type="Bowmen" key="rex_rom_sagittarii_lecti" max="RANGED" script="bowmen_unit_"></MenAtArm>
 		
 		<MenAtArm type="Crossbowmen" key="rex_rom_millites_ball" max="RANGED" script="crossbowmen_unit_"></MenAtArm>
 		<MenAtArm type="Light Horsemen" key="rex_rom_equites_scutarii" max="CAVALRY" script="light_horsemen_unit_"></MenAtArm>
 		<MenAtArm type="Armored Horsemen" key="rex_rom_comites_catafractarii_bucellarii_iuniores" max="CAVALRY" script="armored_horsemen_unit_"></MenAtArm>
-        <MenAtArm type="House Guard" key="rex_protector_domesticus_pedites" max="INFANTRY" script="house_guard_unit_"></MenAtArm>   		
+        <MenAtArm type="House Guard" key="att_rom_magister_militum" max="INFANTRY" script="house_guard_unit_"></MenAtArm>   		
 
 		<MenAtArm type="Abudrar" key="rex_des_desert_levy" max="INFANTRY" script="abudrar_unit_"></MenAtArm>			
         <MenAtArm type="African Horse Archers" key="rex_des_desert_imazighen" max="CAVALRY" script="african_horse_archers_unit_"></MenAtArm>
